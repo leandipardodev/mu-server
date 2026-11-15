@@ -1,0 +1,44 @@
+// [Noria] Potion Fairy
+14 1 0 100 0 0 0 //Small Heal Pot+7
+14 2 0 100 0 0 0 //Medium Heal Pot+7
+14 3 0 100 0 0 0 //Large Heal Pot+7
+14 4 0 100 0 0 0 //Small Mana Pot+7
+14 5 0 100 0 0 0 //Medium Mana Pot+7
+14 6 0 100 0 0 0 //Large Mana Pot+7
+14 8 0 100 0 0 0 //Antidote+7
+14 1 0 255 0 0 0 //Small Heal Pot+7
+14 2 0 255 0 0 0 //Medium Heal Pot+7
+14 3 0 255 0 0 0 //Large Heal Pot+7
+14 4 0 255 0 0 0 //Small Mana Pot+7
+14 5 0 255 0 0 0 //Medium Mana Pot+7
+14 6 0 255 0 0 0 //Large Mana Pot+7
+14 8 0 255 0 0 0 //Antidote+7
+14 17 1 0 0 0 0 //Devil Eye+1
+14 17 2 0 0 0 0 //Devil Eye+2
+14 17 3 0 0 0 0 //Devil Eye+3
+14 17 4 0 0 0 0 //Devil Eye+4
+14 17 5 0 0 0 0 //Devil Eye+5
+14 17 6 0 0 0 0 //Devil Eye+6
+7 10 0 22 0 0 0 //Vine Helm+0+12+Luck
+7 11 0 26 0 0 0 //Silk Helm+0+12+Luck
+//7 12 0 32 0 1 3 //Wind Helm+0+12+Luck
+//7 13 0 38 0 1 3 //Spirit Helm+0+12+Luck
+8 10 0 22 0 0 0 //Vine Armor+0+12+Luck
+8 11 0 26 0 0 0 //Silk Armor+0+12+Luck
+//8 12 0 32 0 1 3 //Wind Armor+0+12+Luck
+//8 13 0 38 0 1 3 //Spirit Armor+0+12+Luck
+10 10 0 22 0 0 0 //Vine Gloves+0+12+Luck
+10 11 0 26 0 0 0 //Silk Gloves+0+12+Luck
+//10 12 0 32 0 1 3 //Wind Gloves+0+12+Luck
+//10 13 0 38 0 1 3 //Spirit Gloves+0+12+Luck
+9 10 0 22 0 0 0 //Vine Pants+0+12+Luck
+9 11 0 26 0 0 0 //Silk Pants+0+12+Luck
+//9 12 0 32 0 1 3 //Wind Pants+0+12+Luck
+//9 13 0 38 0 1 3 //Spirit Pants+0+12+Luck
+11 10 0 22 0 0 0 //Vine Boots+0+12+Luck
+11 11 0 26 0 0 0 //Silk Boots+0+12+Luck
+//11 12 0 32 0 1 3 //Wind Boots+0+12+Luck
+//11 13 0 38 0 1 3 //Spirit Boots+0+12+Luck
+//14 16 0 0 0 0 0 //Jewel of Life
+//14 13 0 0 0 0 0 //Jewel of Bles
+end

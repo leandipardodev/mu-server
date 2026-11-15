@@ -1,0 +1,1 @@
+¡Bienvenido %s a Mu Nega! Escribi /move - /reset - /post

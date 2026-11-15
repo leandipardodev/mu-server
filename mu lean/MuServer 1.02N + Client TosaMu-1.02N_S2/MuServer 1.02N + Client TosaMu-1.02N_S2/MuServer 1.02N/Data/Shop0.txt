@@ -1,0 +1,35 @@
+7 5 7 255 0 1 16  //leather helm
+8 5 7 255 0 1 16  //leather armor
+9 5 7 255 0 1 16  //leather pants
+10 5 7 255 0 1 16  //leather gloves
+11 5 7 255 0 1 16  //leather boots
+7 0 7 255 0 1 16  //bronze helm
+8 0 7 255 0 1 16  //bronze armor
+9 0 7 255 0 1 16  //bronze pants
+10 0 7 255 0 1 16  //bronze gloves
+11 0 7 255 0 1 16  //bronze boots
+7 6 7 255 0 1 16  //scale helm
+8 6 7 255 0 1 16  //scale armor
+9 6 7 255 0 1 16  //scale pants
+10 6 7 255 0 1 16  //scale gloves
+11 6 7 255 0 1 16  //scale boots
+7 8 7 255 0 1 16  //brass helm
+8 8 7 255 0 1 16  //brass armor
+9 8 7 255 0 1 16  //brass pants
+10 8 7 255 0 1 16  //brass gloves
+11 8 7 255 0 1 16  //brass boots
+12 13 0 255 0 0 0  // Impale+0+0
+12 14 0 255 0 0 0  // Greater Fortitude+0+0
+12 19 0 255 0 0 0  // Death Stab+0+0
+12 12 0 255 0 0 0  // Rageful Blow+0+0
+12 7 0 255 0 0 0  // Twisting Splash+0+0
+2 0 7 255 1 1 4  // Mace+7+16+skill+luck
+2 1 7 255 1 1 4  // Morning Star+7+16+skill+luck
+2 2 7 255 1 1 4  // Flail+7+16+skill+luck
+0 0 7 255 1 1 4  // Short Sword+7+16+skill+luck
+0 1 7 255 1 1 4  // Kris+7+16+skill+luck
+0 2 7 255 1 1 4  // Rapier+7+16+skill+luck
+0 3 7 255 1 1 4  // Katana+7+16+skill+luck
+0 5 7 255 1 1 4  // Blade+7+16+skill+luck
+
+end

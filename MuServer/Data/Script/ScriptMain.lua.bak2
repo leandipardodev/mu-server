@@ -1,0 +1,100 @@
+
+
+function OnReadScript()
+end
+
+
+function OnShutScript()
+
+end
+
+
+function OnTimerThread()
+end
+
+
+function OnCommandManager(aIndex,code,arg)
+
+
+    return 0;
+end
+
+
+function OnCommandDone(aIndex,code)
+
+
+end
+
+
+function OnCharacterEntry(aIndex)
+
+	local UserMax  = GetGameServerMaxUser()
+	
+	local User = GetGameServerCurUser()
+
+
+	NoticeSend(aIndex,1,string.format("Players ON: %d / %d", User, UserMax))
+
+end
+
+
+function OnCharacterClose(aIndex)
+
+end
+
+
+function OnNpcTalk(aIndex,bIndex)
+
+	return 0
+
+end
+
+
+function OnMonsterDie(aIndex,bIndex)
+
+end
+
+
+function OnUserDie(aIndex,bIndex)
+
+end
+
+
+function OnUserRespawn(aIndex,KillerType)
+
+
+end
+
+
+function OnCheckUserTarget(aIndex,bIndex)
+
+	return 1
+
+end
+
+
+function OnCheckUserKiller(aIndex,bIndex)
+	return 1
+
+end
+
+
+function OnUserItemPick(aIndex,index)
+	
+	return 1
+	
+end
+
+
+function OnUserItemDrop(aIndex,index,x,y)
+	
+	return 1
+	
+end
+
+
+function OnUserItemMove(aIndex,aFlag,aSlot,bFlag,bSlot)
+	
+	return 1
+	
+end

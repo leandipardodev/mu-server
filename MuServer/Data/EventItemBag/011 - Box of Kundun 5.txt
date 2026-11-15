@@ -1,0 +1,66 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 5"	 0              100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+7	    21      0	       0	 0	  1      0	  2 //Excellent Great Dragon Helm
+8	    21	    0	       0	 0	  1      0	  2 //Excellent Great Dragon Armor
+9	    21	    0	       0	 0	  1      0	  2 //Excellent Great Dragon Pants
+10	    21	    0	       0	 0	  1      0	  2 //Excellent Great Dragon Gloves
+11	    21	    0	       0	 0	  1      0	  2 //Excellent Great Dragon Boots 
+7	    21      0	       0	 0	  1      0	  1 //Excellent Great Dragon Helm
+8	    21	    0	       0	 0	  1      0	  1 //Excellent Great Dragon Armor
+9	    21	    0	       0	 0	  1      0	  1 //Excellent Great Dragon Pants
+10	    21	    0	       0	 0	  1      0	  1 //Excellent Great Dragon Gloves
+11	    21	    0	       0	 0	  1      0	  1 //Excellent Great Dragon Boots
+7	    22      0	       0	 0	  1      0	  2 //Excellent Dark Soul Helm
+8	    22	    0	       0	 0	  1      0	  2 //Excellent Dark Soul Armor
+9	    22	    0	       0	 0	  1      0	  2 //Excellent Dark Soul Pants
+10	    22	    0	       0	 0	  1      0	  2 //Excellent Dark Soul Gloves
+11	    22	    0	       0	 0	  1      0	  2 //Excellent Dark Soul Boots 
+7	    22      0	       0	 0	  1      0	  1 //Excellent Dark Soul Helm
+8	    22	    0	       0	 0	  1      0	  1 //Excellent Dark Soul Armor
+9	    22	    0	       0	 0	  1      0	  1 //Excellent Dark Soul Pants
+10	    22	    0	       0	 0	  1      0	  1 //Excellent Dark Soul Gloves
+11	    22	    0	       0	 0	  1      0	  1 //Excellent Dark Soul Boots
+7	    24      0	       0	 0	  1      0	  2 //Excellent Red Spirit Helm
+8	    24	    0	       0	 0	  1      0	  2 //Excellent Red Spirit Armor
+9	    24	    0	       0	 0	  1      0	  2 //Excellent Red Spirit Pants
+10	    24	    0	       0	 0	  1      0	  2 //Excellent Red Spirit Gloves
+11	    24	    0	       0	 0	  1      0	  2 //Excellent Red Spirit Boots
+7	    24      0	       0	 0	  1      0	  1 //Excellent Red Spirit Helm
+8	    24	    0	       0	 0	  1      0	  1 //Excellent Red Spirit Armor
+9	    24	    0	       0	 0	  1      0	  1 //Excellent Red Spirit Pants
+10	    24	    0	       0	 0	  1      0	  1 //Excellent Red Spirit Gloves
+11	    24	    0	       0	 0	  1      0	  1 //Excellent Red Spirit Boots
+8	    23	    0	       0	 0	  1      0	  2 //Excellent Red Hurricane Armor
+9	    23	    0	       0	 0	  1      0	  2 //Excellent Red Hurricane Pants
+10	    23	    0	       0	 0	  1      0	  2 //Excellent Red Hurricane Gloves
+11	    23	    0	       0	 0	  1      0	  2 //Excellent Red Hurricane Boots
+8	    23	    0	       0	 0	  1      0	  1 //Excellent Red Hurricane Armor
+9	    23	    0	       0	 0	  1      0	  1 //Excellent Red Hurricane Pants
+10	    23	    0	       0	 0	  1      0	  1 //Excellent Red Hurricane Gloves
+11	    23	    0	       0	 0	  1      0	  1 //Excellent Red Hurricane Boots
+7	    28      0	       0	 0	  1      0	  2 //Excellent Dark Master Helm
+8	    28	    0	       0	 0	  1      0	  2 //Excellent Dark Master Armor
+9	    28	    0	       0	 0	  1      0	  2 //Excellent Dark Master Pants
+10	    28	    0	       0	 0	  1      0	  2 //Excellent Dark Master Gloves
+11	    28	    0	       0	 0	  1      0	  2 //Excellent Dark Master Boots
+7	    28      0	       0	 0	  1      0	  1 //Excellent Dark Master Helm
+8	    28	    0	       0	 0	  1      0	  1 //Excellent Dark Master Armor
+9	    28	    0	       0	 0	  1      0	  1 //Excellent Dark Master Pants
+10	    28	    0	       0	 0	  1      0	  1 //Excellent Dark Master Gloves
+11	    28	    0	       0	 0	  1      0	  1 //Excellent Dark Master Boots
+0	    20	    0	       0	 1	  1      0	  2 //Excellent  Knight Blade
+5	    11	    0	       0	 1	  1      0	  2 //Excellent Kundun Staff
+5	    20	    0	       0	 1	  1      0	  2 //Excellent Arrow Viper Bow 
+0	    21	    0	       0	 1	  1      0	  2 //Excellent Dark Reign Blade
+2	    12	    0	       0	 1	  1      0	  2 //Excellent Great Lord Scepter
+0	    20	    0	       0	 1	  1      0	  1 //Excellent  Knight Blade
+5	    11	    0	       0	 1	  1      0	  1 //Excellent Kundun Staff
+5	    20	    0	       0	 1	  1      0	  1 //Excellent Arrow Viper Bow 
+0	    21	    0	       0	 1	  1      0	  1 //Excellent Dark Reign Blade
+2	    12	    0	       0	 1	  1      0	  1 //Excellent Great Lord Scepter
+end

@@ -1,0 +1,8 @@
+//Message													Type	Count	Opacity	Delay	Red	Green	Blue	Speed	RepeatTime
+"Reset: nivel 400 + 35M de zen = +1000 puntos. Mantenés los stats."	10	1	255	0	255	255	0	10	20
+"/pick zen junta el zen solo. También /pick bless, /pick soul."	11	1	255	0	0	255	255	10	45
+"/offattack: tu pj sigue peleando desconectado (gasta zen)."	12	1	255	0	0	255	0	10	62
+"/store abre tu tienda; /offstore la deja abierta al salir."	13	1	255	0	255	128	0	10	73
+"/bau 1 y /bau 2: cambiá de baúl para guardar más ítems."	14	1	255	0	180	180	255	10	120
+"/pk limpia el estado asesino (50M de zen). Los GM avisan con !"	15	1	255	0	255	0	255	10	180
+end

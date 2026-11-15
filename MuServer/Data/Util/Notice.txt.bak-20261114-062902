@@ -1,0 +1,8 @@
+//Message																			Type	Count	Opacity	Delay	Red	Green	Blue	Speed	RepeatTime
+"COMANDOS: /move viaja - /reset en nivel 400 - /post habla con todos"	10	1	255	0	255	255	0	10	20
+"/pick zen junta el zen solo. Escribi /pick zen y listo"	11	1	255	0	0	255	255	10	45
+"Reset: nivel 400 + 35M de zen = +1000 puntos para repartir"	12	1	255	0	0	255	0	10	62
+"Desde el reset 51 necesitas Fruits (Chaos Machine)"	13	1	255	0	255	128	0	10	73
+"/store abre tu tienda - /offstore la deja abierta al salir"	14	1	255	0	255	0	255	10	120
+"/attack pelea solo - /offattack sigue peleando desconectado"	15	1	255	0	180	180	255	10	240
+end

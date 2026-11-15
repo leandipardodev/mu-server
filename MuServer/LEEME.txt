@@ -1,0 +1,22 @@
+Esta carpeta (MuServer/) es donde va TODO el contenido del repack 1.02N.
+
+Pasos:
+  1. Descargá un repack 1.02N (ver ../docs/01-obtener-archivos.md).
+  2. Descomprimí su contenido ACÁ ADENTRO.
+  3. Deberías ver carpetas como: ConnectServer/, JoinServer/,
+     DataServer1/, DataServer2/, GameServer/, GameServerCS/,
+     EventServer/, RankingServer/, ExDB/ ...
+
+  4. Copiá los .bak de las bases a: ../sql/bak/
+     (MuOnline.bak, Me_MuOnline.bak, Ranking.bak)
+
+  5. Ajustá las rutas en ../scripts/iniciar-servidor.ps1 si los nombres
+     de los .exe son distintos.
+
+  6. Configurá IPs y conexiones a base de datos:
+     ver ../docs/03-configurar-muserver.md
+
+IMPORTANTE:
+  - NO ejecutes estos .exe sin antes auditarlos (../docs/06-seguridad.md).
+  - El antivirus los va a marcar. Es normal en repacks, pero hay que
+    verificar que no sean backdoors reales.

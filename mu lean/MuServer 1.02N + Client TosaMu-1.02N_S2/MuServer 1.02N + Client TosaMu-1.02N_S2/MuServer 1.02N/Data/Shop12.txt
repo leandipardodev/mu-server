@@ -1,0 +1,17 @@
+// 데비아스 미정 (222
+221)_오후 2:47 2004-08-05_정동일
+// type index level dur op1 op2 op3
+
+14 0 5 20 0 0 0 //Apple+5
+14 1 5 20 0 0 0 //Small Heal Pot+5
+14 2 5 20 0 0 0 //Medium Heal Pot+5
+14 3 5 20 0 0 0 //Large Heal Pot+5
+14 4 5 20 0 0 0 //Small Mana Pot+5
+14 5 5 20 0 0 0 //Medium Mana Pot+5
+14 6 5 20 0 0 0 //Large Mana Pot+5
+14 8 5 20 0 0 0 //Antidote+5
+14 9 0 0 0 0 0 //Alcohol
+14 10 0 0 0 0 0 //Town Scroll
+//14	12	0	0	0	0	0	//懃裂션壘
+14 20 0 0 0 0 0 //Love Charm
+end

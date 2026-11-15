@@ -1,0 +1,2204 @@
+00:42:07 [ServerInfo] ChaosMix loaded successfully
+00:42:07 [ServerInfo] Character loaded successfully
+00:42:07 [ServerInfo] Command loaded successfully
+00:42:07 [ServerInfo] Common loaded successfully
+00:42:07 [ServerInfo] Custom loaded successfully
+00:42:07 [ServerInfo] Event loaded successfully
+00:42:07 [ServerInfo] EventItemBag loaded successfully
+00:42:07 [ServerInfo] Hack loaded successfully
+00:42:07 [ServerInfo] Item loaded successfully
+00:42:07 [ServerInfo] Monster loaded successfully
+00:42:07 [ServerInfo] Move loaded successfully
+00:42:07 [ServerInfo] Quest loaded successfully
+00:42:07 [ServerInfo] Shop loaded successfully
+00:42:07 [ServerInfo] Skill loaded successfully
+00:42:07 [ServerInfo] Util loaded successfully
+00:42:07 [Blood Castle] (1) Sync Start Time. [17] min remain
+00:42:07 [Blood Castle] (1) SetState EMPTY
+00:42:07 [Blood Castle] (2) Sync Start Time. [17] min remain
+00:42:07 [Blood Castle] (2) SetState EMPTY
+00:42:07 [Blood Castle] (3) Sync Start Time. [17] min remain
+00:42:07 [Blood Castle] (3) SetState EMPTY
+00:42:07 [Blood Castle] (4) Sync Start Time. [17] min remain
+00:42:07 [Blood Castle] (4) SetState EMPTY
+00:42:07 [Blood Castle] (5) Sync Start Time. [17] min remain
+00:42:07 [Blood Castle] (5) SetState EMPTY
+00:42:07 [Blood Castle] (6) Sync Start Time. [17] min remain
+00:42:07 [Blood Castle] (6) SetState EMPTY
+00:42:07 [Blood Castle] (7) Sync Start Time. [17] min remain
+00:42:07 [Blood Castle] (7) SetState EMPTY
+00:42:07 [Castle Deep] SetState BLANK
+00:42:07 [Chaos Castle] (1) Sync Start Time. [137] min remain
+00:42:07 [Chaos Castle] (1) SetState EMPTY
+00:42:07 [Chaos Castle] (2) Sync Start Time. [137] min remain
+00:42:07 [Chaos Castle] (2) SetState EMPTY
+00:42:07 [Chaos Castle] (3) Sync Start Time. [137] min remain
+00:42:07 [Chaos Castle] (3) SetState EMPTY
+00:42:07 [Chaos Castle] (4) Sync Start Time. [137] min remain
+00:42:07 [Chaos Castle] (4) SetState EMPTY
+00:42:07 [Chaos Castle] (5) Sync Start Time. [137] min remain
+00:42:07 [Chaos Castle] (5) SetState EMPTY
+00:42:07 [Chaos Castle] (6) Sync Start Time. [137] min remain
+00:42:07 [Chaos Castle] (6) SetState EMPTY
+00:42:07 [Devil Square] (1) Sync Start Time. [77] min remain
+00:42:07 [Devil Square] (1) SetState EMPTY
+00:42:07 [Devil Square] (2) Sync Start Time. [77] min remain
+00:42:07 [Devil Square] (2) SetState EMPTY
+00:42:07 [Devil Square] (3) Sync Start Time. [77] min remain
+00:42:07 [Devil Square] (3) SetState EMPTY
+00:42:07 [Devil Square] (4) Sync Start Time. [77] min remain
+00:42:07 [Devil Square] (4) SetState EMPTY
+00:42:07 [Devil Square] (5) Sync Start Time. [77] min remain
+00:42:07 [Devil Square] (5) SetState EMPTY
+00:42:07 [Devil Square] (6) Sync Start Time. [77] min remain
+00:42:07 [Devil Square] (6) SetState EMPTY
+00:42:07 [Illusion Temple] (1) SetState BLANK
+00:42:07 [Illusion Temple] (2) SetState BLANK
+00:42:07 [Illusion Temple] (3) SetState BLANK
+00:42:07 [Illusion Temple] (4) SetState BLANK
+00:42:07 [Illusion Temple] (5) SetState BLANK
+00:42:07 [Illusion Temple] (6) SetState BLANK
+00:42:08 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+00:42:08 [ KANTURU ] State(0) -> STANDBY
+00:42:08 [ KANTURU ][ BattleStanby ] State(0) -> START
+00:42:19 [ObjectManager][9000] AddClient (192.168.0.85)
+00:42:23 [ObjectManager][9000] AddAccountInfo (lean009)
+00:42:25 [ObjectManager][9000] AddCharacterInfo (Nega)
+00:42:39 [ObjectManager][9000] DelCharacterInfo (Nega)
+00:42:39 [ObjectManager][9000] DelAccountInfo (lean009)
+00:42:39 [ObjectManager][9000] DelClient (192.168.0.85)
+00:45:27 [ObjectManager][9000] AddClient (192.168.0.85)
+00:45:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:45:32 [ObjectManager][9000] AddAccountInfo (lean009)
+00:45:34 [ObjectManager][9000] DelCharacterInfo (Nega)
+00:45:34 [ObjectManager][9000] DelAccountInfo (lean009)
+00:45:34 [ObjectManager][9000] DelClient (192.168.0.85)
+00:46:26 [ KANTURU ][ BattleStanby ] State(2) -> END
+00:46:26 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+00:46:26 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+00:46:26 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+00:46:26 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+00:48:25 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+00:48:25 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+00:48:25 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+00:48:25 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+00:48:27 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+00:48:27 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+00:48:27 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+00:48:27 [ KANTURU ] State(2) -> END
+00:48:28 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+00:48:28 [ KANTURU ] State(5) -> NONE
+00:48:28 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+00:48:28 [ KANTURU ] State(0) -> STANDBY
+00:48:28 [ KANTURU ][ BattleStanby ] State(0) -> START
+00:48:56 [ObjectManager][9000] AddClient (192.168.0.85)
+00:48:56 [ObjectManager][9000] AddAccountInfo (lean009)
+00:48:56 [ObjectManager][9000] AddCharacterInfo (Nega)
+00:49:13 [ObjectManager][9000] DelCharacterInfo (Nega)
+00:49:13 [ObjectManager][9000] DelAccountInfo (lean009)
+00:49:13 [ObjectManager][9000] DelClient (192.168.0.85)
+00:51:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:52:14 [ObjectManager][9000] AddClient (192.168.0.85)
+00:52:14 [ObjectManager][9000] AddAccountInfo (lean009)
+00:52:14 [ObjectManager][9000] AddCharacterInfo (Nega)
+00:52:43 [ObjectManager][9000] DelCharacterInfo (Nega)
+00:52:43 [ObjectManager][9000] DelAccountInfo (lean009)
+00:52:43 [ObjectManager][9000] DelClient (192.168.0.85)
+00:52:46 [ KANTURU ][ BattleStanby ] State(2) -> END
+00:52:46 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+00:52:46 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+00:52:46 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+00:52:46 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+00:53:55 [ServerInfo] ChaosMix loaded successfully
+00:53:55 [ServerInfo] Character loaded successfully
+00:53:55 [ServerInfo] Command loaded successfully
+00:53:55 [ServerInfo] Common loaded successfully
+00:53:55 [ServerInfo] Custom loaded successfully
+00:53:55 [ServerInfo] Event loaded successfully
+00:53:55 [ServerInfo] EventItemBag loaded successfully
+00:53:55 [ServerInfo] Hack loaded successfully
+00:53:55 [ServerInfo] Item loaded successfully
+00:53:56 [ServerInfo] Monster loaded successfully
+00:53:56 [ServerInfo] Move loaded successfully
+00:53:56 [ServerInfo] Quest loaded successfully
+00:53:56 [ServerInfo] Shop loaded successfully
+00:53:56 [ServerInfo] Skill loaded successfully
+00:53:56 [ServerInfo] Util loaded successfully
+00:53:56 [Blood Castle] (1) Sync Start Time. [6] min remain
+00:53:56 [Blood Castle] (1) SetState EMPTY
+00:53:56 [Blood Castle] (2) Sync Start Time. [6] min remain
+00:53:56 [Blood Castle] (2) SetState EMPTY
+00:53:56 [Blood Castle] (3) Sync Start Time. [6] min remain
+00:53:56 [Blood Castle] (3) SetState EMPTY
+00:53:56 [Blood Castle] (4) Sync Start Time. [6] min remain
+00:53:56 [Blood Castle] (4) SetState EMPTY
+00:53:56 [Blood Castle] (5) Sync Start Time. [6] min remain
+00:53:56 [Blood Castle] (5) SetState EMPTY
+00:53:56 [Blood Castle] (6) Sync Start Time. [6] min remain
+00:53:56 [Blood Castle] (6) SetState EMPTY
+00:53:56 [Blood Castle] (7) Sync Start Time. [6] min remain
+00:53:56 [Blood Castle] (7) SetState EMPTY
+00:53:56 [Castle Deep] SetState BLANK
+00:53:56 [Chaos Castle] (1) Sync Start Time. [126] min remain
+00:53:56 [Chaos Castle] (1) SetState EMPTY
+00:53:56 [Chaos Castle] (2) Sync Start Time. [126] min remain
+00:53:56 [Chaos Castle] (2) SetState EMPTY
+00:53:56 [Chaos Castle] (3) Sync Start Time. [126] min remain
+00:53:56 [Chaos Castle] (3) SetState EMPTY
+00:53:56 [Chaos Castle] (4) Sync Start Time. [126] min remain
+00:53:56 [Chaos Castle] (4) SetState EMPTY
+00:53:56 [Chaos Castle] (5) Sync Start Time. [126] min remain
+00:53:56 [Chaos Castle] (5) SetState EMPTY
+00:53:56 [Chaos Castle] (6) Sync Start Time. [126] min remain
+00:53:56 [Chaos Castle] (6) SetState EMPTY
+00:53:56 [Devil Square] (1) Sync Start Time. [66] min remain
+00:53:56 [Devil Square] (1) SetState EMPTY
+00:53:56 [Devil Square] (2) Sync Start Time. [66] min remain
+00:53:56 [Devil Square] (2) SetState EMPTY
+00:53:56 [Devil Square] (3) Sync Start Time. [66] min remain
+00:53:56 [Devil Square] (3) SetState EMPTY
+00:53:56 [Devil Square] (4) Sync Start Time. [66] min remain
+00:53:56 [Devil Square] (4) SetState EMPTY
+00:53:56 [Devil Square] (5) Sync Start Time. [66] min remain
+00:53:56 [Devil Square] (5) SetState EMPTY
+00:53:56 [Devil Square] (6) Sync Start Time. [66] min remain
+00:53:56 [Devil Square] (6) SetState EMPTY
+00:53:56 [Illusion Temple] (1) SetState BLANK
+00:53:56 [Illusion Temple] (2) SetState BLANK
+00:53:56 [Illusion Temple] (3) SetState BLANK
+00:53:56 [Illusion Temple] (4) SetState BLANK
+00:53:56 [Illusion Temple] (5) SetState BLANK
+00:53:56 [Illusion Temple] (6) SetState BLANK
+00:53:57 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+00:53:57 [ KANTURU ] State(0) -> STANDBY
+00:53:57 [ KANTURU ][ BattleStanby ] State(0) -> START
+00:57:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:58:15 [ KANTURU ][ BattleStanby ] State(2) -> END
+00:58:15 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+00:58:15 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+00:58:15 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+00:58:15 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:00:00 [Blood Castle] (1) SetState STAND
+01:00:00 [Blood Castle] (2) SetState STAND
+01:00:00 [Blood Castle] (3) SetState STAND
+01:00:00 [Blood Castle] (4) SetState STAND
+01:00:00 [Blood Castle] (5) SetState STAND
+01:00:00 [Blood Castle] (6) SetState STAND
+01:00:00 [Blood Castle] (7) SetState STAND
+01:00:01 [Blood Castle] (1) Not enough users
+01:00:01 [Blood Castle] (1) Sync Start Time. [179] min remain
+01:00:01 [Blood Castle] (1) SetState EMPTY
+01:00:01 [Blood Castle] (2) Not enough users
+01:00:01 [Blood Castle] (2) Sync Start Time. [179] min remain
+01:00:01 [Blood Castle] (2) SetState EMPTY
+01:00:01 [Blood Castle] (3) Not enough users
+01:00:01 [Blood Castle] (3) Sync Start Time. [179] min remain
+01:00:01 [Blood Castle] (3) SetState EMPTY
+01:00:01 [Blood Castle] (4) Not enough users
+01:00:01 [Blood Castle] (4) Sync Start Time. [179] min remain
+01:00:01 [Blood Castle] (4) SetState EMPTY
+01:00:01 [Blood Castle] (5) Not enough users
+01:00:01 [Blood Castle] (5) Sync Start Time. [179] min remain
+01:00:01 [Blood Castle] (5) SetState EMPTY
+01:00:01 [Blood Castle] (6) Not enough users
+01:00:01 [Blood Castle] (6) Sync Start Time. [179] min remain
+01:00:01 [Blood Castle] (6) SetState EMPTY
+01:00:01 [Blood Castle] (7) Not enough users
+01:00:01 [Blood Castle] (7) Sync Start Time. [179] min remain
+01:00:01 [Blood Castle] (7) SetState EMPTY
+01:00:14 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:00:14 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:00:14 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:00:14 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:00:16 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:00:16 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:00:16 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:00:16 [ KANTURU ] State(2) -> END
+01:00:16 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:00:16 [ KANTURU ] State(5) -> NONE
+01:00:16 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:00:16 [ KANTURU ] State(0) -> STANDBY
+01:00:16 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:03:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:04:35 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:04:35 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:04:35 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:04:35 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:04:35 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:06:34 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:06:34 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:06:34 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:06:34 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:06:36 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:06:36 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:06:36 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:06:36 [ KANTURU ] State(2) -> END
+01:06:36 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:06:36 [ KANTURU ] State(5) -> NONE
+01:06:36 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:06:36 [ KANTURU ] State(0) -> STANDBY
+01:06:36 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:09:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:10:54 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:10:54 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:10:54 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:10:54 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:10:54 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:12:53 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:12:53 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:12:53 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:12:53 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:12:55 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:12:56 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:12:56 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:12:56 [ KANTURU ] State(2) -> END
+01:12:56 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:12:56 [ KANTURU ] State(5) -> NONE
+01:12:56 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:12:56 [ KANTURU ] State(0) -> STANDBY
+01:12:56 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:16:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:17:14 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:17:14 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:17:14 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:17:14 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:17:14 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:19:13 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:19:13 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:19:13 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:19:13 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:19:15 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:19:15 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:19:15 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:19:15 [ KANTURU ] State(2) -> END
+01:19:15 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:19:15 [ KANTURU ] State(5) -> NONE
+01:19:15 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:19:15 [ KANTURU ] State(0) -> STANDBY
+01:19:15 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:22:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:23:34 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:23:34 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:23:34 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:23:34 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:23:34 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:25:33 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:25:33 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:25:33 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:25:33 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:25:35 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:25:35 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:25:35 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:25:35 [ KANTURU ] State(2) -> END
+01:25:35 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:25:35 [ KANTURU ] State(5) -> NONE
+01:25:35 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:25:35 [ KANTURU ] State(0) -> STANDBY
+01:25:35 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:28:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:29:53 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:29:53 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:29:53 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:29:53 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:29:53 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:31:52 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:31:52 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:31:52 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:31:52 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:31:55 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:31:55 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:31:55 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:31:55 [ KANTURU ] State(2) -> END
+01:31:55 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:31:55 [ KANTURU ] State(5) -> NONE
+01:31:55 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:31:55 [ KANTURU ] State(0) -> STANDBY
+01:31:55 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:35:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:36:13 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:36:13 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:36:13 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:36:13 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:36:13 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:38:12 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:38:12 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:38:12 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:38:12 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:38:14 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:38:14 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:38:14 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:38:14 [ KANTURU ] State(2) -> END
+01:38:14 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:38:14 [ KANTURU ] State(5) -> NONE
+01:38:14 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:38:14 [ KANTURU ] State(0) -> STANDBY
+01:38:14 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:41:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:42:33 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:42:33 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:42:33 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:42:33 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:42:33 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:44:32 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:44:32 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:44:32 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:44:32 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:44:34 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:44:34 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:44:34 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:44:34 [ KANTURU ] State(2) -> END
+01:44:34 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:44:34 [ KANTURU ] State(5) -> NONE
+01:44:34 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:44:34 [ KANTURU ] State(0) -> STANDBY
+01:44:34 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:47:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:48:52 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:48:52 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:48:52 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:48:52 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:48:52 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:50:51 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:50:51 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:50:51 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:50:51 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:50:54 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:50:54 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:50:54 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:50:54 [ KANTURU ] State(2) -> END
+01:50:54 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:50:54 [ KANTURU ] State(5) -> NONE
+01:50:54 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:50:54 [ KANTURU ] State(0) -> STANDBY
+01:50:54 [ KANTURU ][ BattleStanby ] State(0) -> START
+01:54:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:55:12 [ KANTURU ][ BattleStanby ] State(2) -> END
+01:55:12 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+01:55:12 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+01:55:12 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+01:55:12 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+01:57:11 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+01:57:11 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+01:57:11 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+01:57:11 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+01:57:13 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+01:57:13 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+01:57:13 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+01:57:13 [ KANTURU ] State(2) -> END
+01:57:13 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+01:57:13 [ KANTURU ] State(5) -> NONE
+01:57:13 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+01:57:13 [ KANTURU ] State(0) -> STANDBY
+01:57:13 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:00:00 [Devil Square] (1) SetState STAND
+02:00:00 [Devil Square] (2) SetState STAND
+02:00:00 [Devil Square] (3) SetState STAND
+02:00:00 [Devil Square] (4) SetState STAND
+02:00:00 [Devil Square] (5) SetState STAND
+02:00:00 [Devil Square] (6) SetState STAND
+02:00:01 [Devil Square] (1) Not enough users
+02:00:01 [Devil Square] (1) Sync Start Time. [179] min remain
+02:00:01 [Devil Square] (1) SetState EMPTY
+02:00:01 [Devil Square] (2) Not enough users
+02:00:01 [Devil Square] (2) Sync Start Time. [179] min remain
+02:00:01 [Devil Square] (2) SetState EMPTY
+02:00:01 [Devil Square] (3) Not enough users
+02:00:01 [Devil Square] (3) Sync Start Time. [179] min remain
+02:00:01 [Devil Square] (3) SetState EMPTY
+02:00:01 [Devil Square] (4) Not enough users
+02:00:01 [Devil Square] (4) Sync Start Time. [179] min remain
+02:00:01 [Devil Square] (4) SetState EMPTY
+02:00:01 [Devil Square] (5) Not enough users
+02:00:01 [Devil Square] (5) Sync Start Time. [179] min remain
+02:00:01 [Devil Square] (5) SetState EMPTY
+02:00:01 [Devil Square] (6) Not enough users
+02:00:01 [Devil Square] (6) Sync Start Time. [179] min remain
+02:00:01 [Devil Square] (6) SetState EMPTY
+02:00:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:01:32 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:01:32 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:01:32 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:01:32 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:01:32 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:03:31 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:03:31 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:03:31 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:03:31 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:03:33 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:03:33 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:03:33 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:03:33 [ KANTURU ] State(2) -> END
+02:03:33 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:03:33 [ KANTURU ] State(5) -> NONE
+02:03:33 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:03:33 [ KANTURU ] State(0) -> STANDBY
+02:03:33 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:06:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:07:51 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:07:51 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:07:51 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:07:51 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:07:51 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:09:50 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:09:50 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:09:50 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:09:50 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:09:53 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:09:53 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:09:53 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:09:53 [ KANTURU ] State(2) -> END
+02:09:53 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:09:53 [ KANTURU ] State(5) -> NONE
+02:09:53 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:09:53 [ KANTURU ] State(0) -> STANDBY
+02:09:53 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:13:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:14:11 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:14:11 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:14:11 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:14:11 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:14:11 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:16:10 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:16:10 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:16:10 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:16:10 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:16:12 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:16:12 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:16:12 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:16:12 [ KANTURU ] State(2) -> END
+02:16:12 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:16:12 [ KANTURU ] State(5) -> NONE
+02:16:12 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:16:12 [ KANTURU ] State(0) -> STANDBY
+02:16:12 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:19:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:20:31 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:20:31 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:20:31 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:20:31 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:20:31 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:22:30 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:22:30 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:22:30 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:22:30 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:22:32 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:22:32 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:22:32 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:22:32 [ KANTURU ] State(2) -> END
+02:22:32 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:22:32 [ KANTURU ] State(5) -> NONE
+02:22:32 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:22:32 [ KANTURU ] State(0) -> STANDBY
+02:22:32 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:25:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:26:52 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:26:52 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:26:52 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:26:52 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:26:52 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:28:51 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:28:51 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:28:51 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:28:51 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:28:53 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:28:53 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:28:53 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:28:53 [ KANTURU ] State(2) -> END
+02:28:53 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:28:53 [ KANTURU ] State(5) -> NONE
+02:28:53 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:28:53 [ KANTURU ] State(0) -> STANDBY
+02:28:53 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:32:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:33:11 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:33:12 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:33:12 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:33:12 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:33:12 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:35:11 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:35:11 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:35:11 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:35:11 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:35:13 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:35:13 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:35:13 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:35:13 [ KANTURU ] State(2) -> END
+02:35:13 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:35:13 [ KANTURU ] State(5) -> NONE
+02:35:13 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:35:13 [ KANTURU ] State(0) -> STANDBY
+02:35:13 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:38:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:39:31 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:39:31 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:39:31 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:39:31 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:39:31 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:41:30 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:41:30 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:41:30 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:41:30 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:41:32 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:41:32 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:41:32 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:41:32 [ KANTURU ] State(2) -> END
+02:41:32 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:41:32 [ KANTURU ] State(5) -> NONE
+02:41:32 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:41:32 [ KANTURU ] State(0) -> STANDBY
+02:41:32 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:44:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:45:51 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:45:51 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:45:51 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:45:51 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:45:51 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:47:50 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:47:50 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:47:50 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:47:50 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:47:52 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:47:52 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:47:52 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:47:52 [ KANTURU ] State(2) -> END
+02:47:52 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:47:52 [ KANTURU ] State(5) -> NONE
+02:47:52 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:47:52 [ KANTURU ] State(0) -> STANDBY
+02:47:52 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:51:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:52:10 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:52:10 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:52:10 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:52:10 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:52:10 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+02:54:10 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+02:54:10 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+02:54:10 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+02:54:10 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+02:54:12 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+02:54:12 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+02:54:12 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+02:54:12 [ KANTURU ] State(2) -> END
+02:54:12 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+02:54:12 [ KANTURU ] State(5) -> NONE
+02:54:12 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+02:54:12 [ KANTURU ] State(0) -> STANDBY
+02:54:12 [ KANTURU ][ BattleStanby ] State(0) -> START
+02:57:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:58:30 [ KANTURU ][ BattleStanby ] State(2) -> END
+02:58:30 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+02:58:30 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+02:58:30 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+02:58:30 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:00:00 [Chaos Castle] (1) SetState STAND
+03:00:00 [Chaos Castle] (2) SetState STAND
+03:00:00 [Chaos Castle] (3) SetState STAND
+03:00:00 [Chaos Castle] (4) SetState STAND
+03:00:00 [Chaos Castle] (5) SetState STAND
+03:00:00 [Chaos Castle] (6) SetState STAND
+03:00:01 [Chaos Castle] (1) Not enough users
+03:00:01 [Chaos Castle] (1) Sync Start Time. [179] min remain
+03:00:01 [Chaos Castle] (1) SetState EMPTY
+03:00:01 [Chaos Castle] (2) Not enough users
+03:00:01 [Chaos Castle] (2) Sync Start Time. [179] min remain
+03:00:01 [Chaos Castle] (2) SetState EMPTY
+03:00:01 [Chaos Castle] (3) Not enough users
+03:00:01 [Chaos Castle] (3) Sync Start Time. [179] min remain
+03:00:01 [Chaos Castle] (3) SetState EMPTY
+03:00:01 [Chaos Castle] (4) Not enough users
+03:00:01 [Chaos Castle] (4) Sync Start Time. [179] min remain
+03:00:01 [Chaos Castle] (4) SetState EMPTY
+03:00:01 [Chaos Castle] (5) Not enough users
+03:00:01 [Chaos Castle] (5) Sync Start Time. [179] min remain
+03:00:01 [Chaos Castle] (5) SetState EMPTY
+03:00:01 [Chaos Castle] (6) Not enough users
+03:00:01 [Chaos Castle] (6) Sync Start Time. [179] min remain
+03:00:01 [Chaos Castle] (6) SetState EMPTY
+03:00:29 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:00:29 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:00:29 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:00:29 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:00:31 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:00:31 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:00:31 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:00:31 [ KANTURU ] State(2) -> END
+03:00:32 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:00:32 [ KANTURU ] State(5) -> NONE
+03:00:32 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:00:32 [ KANTURU ] State(0) -> STANDBY
+03:00:32 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:03:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:04:50 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:04:50 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:04:50 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:04:50 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:04:50 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:06:49 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:06:49 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:06:49 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:06:49 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:06:51 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:06:51 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:06:51 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:06:51 [ KANTURU ] State(2) -> END
+03:06:51 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:06:51 [ KANTURU ] State(5) -> NONE
+03:06:51 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:06:51 [ KANTURU ] State(0) -> STANDBY
+03:06:51 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:10:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:11:09 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:11:10 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:11:10 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:11:10 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:11:10 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:13:09 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:13:09 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:13:09 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:13:09 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:13:11 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:13:11 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:13:11 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:13:11 [ KANTURU ] State(2) -> END
+03:13:11 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:13:11 [ KANTURU ] State(5) -> NONE
+03:13:11 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:13:11 [ KANTURU ] State(0) -> STANDBY
+03:13:11 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:16:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:17:29 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:17:29 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:17:29 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:17:29 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:17:29 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:19:28 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:19:28 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:19:28 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:19:28 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:19:30 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:19:30 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:19:30 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:19:30 [ KANTURU ] State(2) -> END
+03:19:31 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:19:31 [ KANTURU ] State(5) -> NONE
+03:19:31 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:19:31 [ KANTURU ] State(0) -> STANDBY
+03:19:31 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:22:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:23:49 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:23:49 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:23:49 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:23:49 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:23:49 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:25:48 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:25:48 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:25:48 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:25:48 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:25:50 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:25:50 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:25:50 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:25:50 [ KANTURU ] State(2) -> END
+03:25:50 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:25:50 [ KANTURU ] State(5) -> NONE
+03:25:50 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:25:50 [ KANTURU ] State(0) -> STANDBY
+03:25:50 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:29:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:30:08 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:30:08 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:30:08 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:30:08 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:30:08 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:32:07 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:32:07 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:32:07 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:32:07 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:32:09 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:32:10 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:32:10 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:32:10 [ KANTURU ] State(2) -> END
+03:32:10 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:32:10 [ KANTURU ] State(5) -> NONE
+03:32:10 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:32:10 [ KANTURU ] State(0) -> STANDBY
+03:32:10 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:35:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:36:28 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:36:28 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:36:28 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:36:28 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:36:28 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:38:27 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:38:27 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:38:27 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:38:27 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:38:29 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:38:29 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:38:29 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:38:29 [ KANTURU ] State(2) -> END
+03:38:29 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:38:29 [ KANTURU ] State(5) -> NONE
+03:38:29 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:38:29 [ KANTURU ] State(0) -> STANDBY
+03:38:29 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:41:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:42:47 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:42:48 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:42:48 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:42:48 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:42:48 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:44:47 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:44:47 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:44:47 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:44:47 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:44:49 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:44:49 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:44:49 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:44:49 [ KANTURU ] State(2) -> END
+03:44:49 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:44:49 [ KANTURU ] State(5) -> NONE
+03:44:49 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:44:49 [ KANTURU ] State(0) -> STANDBY
+03:44:49 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:48:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:49:07 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:49:07 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:49:07 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:49:07 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:49:07 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:51:06 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:51:06 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:51:06 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:51:06 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:51:08 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:51:08 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:51:08 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:51:08 [ KANTURU ] State(2) -> END
+03:51:09 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:51:09 [ KANTURU ] State(5) -> NONE
+03:51:09 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:51:09 [ KANTURU ] State(0) -> STANDBY
+03:51:09 [ KANTURU ][ BattleStanby ] State(0) -> START
+03:54:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:55:27 [ KANTURU ][ BattleStanby ] State(2) -> END
+03:55:27 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+03:55:27 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+03:55:27 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+03:55:27 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+03:57:26 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+03:57:26 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+03:57:26 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+03:57:26 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+03:57:28 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+03:57:28 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+03:57:28 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+03:57:28 [ KANTURU ] State(2) -> END
+03:57:28 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+03:57:28 [ KANTURU ] State(5) -> NONE
+03:57:28 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+03:57:28 [ KANTURU ] State(0) -> STANDBY
+03:57:28 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:00:00 [Blood Castle] (1) SetState STAND
+04:00:00 [Blood Castle] (2) SetState STAND
+04:00:00 [Blood Castle] (3) SetState STAND
+04:00:00 [Blood Castle] (4) SetState STAND
+04:00:00 [Blood Castle] (5) SetState STAND
+04:00:00 [Blood Castle] (6) SetState STAND
+04:00:00 [Blood Castle] (7) SetState STAND
+04:00:01 [Blood Castle] (1) Not enough users
+04:00:01 [Blood Castle] (1) Sync Start Time. [179] min remain
+04:00:01 [Blood Castle] (1) SetState EMPTY
+04:00:01 [Blood Castle] (2) Not enough users
+04:00:01 [Blood Castle] (2) Sync Start Time. [179] min remain
+04:00:01 [Blood Castle] (2) SetState EMPTY
+04:00:01 [Blood Castle] (3) Not enough users
+04:00:01 [Blood Castle] (3) Sync Start Time. [179] min remain
+04:00:01 [Blood Castle] (3) SetState EMPTY
+04:00:01 [Blood Castle] (4) Not enough users
+04:00:01 [Blood Castle] (4) Sync Start Time. [179] min remain
+04:00:01 [Blood Castle] (4) SetState EMPTY
+04:00:01 [Blood Castle] (5) Not enough users
+04:00:01 [Blood Castle] (5) Sync Start Time. [179] min remain
+04:00:01 [Blood Castle] (5) SetState EMPTY
+04:00:01 [Blood Castle] (6) Not enough users
+04:00:01 [Blood Castle] (6) Sync Start Time. [179] min remain
+04:00:01 [Blood Castle] (6) SetState EMPTY
+04:00:01 [Blood Castle] (7) Not enough users
+04:00:01 [Blood Castle] (7) Sync Start Time. [179] min remain
+04:00:01 [Blood Castle] (7) SetState EMPTY
+04:00:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:01:46 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:01:47 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:01:47 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:01:47 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:01:47 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:03:46 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:03:46 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:03:46 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:03:46 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:03:48 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:03:48 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:03:48 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:03:48 [ KANTURU ] State(2) -> END
+04:03:48 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:03:48 [ KANTURU ] State(5) -> NONE
+04:03:48 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:03:48 [ KANTURU ] State(0) -> STANDBY
+04:03:48 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:07:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:08:06 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:08:06 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:08:06 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:08:06 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:08:06 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:10:05 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:10:05 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:10:05 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:10:05 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:10:07 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:10:07 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:10:07 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:10:07 [ KANTURU ] State(2) -> END
+04:10:08 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:10:08 [ KANTURU ] State(5) -> NONE
+04:10:08 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:10:08 [ KANTURU ] State(0) -> STANDBY
+04:10:08 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:13:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:14:26 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:14:26 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:14:26 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:14:26 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:14:26 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:16:25 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:16:25 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:16:25 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:16:25 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:16:27 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:16:27 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:16:27 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:16:27 [ KANTURU ] State(2) -> END
+04:16:27 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:16:27 [ KANTURU ] State(5) -> NONE
+04:16:27 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:16:27 [ KANTURU ] State(0) -> STANDBY
+04:16:27 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:19:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:20:45 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:20:46 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:20:46 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:20:46 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:20:46 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:22:45 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:22:45 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:22:45 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:22:45 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:22:47 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:22:47 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:22:47 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:22:47 [ KANTURU ] State(2) -> END
+04:22:47 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:22:47 [ KANTURU ] State(5) -> NONE
+04:22:47 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:22:47 [ KANTURU ] State(0) -> STANDBY
+04:22:47 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:26:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:27:05 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:27:05 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:27:05 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:27:05 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:27:05 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:29:04 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:29:04 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:29:04 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:29:04 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:29:06 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:29:07 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:29:07 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:29:07 [ KANTURU ] State(2) -> END
+04:29:07 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:29:07 [ KANTURU ] State(5) -> NONE
+04:29:07 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:29:07 [ KANTURU ] State(0) -> STANDBY
+04:29:07 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:32:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:33:25 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:33:25 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:33:25 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:33:25 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:33:25 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:35:24 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:35:24 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:35:24 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:35:24 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:35:26 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:35:26 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:35:26 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:35:26 [ KANTURU ] State(2) -> END
+04:35:26 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:35:26 [ KANTURU ] State(5) -> NONE
+04:35:26 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:35:26 [ KANTURU ] State(0) -> STANDBY
+04:35:26 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:38:45 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:39:45 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:39:45 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:39:45 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:39:45 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:39:45 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:41:44 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:41:44 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:41:44 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:41:44 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:41:46 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:41:46 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:41:46 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:41:46 [ KANTURU ] State(2) -> END
+04:41:46 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:41:46 [ KANTURU ] State(5) -> NONE
+04:41:46 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:41:46 [ KANTURU ] State(0) -> STANDBY
+04:41:46 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:45:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:46:04 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:46:04 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:46:04 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:46:04 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:46:04 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:48:03 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:48:03 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:48:03 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:48:03 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:48:05 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:48:06 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:48:06 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:48:06 [ KANTURU ] State(2) -> END
+04:48:06 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:48:06 [ KANTURU ] State(5) -> NONE
+04:48:06 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:48:06 [ KANTURU ] State(0) -> STANDBY
+04:48:06 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:51:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:52:24 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:52:24 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:52:24 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:52:24 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:52:24 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+04:54:23 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+04:54:23 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+04:54:23 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+04:54:23 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+04:54:25 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+04:54:25 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+04:54:25 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+04:54:25 [ KANTURU ] State(2) -> END
+04:54:25 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+04:54:25 [ KANTURU ] State(5) -> NONE
+04:54:25 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+04:54:25 [ KANTURU ] State(0) -> STANDBY
+04:54:25 [ KANTURU ][ BattleStanby ] State(0) -> START
+04:57:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:58:44 [ KANTURU ][ BattleStanby ] State(2) -> END
+04:58:44 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+04:58:44 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+04:58:44 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+04:58:44 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+05:00:00 [Devil Square] (1) SetState STAND
+05:00:00 [Devil Square] (2) SetState STAND
+05:00:00 [Devil Square] (3) SetState STAND
+05:00:00 [Devil Square] (4) SetState STAND
+05:00:00 [Devil Square] (5) SetState STAND
+05:00:00 [Devil Square] (6) SetState STAND
+05:00:01 [Devil Square] (1) Not enough users
+05:00:01 [Devil Square] (1) Sync Start Time. [179] min remain
+05:00:01 [Devil Square] (1) SetState EMPTY
+05:00:01 [Devil Square] (2) Not enough users
+05:00:01 [Devil Square] (2) Sync Start Time. [179] min remain
+05:00:01 [Devil Square] (2) SetState EMPTY
+05:00:01 [Devil Square] (3) Not enough users
+05:00:01 [Devil Square] (3) Sync Start Time. [179] min remain
+05:00:01 [Devil Square] (3) SetState EMPTY
+05:00:01 [Devil Square] (4) Not enough users
+05:00:01 [Devil Square] (4) Sync Start Time. [179] min remain
+05:00:01 [Devil Square] (4) SetState EMPTY
+05:00:01 [Devil Square] (5) Not enough users
+05:00:01 [Devil Square] (5) Sync Start Time. [179] min remain
+05:00:01 [Devil Square] (5) SetState EMPTY
+05:00:01 [Devil Square] (6) Not enough users
+05:00:01 [Devil Square] (6) Sync Start Time. [179] min remain
+05:00:01 [Devil Square] (6) SetState EMPTY
+05:00:43 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+05:00:43 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+05:00:43 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+05:00:43 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+05:00:45 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+05:00:45 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+05:00:45 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+05:00:45 [ KANTURU ] State(2) -> END
+05:00:45 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+05:00:45 [ KANTURU ] State(5) -> NONE
+05:00:45 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+05:00:45 [ KANTURU ] State(0) -> STANDBY
+05:00:45 [ KANTURU ][ BattleStanby ] State(0) -> START
+05:04:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:05:03 [ KANTURU ][ BattleStanby ] State(2) -> END
+05:05:03 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+05:05:03 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+05:05:03 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+05:05:03 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+05:07:02 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+05:07:02 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+05:07:02 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+05:07:02 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+05:07:04 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+05:07:05 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+05:07:05 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+05:07:05 [ KANTURU ] State(2) -> END
+05:07:05 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+05:07:05 [ KANTURU ] State(5) -> NONE
+05:07:05 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+05:07:05 [ KANTURU ] State(0) -> STANDBY
+05:07:05 [ KANTURU ][ BattleStanby ] State(0) -> START
+05:10:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:11:23 [ KANTURU ][ BattleStanby ] State(2) -> END
+05:11:23 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+05:11:23 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+05:11:23 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+05:11:23 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+05:13:22 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+05:13:22 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+05:13:22 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+05:13:22 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+05:13:24 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+05:13:24 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+05:13:24 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+05:13:24 [ KANTURU ] State(2) -> END
+05:13:24 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+05:13:24 [ KANTURU ] State(5) -> NONE
+05:13:24 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+05:13:24 [ KANTURU ] State(0) -> STANDBY
+05:13:24 [ KANTURU ][ BattleStanby ] State(0) -> START
+06:14:39 [ServerInfo] ChaosMix loaded successfully
+06:14:39 [ServerInfo] Character loaded successfully
+06:14:39 [ServerInfo] Command loaded successfully
+06:14:39 [ServerInfo] Common loaded successfully
+06:14:39 [ServerInfo] Custom loaded successfully
+06:14:39 [ServerInfo] Event loaded successfully
+06:14:40 [ServerInfo] EventItemBag loaded successfully
+06:14:40 [ServerInfo] Hack loaded successfully
+06:14:40 [ServerInfo] Item loaded successfully
+06:14:40 [ServerInfo] Monster loaded successfully
+06:14:40 [ServerInfo] Move loaded successfully
+06:14:40 [ServerInfo] Quest loaded successfully
+06:14:40 [ServerInfo] Shop loaded successfully
+06:14:40 [ServerInfo] Skill loaded successfully
+06:14:40 [ServerInfo] Util loaded successfully
+06:14:40 [Blood Castle] (1) Sync Start Time. [45] min remain
+06:14:40 [Blood Castle] (1) SetState EMPTY
+06:14:40 [Blood Castle] (2) Sync Start Time. [45] min remain
+06:14:40 [Blood Castle] (2) SetState EMPTY
+06:14:40 [Blood Castle] (3) Sync Start Time. [45] min remain
+06:14:40 [Blood Castle] (3) SetState EMPTY
+06:14:40 [Blood Castle] (4) Sync Start Time. [45] min remain
+06:14:40 [Blood Castle] (4) SetState EMPTY
+06:14:40 [Blood Castle] (5) Sync Start Time. [45] min remain
+06:14:40 [Blood Castle] (5) SetState EMPTY
+06:14:40 [Blood Castle] (6) Sync Start Time. [45] min remain
+06:14:40 [Blood Castle] (6) SetState EMPTY
+06:14:40 [Blood Castle] (7) Sync Start Time. [45] min remain
+06:14:40 [Blood Castle] (7) SetState EMPTY
+06:14:40 [Castle Deep] SetState BLANK
+06:14:40 [Chaos Castle] (1) Sync Start Time. [165] min remain
+06:14:40 [Chaos Castle] (1) SetState EMPTY
+06:14:40 [Chaos Castle] (2) Sync Start Time. [165] min remain
+06:14:40 [Chaos Castle] (2) SetState EMPTY
+06:14:40 [Chaos Castle] (3) Sync Start Time. [165] min remain
+06:14:40 [Chaos Castle] (3) SetState EMPTY
+06:14:40 [Chaos Castle] (4) Sync Start Time. [165] min remain
+06:14:40 [Chaos Castle] (4) SetState EMPTY
+06:14:40 [Chaos Castle] (5) Sync Start Time. [165] min remain
+06:14:40 [Chaos Castle] (5) SetState EMPTY
+06:14:40 [Chaos Castle] (6) Sync Start Time. [165] min remain
+06:14:40 [Chaos Castle] (6) SetState EMPTY
+06:14:40 [Devil Square] (1) Sync Start Time. [105] min remain
+06:14:40 [Devil Square] (1) SetState EMPTY
+06:14:40 [Devil Square] (2) Sync Start Time. [105] min remain
+06:14:40 [Devil Square] (2) SetState EMPTY
+06:14:40 [Devil Square] (3) Sync Start Time. [105] min remain
+06:14:40 [Devil Square] (3) SetState EMPTY
+06:14:40 [Devil Square] (4) Sync Start Time. [105] min remain
+06:14:40 [Devil Square] (4) SetState EMPTY
+06:14:40 [Devil Square] (5) Sync Start Time. [105] min remain
+06:14:40 [Devil Square] (5) SetState EMPTY
+06:14:40 [Devil Square] (6) Sync Start Time. [105] min remain
+06:14:40 [Devil Square] (6) SetState EMPTY
+06:14:40 [Illusion Temple] (1) SetState BLANK
+06:14:40 [Illusion Temple] (2) SetState BLANK
+06:14:40 [Illusion Temple] (3) SetState BLANK
+06:14:40 [Illusion Temple] (4) SetState BLANK
+06:14:40 [Illusion Temple] (5) SetState BLANK
+06:14:40 [Illusion Temple] (6) SetState BLANK
+06:14:41 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+06:14:41 [ KANTURU ] State(0) -> STANDBY
+06:14:41 [ KANTURU ][ BattleStanby ] State(0) -> START
+06:15:00 [ObjectManager][9000] AddClient (192.168.0.85)
+06:15:06 [ObjectManager][9000] AddAccountInfo (lean009)
+06:15:08 [ObjectManager][9000] AddCharacterInfo (Nega)
+06:16:10 [ObjectManager][9000] DelCharacterInfo (Nega)
+06:16:10 [ObjectManager][9000] DelAccountInfo (lean009)
+06:16:10 [ObjectManager][9000] DelClient (192.168.0.85)
+06:16:14 [ObjectManager][9001] AddClient (192.168.0.85)
+06:16:14 [ObjectManager][9001] AddAccountInfo (lean009)
+06:16:14 [ObjectManager][9001] AddCharacterInfo (Nega)
+06:18:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:18:59 [ KANTURU ][ BattleStanby ] State(2) -> END
+06:18:59 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+06:18:59 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+06:18:59 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+06:18:59 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+06:19:42 [ObjectManager][9001] DelCharacterInfo (Nega)
+06:19:42 [ObjectManager][9001] DelAccountInfo (lean009)
+06:19:42 [ObjectManager][9001] DelClient (192.168.0.85)
+06:49:25 [ServerInfo] ChaosMix loaded successfully
+06:49:25 [ServerInfo] Character loaded successfully
+06:49:25 [ServerInfo] Command loaded successfully
+06:49:25 [ServerInfo] Common loaded successfully
+06:49:25 [ServerInfo] Custom loaded successfully
+06:49:25 [ServerInfo] Event loaded successfully
+06:49:25 [ServerInfo] EventItemBag loaded successfully
+06:49:25 [ServerInfo] Hack loaded successfully
+06:49:25 [ServerInfo] Item loaded successfully
+06:49:26 [ServerInfo] Monster loaded successfully
+06:49:26 [ServerInfo] Move loaded successfully
+06:49:26 [ServerInfo] Quest loaded successfully
+06:49:26 [ServerInfo] Shop loaded successfully
+06:49:26 [ServerInfo] Skill loaded successfully
+06:49:26 [ServerInfo] Util loaded successfully
+06:49:26 [Blood Castle] (1) Sync Start Time. [10] min remain
+06:49:26 [Blood Castle] (1) SetState EMPTY
+06:49:26 [Blood Castle] (2) Sync Start Time. [10] min remain
+06:49:26 [Blood Castle] (2) SetState EMPTY
+06:49:26 [Blood Castle] (3) Sync Start Time. [10] min remain
+06:49:26 [Blood Castle] (3) SetState EMPTY
+06:49:26 [Blood Castle] (4) Sync Start Time. [10] min remain
+06:49:26 [Blood Castle] (4) SetState EMPTY
+06:49:26 [Blood Castle] (5) Sync Start Time. [10] min remain
+06:49:26 [Blood Castle] (5) SetState EMPTY
+06:49:26 [Blood Castle] (6) Sync Start Time. [10] min remain
+06:49:26 [Blood Castle] (6) SetState EMPTY
+06:49:26 [Blood Castle] (7) Sync Start Time. [10] min remain
+06:49:26 [Blood Castle] (7) SetState EMPTY
+06:49:26 [Castle Deep] SetState BLANK
+06:49:26 [Chaos Castle] (1) Sync Start Time. [130] min remain
+06:49:26 [Chaos Castle] (1) SetState EMPTY
+06:49:26 [Chaos Castle] (2) Sync Start Time. [130] min remain
+06:49:26 [Chaos Castle] (2) SetState EMPTY
+06:49:26 [Chaos Castle] (3) Sync Start Time. [130] min remain
+06:49:26 [Chaos Castle] (3) SetState EMPTY
+06:49:26 [Chaos Castle] (4) Sync Start Time. [130] min remain
+06:49:26 [Chaos Castle] (4) SetState EMPTY
+06:49:26 [Chaos Castle] (5) Sync Start Time. [130] min remain
+06:49:26 [Chaos Castle] (5) SetState EMPTY
+06:49:26 [Chaos Castle] (6) Sync Start Time. [130] min remain
+06:49:26 [Chaos Castle] (6) SetState EMPTY
+06:49:26 [Devil Square] (1) Sync Start Time. [70] min remain
+06:49:26 [Devil Square] (1) SetState EMPTY
+06:49:26 [Devil Square] (2) Sync Start Time. [70] min remain
+06:49:26 [Devil Square] (2) SetState EMPTY
+06:49:26 [Devil Square] (3) Sync Start Time. [70] min remain
+06:49:26 [Devil Square] (3) SetState EMPTY
+06:49:26 [Devil Square] (4) Sync Start Time. [70] min remain
+06:49:26 [Devil Square] (4) SetState EMPTY
+06:49:26 [Devil Square] (5) Sync Start Time. [70] min remain
+06:49:26 [Devil Square] (5) SetState EMPTY
+06:49:26 [Devil Square] (6) Sync Start Time. [70] min remain
+06:49:26 [Devil Square] (6) SetState EMPTY
+06:49:26 [Illusion Temple] (1) SetState BLANK
+06:49:26 [Illusion Temple] (2) SetState BLANK
+06:49:26 [Illusion Temple] (3) SetState BLANK
+06:49:26 [Illusion Temple] (4) SetState BLANK
+06:49:26 [Illusion Temple] (5) SetState BLANK
+06:49:26 [Illusion Temple] (6) SetState BLANK
+06:49:27 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+06:49:27 [ KANTURU ] State(0) -> STANDBY
+06:49:27 [ KANTURU ][ BattleStanby ] State(0) -> START
+06:50:01 [ObjectManager][9000] AddClient (192.168.0.85)
+06:50:07 [ObjectManager][9000] AddAccountInfo (lean009)
+06:50:09 [ObjectManager][9000] AddCharacterInfo (Nega)
+06:52:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:53:45 [ KANTURU ][ BattleStanby ] State(2) -> END
+06:53:45 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+06:53:45 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+06:53:45 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+06:53:45 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+06:55:20 [ObjectManager][9000] DelCharacterInfo (Nega)
+06:55:20 [ObjectManager][9000] DelAccountInfo (lean009)
+06:55:20 [ObjectManager][9000] DelClient (192.168.0.85)
+08:12:01 [ServerInfo] ChaosMix loaded successfully
+08:12:01 [ServerInfo] Character loaded successfully
+08:12:01 [ServerInfo] Command loaded successfully
+08:12:01 [ServerInfo] Common loaded successfully
+08:12:01 [ServerInfo] Custom loaded successfully
+08:12:01 [ServerInfo] Event loaded successfully
+08:12:01 [ServerInfo] EventItemBag loaded successfully
+08:12:01 [ServerInfo] Hack loaded successfully
+08:12:01 [ServerInfo] Item loaded successfully
+08:12:01 [ServerInfo] Monster loaded successfully
+08:12:01 [ServerInfo] Move loaded successfully
+08:12:01 [ServerInfo] Quest loaded successfully
+08:12:01 [ServerInfo] Shop loaded successfully
+08:12:01 [ServerInfo] Skill loaded successfully
+08:12:01 [ServerInfo] Util loaded successfully
+08:12:01 [Blood Castle] (1) Sync Start Time. [107] min remain
+08:12:01 [Blood Castle] (1) SetState EMPTY
+08:12:01 [Blood Castle] (2) Sync Start Time. [107] min remain
+08:12:01 [Blood Castle] (2) SetState EMPTY
+08:12:01 [Blood Castle] (3) Sync Start Time. [107] min remain
+08:12:01 [Blood Castle] (3) SetState EMPTY
+08:12:01 [Blood Castle] (4) Sync Start Time. [107] min remain
+08:12:01 [Blood Castle] (4) SetState EMPTY
+08:12:01 [Blood Castle] (5) Sync Start Time. [107] min remain
+08:12:01 [Blood Castle] (5) SetState EMPTY
+08:12:01 [Blood Castle] (6) Sync Start Time. [107] min remain
+08:12:01 [Blood Castle] (6) SetState EMPTY
+08:12:01 [Blood Castle] (7) Sync Start Time. [107] min remain
+08:12:01 [Blood Castle] (7) SetState EMPTY
+08:12:01 [Castle Deep] SetState BLANK
+08:12:01 [Chaos Castle] (1) Sync Start Time. [47] min remain
+08:12:01 [Chaos Castle] (1) SetState EMPTY
+08:12:01 [Chaos Castle] (2) Sync Start Time. [47] min remain
+08:12:01 [Chaos Castle] (2) SetState EMPTY
+08:12:01 [Chaos Castle] (3) Sync Start Time. [47] min remain
+08:12:01 [Chaos Castle] (3) SetState EMPTY
+08:12:01 [Chaos Castle] (4) Sync Start Time. [47] min remain
+08:12:01 [Chaos Castle] (4) SetState EMPTY
+08:12:01 [Chaos Castle] (5) Sync Start Time. [47] min remain
+08:12:01 [Chaos Castle] (5) SetState EMPTY
+08:12:01 [Chaos Castle] (6) Sync Start Time. [47] min remain
+08:12:01 [Chaos Castle] (6) SetState EMPTY
+08:12:01 [Devil Square] (1) Sync Start Time. [167] min remain
+08:12:01 [Devil Square] (1) SetState EMPTY
+08:12:01 [Devil Square] (2) Sync Start Time. [167] min remain
+08:12:01 [Devil Square] (2) SetState EMPTY
+08:12:01 [Devil Square] (3) Sync Start Time. [167] min remain
+08:12:01 [Devil Square] (3) SetState EMPTY
+08:12:01 [Devil Square] (4) Sync Start Time. [167] min remain
+08:12:01 [Devil Square] (4) SetState EMPTY
+08:12:01 [Devil Square] (5) Sync Start Time. [167] min remain
+08:12:01 [Devil Square] (5) SetState EMPTY
+08:12:01 [Devil Square] (6) Sync Start Time. [167] min remain
+08:12:01 [Devil Square] (6) SetState EMPTY
+08:12:01 [Illusion Temple] (1) SetState BLANK
+08:12:01 [Illusion Temple] (2) SetState BLANK
+08:12:01 [Illusion Temple] (3) SetState BLANK
+08:12:01 [Illusion Temple] (4) SetState BLANK
+08:12:01 [Illusion Temple] (5) SetState BLANK
+08:12:01 [Illusion Temple] (6) SetState BLANK
+08:12:02 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:12:02 [ KANTURU ] State(0) -> STANDBY
+08:12:02 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:15:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:16:20 [ KANTURU ][ BattleStanby ] State(2) -> END
+08:16:20 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+08:16:20 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+08:16:20 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+08:16:20 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+08:18:20 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+08:18:20 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+08:18:20 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+08:18:20 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+08:18:22 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+08:18:22 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+08:18:22 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+08:18:22 [ KANTURU ] State(2) -> END
+08:18:22 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+08:18:22 [ KANTURU ] State(5) -> NONE
+08:18:22 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:18:22 [ KANTURU ] State(0) -> STANDBY
+08:18:22 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:19:39 [ObjectManager][9000] AddClient (192.168.0.85)
+08:19:44 [ObjectManager][9000] AddAccountInfo (lean009)
+08:19:50 [ObjectManager][9000] AddCharacterInfo (Nega)
+08:20:16 [ObjectManager][9000] DelCharacterInfo (Nega)
+08:20:16 [ObjectManager][9000] DelAccountInfo (lean009)
+08:20:16 [ObjectManager][9000] DelClient (192.168.0.85)
+08:21:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:22:40 [ KANTURU ][ BattleStanby ] State(2) -> END
+08:22:40 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+08:22:40 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+08:22:40 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+08:22:40 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+08:24:39 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+08:24:39 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+08:24:39 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+08:24:39 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+08:24:41 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+08:24:41 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+08:24:41 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+08:24:41 [ KANTURU ] State(2) -> END
+08:24:41 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+08:24:41 [ KANTURU ] State(5) -> NONE
+08:24:41 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:24:41 [ KANTURU ] State(0) -> STANDBY
+08:24:41 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:26:53 [ObjectManager][9000] AddClient (192.168.0.85)
+08:26:59 [ObjectManager][9000] AddAccountInfo (lean009)
+08:27:05 [ObjectManager][9000] AddCharacterInfo (Nega)
+08:28:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:28:32 [ObjectManager][9000] DelCharacterInfo (Nega)
+08:28:32 [ObjectManager][9000] DelAccountInfo (lean009)
+08:28:32 [ObjectManager][9000] DelClient (192.168.0.85)
+08:28:58 [ServerInfo] ChaosMix loaded successfully
+08:28:58 [ServerInfo] Character loaded successfully
+08:28:58 [ServerInfo] Command loaded successfully
+08:28:58 [ServerInfo] Common loaded successfully
+08:28:59 [ServerInfo] Custom loaded successfully
+08:28:59 [ServerInfo] Event loaded successfully
+08:28:59 [ServerInfo] EventItemBag loaded successfully
+08:28:59 [ServerInfo] Hack loaded successfully
+08:28:59 [ServerInfo] Item loaded successfully
+08:28:59 [ServerInfo] Monster loaded successfully
+08:28:59 [ServerInfo] Move loaded successfully
+08:28:59 [ServerInfo] Quest loaded successfully
+08:28:59 [ServerInfo] Shop loaded successfully
+08:28:59 [ServerInfo] Skill loaded successfully
+08:28:59 [ServerInfo] Util loaded successfully
+08:28:59 [Blood Castle] (1) Sync Start Time. [91] min remain
+08:28:59 [Blood Castle] (1) SetState EMPTY
+08:28:59 [Blood Castle] (2) Sync Start Time. [91] min remain
+08:28:59 [Blood Castle] (2) SetState EMPTY
+08:28:59 [Blood Castle] (3) Sync Start Time. [91] min remain
+08:28:59 [Blood Castle] (3) SetState EMPTY
+08:28:59 [Blood Castle] (4) Sync Start Time. [91] min remain
+08:28:59 [Blood Castle] (4) SetState EMPTY
+08:28:59 [Blood Castle] (5) Sync Start Time. [91] min remain
+08:28:59 [Blood Castle] (5) SetState EMPTY
+08:28:59 [Blood Castle] (6) Sync Start Time. [91] min remain
+08:28:59 [Blood Castle] (6) SetState EMPTY
+08:28:59 [Blood Castle] (7) Sync Start Time. [91] min remain
+08:28:59 [Blood Castle] (7) SetState EMPTY
+08:28:59 [Castle Deep] SetState BLANK
+08:28:59 [Chaos Castle] (1) Sync Start Time. [31] min remain
+08:28:59 [Chaos Castle] (1) SetState EMPTY
+08:28:59 [Chaos Castle] (2) Sync Start Time. [31] min remain
+08:28:59 [Chaos Castle] (2) SetState EMPTY
+08:28:59 [Chaos Castle] (3) Sync Start Time. [31] min remain
+08:28:59 [Chaos Castle] (3) SetState EMPTY
+08:28:59 [Chaos Castle] (4) Sync Start Time. [31] min remain
+08:28:59 [Chaos Castle] (4) SetState EMPTY
+08:28:59 [Chaos Castle] (5) Sync Start Time. [31] min remain
+08:28:59 [Chaos Castle] (5) SetState EMPTY
+08:28:59 [Chaos Castle] (6) Sync Start Time. [31] min remain
+08:28:59 [Chaos Castle] (6) SetState EMPTY
+08:28:59 [Devil Square] (1) Sync Start Time. [151] min remain
+08:28:59 [Devil Square] (1) SetState EMPTY
+08:28:59 [Devil Square] (2) Sync Start Time. [151] min remain
+08:28:59 [Devil Square] (2) SetState EMPTY
+08:28:59 [Devil Square] (3) Sync Start Time. [151] min remain
+08:28:59 [Devil Square] (3) SetState EMPTY
+08:28:59 [Devil Square] (4) Sync Start Time. [151] min remain
+08:28:59 [Devil Square] (4) SetState EMPTY
+08:28:59 [Devil Square] (5) Sync Start Time. [151] min remain
+08:28:59 [Devil Square] (5) SetState EMPTY
+08:28:59 [Devil Square] (6) Sync Start Time. [151] min remain
+08:28:59 [Devil Square] (6) SetState EMPTY
+08:28:59 [Illusion Temple] (1) SetState BLANK
+08:28:59 [Illusion Temple] (2) SetState BLANK
+08:28:59 [Illusion Temple] (3) SetState BLANK
+08:28:59 [Illusion Temple] (4) SetState BLANK
+08:28:59 [Illusion Temple] (5) SetState BLANK
+08:28:59 [Illusion Temple] (6) SetState BLANK
+08:29:00 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+08:29:00 [ KANTURU ] State(0) -> STANDBY
+08:29:00 [ KANTURU ][ BattleStanby ] State(0) -> START
+08:32:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:33:18 [ KANTURU ][ BattleStanby ] State(2) -> END
+08:33:18 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+08:33:18 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+08:33:18 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+08:33:18 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+15:49:49 [ServerInfo] ChaosMix loaded successfully
+15:49:49 [ServerInfo] Character loaded successfully
+15:49:49 [ServerInfo] Command loaded successfully
+15:49:49 [ServerInfo] Common loaded successfully
+15:49:49 [ServerInfo] Custom loaded successfully
+15:49:49 [ServerInfo] Event loaded successfully
+15:49:49 [ServerInfo] EventItemBag loaded successfully
+15:49:49 [ServerInfo] Hack loaded successfully
+15:49:49 [ServerInfo] Item loaded successfully
+15:49:49 [ServerInfo] Monster loaded successfully
+15:49:49 [ServerInfo] Move loaded successfully
+15:49:49 [ServerInfo] Quest loaded successfully
+15:49:49 [ServerInfo] Shop loaded successfully
+15:49:49 [ServerInfo] Skill loaded successfully
+15:49:49 [ServerInfo] Util loaded successfully
+15:49:49 [Blood Castle] (1) Sync Start Time. [10] min remain
+15:49:49 [Blood Castle] (1) SetState EMPTY
+15:49:49 [Blood Castle] (2) Sync Start Time. [10] min remain
+15:49:49 [Blood Castle] (2) SetState EMPTY
+15:49:49 [Blood Castle] (3) Sync Start Time. [10] min remain
+15:49:49 [Blood Castle] (3) SetState EMPTY
+15:49:49 [Blood Castle] (4) Sync Start Time. [10] min remain
+15:49:49 [Blood Castle] (4) SetState EMPTY
+15:49:49 [Blood Castle] (5) Sync Start Time. [10] min remain
+15:49:49 [Blood Castle] (5) SetState EMPTY
+15:49:49 [Blood Castle] (6) Sync Start Time. [10] min remain
+15:49:49 [Blood Castle] (6) SetState EMPTY
+15:49:49 [Blood Castle] (7) Sync Start Time. [10] min remain
+15:49:49 [Blood Castle] (7) SetState EMPTY
+15:49:49 [Castle Deep] SetState BLANK
+15:49:49 [Chaos Castle] (1) Sync Start Time. [130] min remain
+15:49:49 [Chaos Castle] (1) SetState EMPTY
+15:49:49 [Chaos Castle] (2) Sync Start Time. [130] min remain
+15:49:49 [Chaos Castle] (2) SetState EMPTY
+15:49:49 [Chaos Castle] (3) Sync Start Time. [130] min remain
+15:49:49 [Chaos Castle] (3) SetState EMPTY
+15:49:49 [Chaos Castle] (4) Sync Start Time. [130] min remain
+15:49:49 [Chaos Castle] (4) SetState EMPTY
+15:49:49 [Chaos Castle] (5) Sync Start Time. [130] min remain
+15:49:49 [Chaos Castle] (5) SetState EMPTY
+15:49:49 [Chaos Castle] (6) Sync Start Time. [130] min remain
+15:49:49 [Chaos Castle] (6) SetState EMPTY
+15:49:49 [Devil Square] (1) Sync Start Time. [70] min remain
+15:49:49 [Devil Square] (1) SetState EMPTY
+15:49:49 [Devil Square] (2) Sync Start Time. [70] min remain
+15:49:49 [Devil Square] (2) SetState EMPTY
+15:49:49 [Devil Square] (3) Sync Start Time. [70] min remain
+15:49:49 [Devil Square] (3) SetState EMPTY
+15:49:49 [Devil Square] (4) Sync Start Time. [70] min remain
+15:49:49 [Devil Square] (4) SetState EMPTY
+15:49:49 [Devil Square] (5) Sync Start Time. [70] min remain
+15:49:49 [Devil Square] (5) SetState EMPTY
+15:49:49 [Devil Square] (6) Sync Start Time. [70] min remain
+15:49:49 [Devil Square] (6) SetState EMPTY
+15:49:49 [Illusion Temple] (1) SetState BLANK
+15:49:49 [Illusion Temple] (2) SetState BLANK
+15:49:49 [Illusion Temple] (3) SetState BLANK
+15:49:49 [Illusion Temple] (4) SetState BLANK
+15:49:49 [Illusion Temple] (5) SetState BLANK
+15:49:49 [Illusion Temple] (6) SetState BLANK
+15:49:50 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+15:49:50 [ KANTURU ] State(0) -> STANDBY
+15:49:50 [ KANTURU ][ BattleStanby ] State(0) -> START
+15:50:01 [ObjectManager][9000] AddClient (192.168.0.85)
+15:50:04 [ObjectManager][9000] AddAccountInfo (lean009)
+15:50:06 [ObjectManager][9000] AddCharacterInfo (Nega)
+15:50:23 [ObjectManager][9000] DelCharacterInfo (Nega)
+15:50:23 [ObjectManager][9000] DelAccountInfo (lean009)
+15:50:23 [ObjectManager][9000] DelClient (192.168.0.85)
+15:50:30 [ObjectManager][9001] AddClient (192.168.0.85)
+15:50:31 [ObjectManager][9001] AddAccountInfo (lean009)
+15:50:31 [ObjectManager][9001] AddCharacterInfo (Nega)
+15:53:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:54:08 [ KANTURU ][ BattleStanby ] State(2) -> END
+15:54:08 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+15:54:08 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+15:54:08 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+15:54:08 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+15:56:07 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+15:56:07 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+15:56:07 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+15:56:07 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+15:56:09 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+15:56:10 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+15:56:10 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+15:56:10 [ KANTURU ] State(2) -> END
+15:56:10 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+15:56:10 [ KANTURU ] State(5) -> NONE
+15:56:10 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+15:56:10 [ KANTURU ] State(0) -> STANDBY
+15:56:10 [ KANTURU ][ BattleStanby ] State(0) -> START
+15:59:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:00:00 [Blood Castle] (1) SetState STAND
+16:00:00 [Blood Castle] (2) SetState STAND
+16:00:00 [Blood Castle] (3) SetState STAND
+16:00:00 [Blood Castle] (4) SetState STAND
+16:00:00 [Blood Castle] (5) SetState STAND
+16:00:00 [Blood Castle] (6) SetState STAND
+16:00:00 [Blood Castle] (7) SetState STAND
+16:00:01 [Blood Castle] (1) Not enough users
+16:00:01 [Blood Castle] (1) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (1) SetState EMPTY
+16:00:01 [Blood Castle] (2) Not enough users
+16:00:01 [Blood Castle] (2) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (2) SetState EMPTY
+16:00:01 [Blood Castle] (3) Not enough users
+16:00:01 [Blood Castle] (3) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (3) SetState EMPTY
+16:00:01 [Blood Castle] (4) Not enough users
+16:00:01 [Blood Castle] (4) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (4) SetState EMPTY
+16:00:01 [Blood Castle] (5) Not enough users
+16:00:01 [Blood Castle] (5) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (5) SetState EMPTY
+16:00:01 [Blood Castle] (6) Not enough users
+16:00:01 [Blood Castle] (6) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (6) SetState EMPTY
+16:00:01 [Blood Castle] (7) Not enough users
+16:00:01 [Blood Castle] (7) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (7) SetState EMPTY
+16:00:28 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:00:28 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:00:28 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:00:28 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:00:28 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:02:27 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:02:27 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:02:27 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:02:27 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:02:29 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:02:29 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:02:29 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:02:29 [ KANTURU ] State(2) -> END
+16:02:29 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:02:29 [ KANTURU ] State(5) -> NONE
+16:02:29 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:02:29 [ KANTURU ] State(0) -> STANDBY
+16:02:29 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:05:44 [ObjectManager][9001] DelCharacterInfo (Nega)
+16:05:44 [ObjectManager][9001] DelAccountInfo (lean009)
+16:05:44 [ObjectManager][9001] DelClient (192.168.0.85)
+16:05:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:05:54 [ObjectManager][9000] AddClient (192.168.0.85)
+16:05:57 [ObjectManager][9000] AddAccountInfo (lean009)
+16:05:59 [ObjectManager][9000] AddCharacterInfo (Nega)
+16:06:47 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:06:48 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:06:48 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:06:48 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:06:48 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:08:47 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:08:47 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:08:47 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:08:47 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:08:49 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:08:49 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:08:49 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:08:49 [ KANTURU ] State(2) -> END
+16:08:49 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:08:49 [ KANTURU ] State(5) -> NONE
+16:08:49 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:08:49 [ KANTURU ] State(0) -> STANDBY
+16:08:49 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:09:20 [ObjectManager][9000] DelCharacterInfo (Nega)
+16:09:20 [ObjectManager][9000] DelAccountInfo (lean009)
+16:09:20 [ObjectManager][9000] DelClient (192.168.0.85)
+16:09:35 [ObjectManager][9001] AddClient (192.168.0.85)
+16:09:38 [ObjectManager][9001] AddAccountInfo (lean009)
+16:09:40 [ObjectManager][9001] AddCharacterInfo (Nega)
+16:09:59 [ObjectManager][9001] DelCharacterInfo (Nega)
+16:09:59 [ObjectManager][9001] DelAccountInfo (lean009)
+16:09:59 [ObjectManager][9001] DelClient (192.168.0.85)
+16:12:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:13:07 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:13:07 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:13:07 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:13:07 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:13:07 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:15:06 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:15:06 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:15:06 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:15:06 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:15:08 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:15:08 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:15:08 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:15:08 [ KANTURU ] State(2) -> END
+16:15:08 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:15:08 [ KANTURU ] State(5) -> NONE
+16:15:08 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:15:08 [ KANTURU ] State(0) -> STANDBY
+16:15:08 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:16:10 [ServerInfo] ChaosMix loaded successfully
+16:16:10 [ServerInfo] Character loaded successfully
+16:16:10 [ServerInfo] Command loaded successfully
+16:16:10 [ServerInfo] Common loaded successfully
+16:16:10 [ServerInfo] Custom loaded successfully
+16:16:10 [ServerInfo] Event loaded successfully
+16:16:10 [ServerInfo] EventItemBag loaded successfully
+16:16:10 [ServerInfo] Hack loaded successfully
+16:16:10 [ServerInfo] Item loaded successfully
+16:16:10 [ServerInfo] Monster loaded successfully
+16:16:10 [ServerInfo] Move loaded successfully
+16:16:10 [ServerInfo] Quest loaded successfully
+16:16:10 [ServerInfo] Shop loaded successfully
+16:16:10 [ServerInfo] Skill loaded successfully
+16:16:10 [ServerInfo] Util loaded successfully
+16:16:10 [Blood Castle] (1) Sync Start Time. [163] min remain
+16:16:10 [Blood Castle] (1) SetState EMPTY
+16:16:10 [Blood Castle] (2) Sync Start Time. [163] min remain
+16:16:10 [Blood Castle] (2) SetState EMPTY
+16:16:10 [Blood Castle] (3) Sync Start Time. [163] min remain
+16:16:10 [Blood Castle] (3) SetState EMPTY
+16:16:10 [Blood Castle] (4) Sync Start Time. [163] min remain
+16:16:10 [Blood Castle] (4) SetState EMPTY
+16:16:10 [Blood Castle] (5) Sync Start Time. [163] min remain
+16:16:10 [Blood Castle] (5) SetState EMPTY
+16:16:10 [Blood Castle] (6) Sync Start Time. [163] min remain
+16:16:10 [Blood Castle] (6) SetState EMPTY
+16:16:10 [Blood Castle] (7) Sync Start Time. [163] min remain
+16:16:10 [Blood Castle] (7) SetState EMPTY
+16:16:10 [Castle Deep] SetState BLANK
+16:16:10 [Chaos Castle] (1) Sync Start Time. [103] min remain
+16:16:10 [Chaos Castle] (1) SetState EMPTY
+16:16:10 [Chaos Castle] (2) Sync Start Time. [103] min remain
+16:16:10 [Chaos Castle] (2) SetState EMPTY
+16:16:10 [Chaos Castle] (3) Sync Start Time. [103] min remain
+16:16:10 [Chaos Castle] (3) SetState EMPTY
+16:16:10 [Chaos Castle] (4) Sync Start Time. [103] min remain
+16:16:10 [Chaos Castle] (4) SetState EMPTY
+16:16:10 [Chaos Castle] (5) Sync Start Time. [103] min remain
+16:16:10 [Chaos Castle] (5) SetState EMPTY
+16:16:10 [Chaos Castle] (6) Sync Start Time. [103] min remain
+16:16:10 [Chaos Castle] (6) SetState EMPTY
+16:16:10 [Devil Square] (1) Sync Start Time. [43] min remain
+16:16:10 [Devil Square] (1) SetState EMPTY
+16:16:10 [Devil Square] (2) Sync Start Time. [43] min remain
+16:16:10 [Devil Square] (2) SetState EMPTY
+16:16:10 [Devil Square] (3) Sync Start Time. [43] min remain
+16:16:10 [Devil Square] (3) SetState EMPTY
+16:16:10 [Devil Square] (4) Sync Start Time. [43] min remain
+16:16:10 [Devil Square] (4) SetState EMPTY
+16:16:10 [Devil Square] (5) Sync Start Time. [43] min remain
+16:16:10 [Devil Square] (5) SetState EMPTY
+16:16:10 [Devil Square] (6) Sync Start Time. [43] min remain
+16:16:10 [Devil Square] (6) SetState EMPTY
+16:16:10 [Illusion Temple] (1) SetState BLANK
+16:16:10 [Illusion Temple] (2) SetState BLANK
+16:16:10 [Illusion Temple] (3) SetState BLANK
+16:16:10 [Illusion Temple] (4) SetState BLANK
+16:16:10 [Illusion Temple] (5) SetState BLANK
+16:16:10 [Illusion Temple] (6) SetState BLANK
+16:16:12 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:16:12 [ KANTURU ] State(0) -> STANDBY
+16:16:12 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:16:25 [ObjectManager][9000] AddClient (192.168.0.85)
+16:16:27 [ObjectManager][9000] AddAccountInfo (lean009)
+16:16:29 [ObjectManager][9000] AddCharacterInfo (Nega)
+16:19:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:20:30 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:20:30 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:20:30 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:20:30 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:20:30 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:22:29 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:22:29 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:22:29 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:22:29 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:22:31 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:22:31 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:22:31 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:22:31 [ KANTURU ] State(2) -> END
+16:22:31 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:22:31 [ KANTURU ] State(5) -> NONE
+16:22:31 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:22:31 [ KANTURU ] State(0) -> STANDBY
+16:22:31 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:25:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:26:49 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:26:49 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:26:49 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:26:49 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:26:49 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:28:48 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:28:48 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:28:48 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:28:48 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:28:51 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:28:51 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:28:51 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:28:51 [ KANTURU ] State(2) -> END
+16:28:51 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:28:51 [ KANTURU ] State(5) -> NONE
+16:28:51 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:28:51 [ KANTURU ] State(0) -> STANDBY
+16:28:51 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:32:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:33:09 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:33:09 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:33:09 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:33:09 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:33:09 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:35:08 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:35:08 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:35:08 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:35:08 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:35:10 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:35:10 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:35:10 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:35:10 [ KANTURU ] State(2) -> END
+16:35:10 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:35:10 [ KANTURU ] State(5) -> NONE
+16:35:10 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:35:10 [ KANTURU ] State(0) -> STANDBY
+16:35:10 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:38:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:39:29 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:39:29 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:39:29 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:39:29 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:39:29 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:41:28 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:41:28 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:41:28 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:41:28 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:41:30 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:41:30 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:41:30 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:41:30 [ KANTURU ] State(2) -> END
+16:41:30 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:41:30 [ KANTURU ] State(5) -> NONE
+16:41:30 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:41:30 [ KANTURU ] State(0) -> STANDBY
+16:41:30 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:44:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:45:48 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:45:48 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:45:48 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:45:48 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:45:48 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:47:47 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:47:47 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:47:47 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:47:47 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:47:49 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:47:49 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:47:49 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:47:49 [ KANTURU ] State(2) -> END
+16:47:50 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:47:50 [ KANTURU ] State(5) -> NONE
+16:47:50 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:47:50 [ KANTURU ] State(0) -> STANDBY
+16:47:50 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:51:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:52:08 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:52:08 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:52:08 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:52:08 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:52:08 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:52:40 [ObjectManager][9000] DelCharacterInfo (Nega)
+16:52:40 [ObjectManager][9000] DelAccountInfo (lean009)
+16:52:40 [ObjectManager][9000] DelClient (192.168.0.85)
+16:54:07 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+16:54:07 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+16:54:07 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+16:54:07 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+16:54:09 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+16:54:09 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+16:54:09 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+16:54:09 [ KANTURU ] State(2) -> END
+16:54:09 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+16:54:09 [ KANTURU ] State(5) -> NONE
+16:54:09 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+16:54:09 [ KANTURU ] State(0) -> STANDBY
+16:54:09 [ KANTURU ][ BattleStanby ] State(0) -> START
+16:57:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:58:27 [ KANTURU ][ BattleStanby ] State(2) -> END
+16:58:28 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+16:58:28 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+16:58:28 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+16:58:28 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+16:58:41 [ObjectManager][9000] AddClient (192.168.0.85)
+16:58:42 [ObjectManager][9000] AddAccountInfo (lean009)
+16:58:42 [ObjectManager][9000] AddCharacterInfo (Nega)
+17:00:00 [Devil Square] (1) SetState STAND
+17:00:00 [Devil Square] (2) SetState STAND
+17:00:00 [Devil Square] (3) SetState STAND
+17:00:00 [Devil Square] (4) SetState STAND
+17:00:00 [Devil Square] (5) SetState STAND
+17:00:00 [Devil Square] (6) SetState STAND
+17:00:01 [Devil Square] (1) Not enough users
+17:00:01 [Devil Square] (1) Sync Start Time. [179] min remain
+17:00:01 [Devil Square] (1) SetState EMPTY
+17:00:01 [Devil Square] (2) Not enough users
+17:00:01 [Devil Square] (2) Sync Start Time. [179] min remain
+17:00:01 [Devil Square] (2) SetState EMPTY
+17:00:01 [Devil Square] (3) Not enough users
+17:00:01 [Devil Square] (3) Sync Start Time. [179] min remain
+17:00:01 [Devil Square] (3) SetState EMPTY
+17:00:01 [Devil Square] (4) Not enough users
+17:00:01 [Devil Square] (4) Sync Start Time. [179] min remain
+17:00:01 [Devil Square] (4) SetState EMPTY
+17:00:01 [Devil Square] (5) Not enough users
+17:00:01 [Devil Square] (5) Sync Start Time. [179] min remain
+17:00:01 [Devil Square] (5) SetState EMPTY
+17:00:01 [Devil Square] (6) Not enough users
+17:00:01 [Devil Square] (6) Sync Start Time. [179] min remain
+17:00:01 [Devil Square] (6) SetState EMPTY
+17:00:27 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+17:00:27 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+17:00:27 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+17:00:27 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+17:00:29 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+17:00:29 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+17:00:29 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+17:00:29 [ KANTURU ] State(2) -> END
+17:00:29 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+17:00:29 [ KANTURU ] State(5) -> NONE
+17:00:29 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+17:00:29 [ KANTURU ] State(0) -> STANDBY
+17:00:29 [ KANTURU ][ BattleStanby ] State(0) -> START
+17:03:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:04:47 [ KANTURU ][ BattleStanby ] State(2) -> END
+17:04:47 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+17:04:47 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+17:04:47 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+17:04:47 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+17:06:40 [ KANTURU ][ Battle User ] Add User [lean009][Nega] Current Battle User:1 State:[2-1] (CharInfoSave : Class=4, Level=400, LvPoint=0, Exp=3822148080, Str=32767, Dex=32767, Vit=32767, Energy=32767, LeaderShip=32767, Map=39, Pk=3
+17:06:46 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+17:07:01 [ KANTURU ][ BattleOfMaya ] State(2) -> START1
+17:07:32 [ KANTURU ][ IceStorm ] Skill Using(1) : Index(2981) Maya
+17:08:18 [ KANTURU ][ IceStorm ] Skill Using(2) : Index(2981) Maya
+17:08:42 [ KANTURU ][ IceStorm ] Skill Using(3) : Index(2981) Maya
+17:08:43 [ KANTURU ][ IceStorm ] Skill Using(4) : Index(2981) Maya
+17:09:12 [ KANTURU ][ IceStorm ] Skill Using(5) : Index(2981) Maya
+17:09:14 [ KANTURU ][ IceStorm ] Skill Using(6) : Index(2981) Maya
+17:09:36 [ KANTURU ][ IceStorm ] Skill Using(7) : Index(2981) Maya
+17:10:07 [ KANTURU ][ IceStorm ] Skill Using(8) : Index(2981) Maya
+17:10:24 [ KANTURU ][ IceStorm ] Skill Using(9) : Index(2981) Maya
+17:10:24 [ KANTURU ][ IceStorm ] Skill Using(10) : Index(2981) Maya
+17:10:30 [ KANTURU ][ IceStorm ] Skill Using(11) : Index(2981) Maya
+17:10:39 [ KANTURU ][ IceStorm ] Skill Using(12) : Index(2981) Maya
+17:10:49 [ KANTURU ][ IceStorm ] Skill Using(13) : Index(2981) Maya
+17:10:51 [ KANTURU ][ IceStorm ] Skill Using(14) : Index(2981) Maya
+17:10:53 [ KANTURU ][ BattleOfMaya ] Success!! - DetailState:3
+17:10:53 [ KANTURU ][ BattleOfMaya ] State(3) -> MAYA1
+17:10:53 [ KANTURU ][ BrokenShower ] Skill Using : Index(3022) Maya
+17:11:13 [ KANTURU ][ BrokenShower ] Skill Using : Index(3022) Maya
+17:11:25 [ KANTURU ][ BattleOfMaya ] Success!! - DetailState:4
+17:11:28 [ KANTURU ][ BattleOfMaya ] State(4) -> END_MAYA1
+17:11:32 [ KANTURU ][ BattleOfMaya ] State(5) -> ENDCYCLE_MAYA1
+17:11:34 [ KANTURU ][ BattleOfMaya ] State(6) -> STANBY2
+17:12:34 [ KANTURU ][ BattleOfMaya ] State(7) -> START2
+17:12:39 [ KANTURU ][ IceStorm ] Skill Using(1) : Index(3024) Maya
+17:13:24 [ KANTURU ][ IceStorm ] Skill Using(2) : Index(3024) Maya
+17:13:29 [ KANTURU ][ IceStorm ] Skill Using(3) : Index(3024) Maya
+17:13:44 [ KANTURU ][ IceStorm ] Skill Using(4) : Index(3024) Maya
+17:13:52 [ KANTURU ][ IceStorm ] Skill Using(5) : Index(3024) Maya
+17:13:53 [ KANTURU ][ IceStorm ] Skill Using(6) : Index(3024) Maya
+17:14:03 [ KANTURU ][ IceStorm ] Skill Using(7) : Index(3024) Maya
+17:14:19 [ KANTURU ][ IceStorm ] Skill Using(8) : Index(3024) Maya
+17:14:35 [ KANTURU ][ IceStorm ] Skill Using(9) : Index(3024) Maya
+17:14:48 [ KANTURU ][ BattleOfMaya ] Success!! - DetailState:8
+17:14:48 [ KANTURU ][ BattleOfMaya ] State(8) -> MAYA2
+17:14:48 [ KANTURU ][ BrokenShower ] Skill Using : Index(3065) Maya
+17:15:08 [ KANTURU ][ BrokenShower ] Skill Using : Index(3065) Maya
+17:15:09 [ KANTURU ][ BattleOfMaya ] Success!! - DetailState:9
+17:15:12 [ KANTURU ][ BattleOfMaya ] State(9) -> END_MAYA2
+17:15:16 [ KANTURU ][ BattleOfMaya ] State(10) -> ENDCYCLE_MAYA2
+17:15:18 [ KANTURU ][ BattleOfMaya ] State(11) -> STANBY3
+17:17:17 [ KANTURU ][ BattleOfMaya ] State(12) -> START3
+17:19:02 [ KANTURU ][ BattleOfMaya ] Success!! - DetailState:13
+17:19:02 [ KANTURU ][ BattleOfMaya ] State(13) -> MAYA3
+17:19:03 [ KANTURU ][ BrokenShower ] Skill Using : Index(3088) Maya
+17:19:23 [ KANTURU ][ BrokenShower ] Skill Using : Index(3088) Maya
+17:19:43 [ KANTURU ][ BrokenShower ] Skill Using : Index(3088) Maya
+17:20:03 [ KANTURU ][ BrokenShower ] Skill Using : Index(3088) Maya
+17:20:12 [ KANTURU ][ BattleOfMaya ] Success!! - DetailState:14
+17:20:15 [ KANTURU ][ BattleOfMaya ] State(14) -> END_MAYA3
+17:20:19 [ KANTURU ][ BattleOfMaya ] State(15) -> ENDCYCLE_MAYA3
+17:20:28 [ KANTURU ][ BattleOfMaya ] State(16) -> END
+17:20:28 [ KANTURU ][ BattleOfMaya ] Success Value[1]
+17:20:30 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+17:20:31 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+17:20:31 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+17:20:31 [ KANTURU ] State(2) -> BATTLE_OF_NIGHTMARE
+17:20:31 [ KANTURU ][ BattleOfNightmare ] State(0) -> IDLE
+17:20:31 [ KANTURU ][ BattleUser ] [lean009][Nega] MoveGate(134)
+17:20:35 [ KANTURU ][ BattleOfNightmare ] State(1) -> NOTIFY
+17:20:44 [ KANTURU ][ BattleOfNightmare ] State(2) -> START
+17:23:45 [ KANTURU ][ BattleOfNightmare ] State(3) -> END
+17:23:45 [ KANTURU ][ BattleOfNightmare ] Success!! Nightmare Die
+17:23:50 [ KANTURU ][ BattleOfNightmare ] State(4) -> ENDCYCLE
+17:23:50 [ KANTURU ][ BattleOfNightmare ] State(5) -> NONE
+17:23:50 [ KANTURU ][ Map Attr Change ] Map(0) State(3) DetailState(0)
+17:23:50 [ KANTURU ] State(3) -> TOWER_OF_REFINEMENT
+17:23:50 [ KANTURU ][ TowerOfRefinement ] State(0) -> REVITALIZATION
+17:23:50 [ KANTURU ][ Map Attr Change ] Map(1) State(4) DetailState(1)
+17:24:54 [ObjectManager][9000] DelCharacterInfo (Nega)
+17:24:54 [ObjectManager][9000] DelAccountInfo (lean009)
+17:24:54 [ObjectManager][9000] DelClient (192.168.0.85)
+17:25:06 [ServerInfo] ChaosMix loaded successfully
+17:25:06 [ServerInfo] Character loaded successfully
+17:25:06 [ServerInfo] Command loaded successfully
+17:25:06 [ServerInfo] Common loaded successfully
+17:25:06 [ServerInfo] Custom loaded successfully
+17:25:06 [ServerInfo] Event loaded successfully
+17:25:06 [ServerInfo] EventItemBag loaded successfully
+17:25:06 [ServerInfo] Hack loaded successfully
+17:25:06 [ServerInfo] Item loaded successfully
+17:25:06 [ServerInfo] Monster loaded successfully
+17:25:06 [ServerInfo] Move loaded successfully
+17:25:06 [ServerInfo] Quest loaded successfully
+17:25:06 [ServerInfo] Shop loaded successfully
+17:25:06 [ServerInfo] Skill loaded successfully
+17:25:06 [ServerInfo] Util loaded successfully
+17:25:06 [Blood Castle] (1) Sync Start Time. [94] min remain
+17:25:06 [Blood Castle] (1) SetState EMPTY
+17:25:06 [Blood Castle] (2) Sync Start Time. [94] min remain
+17:25:06 [Blood Castle] (2) SetState EMPTY
+17:25:06 [Blood Castle] (3) Sync Start Time. [94] min remain
+17:25:06 [Blood Castle] (3) SetState EMPTY
+17:25:06 [Blood Castle] (4) Sync Start Time. [94] min remain
+17:25:06 [Blood Castle] (4) SetState EMPTY
+17:25:06 [Blood Castle] (5) Sync Start Time. [94] min remain
+17:25:06 [Blood Castle] (5) SetState EMPTY
+17:25:06 [Blood Castle] (6) Sync Start Time. [94] min remain
+17:25:06 [Blood Castle] (6) SetState EMPTY
+17:25:06 [Blood Castle] (7) Sync Start Time. [94] min remain
+17:25:06 [Blood Castle] (7) SetState EMPTY
+17:25:06 [Castle Deep] SetState BLANK
+17:25:06 [Chaos Castle] (1) Sync Start Time. [34] min remain
+17:25:06 [Chaos Castle] (1) SetState EMPTY
+17:25:06 [Chaos Castle] (2) Sync Start Time. [34] min remain
+17:25:06 [Chaos Castle] (2) SetState EMPTY
+17:25:06 [Chaos Castle] (3) Sync Start Time. [34] min remain
+17:25:06 [Chaos Castle] (3) SetState EMPTY
+17:25:06 [Chaos Castle] (4) Sync Start Time. [34] min remain
+17:25:06 [Chaos Castle] (4) SetState EMPTY
+17:25:06 [Chaos Castle] (5) Sync Start Time. [34] min remain
+17:25:06 [Chaos Castle] (5) SetState EMPTY
+17:25:06 [Chaos Castle] (6) Sync Start Time. [34] min remain
+17:25:06 [Chaos Castle] (6) SetState EMPTY
+17:25:06 [Devil Square] (1) Sync Start Time. [154] min remain
+17:25:06 [Devil Square] (1) SetState EMPTY
+17:25:06 [Devil Square] (2) Sync Start Time. [154] min remain
+17:25:06 [Devil Square] (2) SetState EMPTY
+17:25:06 [Devil Square] (3) Sync Start Time. [154] min remain
+17:25:06 [Devil Square] (3) SetState EMPTY
+17:25:06 [Devil Square] (4) Sync Start Time. [154] min remain
+17:25:06 [Devil Square] (4) SetState EMPTY
+17:25:06 [Devil Square] (5) Sync Start Time. [154] min remain
+17:25:06 [Devil Square] (5) SetState EMPTY
+17:25:06 [Devil Square] (6) Sync Start Time. [154] min remain
+17:25:06 [Devil Square] (6) SetState EMPTY
+17:25:06 [Illusion Temple] (1) SetState BLANK
+17:25:06 [Illusion Temple] (2) SetState BLANK
+17:25:06 [Illusion Temple] (3) SetState BLANK
+17:25:06 [Illusion Temple] (4) SetState BLANK
+17:25:06 [Illusion Temple] (5) SetState BLANK
+17:25:06 [Illusion Temple] (6) SetState BLANK
+17:25:08 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+17:25:08 [ KANTURU ] State(0) -> STANDBY
+17:25:08 [ KANTURU ][ BattleStanby ] State(0) -> START
+17:25:21 [ObjectManager][9000] AddClient (192.168.0.85)
+17:25:24 [ObjectManager][9000] AddAccountInfo (lean009)
+17:25:27 [ObjectManager][9000] AddCharacterInfo (Nega)
+17:28:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:29:26 [ KANTURU ][ BattleStanby ] State(2) -> END
+17:29:26 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+17:29:26 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+17:29:26 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+17:29:26 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+17:31:25 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+17:31:25 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+17:31:25 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+17:31:25 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+17:31:27 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+17:31:27 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+17:31:27 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+17:31:27 [ KANTURU ] State(2) -> END
+17:31:27 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+17:31:27 [ KANTURU ] State(5) -> NONE
+17:31:27 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+17:31:27 [ KANTURU ] State(0) -> STANDBY
+17:31:27 [ KANTURU ][ BattleStanby ] State(0) -> START
+17:33:30 [ObjectManager][9000] DelCharacterInfo (Nega)
+17:33:30 [ObjectManager][9000] DelAccountInfo (lean009)
+17:33:30 [ObjectManager][9000] DelClient (192.168.0.85)
+22:14:55 [ServerInfo] ChaosMix loaded successfully
+22:14:55 [ServerInfo] Character loaded successfully
+22:14:55 [ServerInfo] Command loaded successfully
+22:14:55 [ServerInfo] Common loaded successfully
+22:14:55 [ServerInfo] Custom loaded successfully
+22:14:55 [ServerInfo] Event loaded successfully
+22:14:55 [ServerInfo] EventItemBag loaded successfully
+22:14:55 [ServerInfo] Hack loaded successfully
+22:14:55 [ServerInfo] Item loaded successfully
+22:14:55 [ServerInfo] Monster loaded successfully
+22:14:55 [ServerInfo] Move loaded successfully
+22:14:55 [ServerInfo] Quest loaded successfully
+22:14:55 [ServerInfo] Shop loaded successfully
+22:14:55 [ServerInfo] Skill loaded successfully
+22:14:55 [ServerInfo] Util loaded successfully
+22:14:55 [Blood Castle] (1) Sync Start Time. [165] min remain
+22:14:55 [Blood Castle] (1) SetState EMPTY
+22:14:55 [Blood Castle] (2) Sync Start Time. [165] min remain
+22:14:55 [Blood Castle] (2) SetState EMPTY
+22:14:55 [Blood Castle] (3) Sync Start Time. [165] min remain
+22:14:55 [Blood Castle] (3) SetState EMPTY
+22:14:55 [Blood Castle] (4) Sync Start Time. [165] min remain
+22:14:55 [Blood Castle] (4) SetState EMPTY
+22:14:55 [Blood Castle] (5) Sync Start Time. [165] min remain
+22:14:55 [Blood Castle] (5) SetState EMPTY
+22:14:55 [Blood Castle] (6) Sync Start Time. [165] min remain
+22:14:55 [Blood Castle] (6) SetState EMPTY
+22:14:55 [Blood Castle] (7) Sync Start Time. [165] min remain
+22:14:55 [Blood Castle] (7) SetState EMPTY
+22:14:55 [Castle Deep] SetState BLANK
+22:14:55 [Chaos Castle] (1) Sync Start Time. [105] min remain
+22:14:55 [Chaos Castle] (1) SetState EMPTY
+22:14:55 [Chaos Castle] (2) Sync Start Time. [105] min remain
+22:14:55 [Chaos Castle] (2) SetState EMPTY
+22:14:55 [Chaos Castle] (3) Sync Start Time. [105] min remain
+22:14:55 [Chaos Castle] (3) SetState EMPTY
+22:14:55 [Chaos Castle] (4) Sync Start Time. [105] min remain
+22:14:55 [Chaos Castle] (4) SetState EMPTY
+22:14:55 [Chaos Castle] (5) Sync Start Time. [105] min remain
+22:14:55 [Chaos Castle] (5) SetState EMPTY
+22:14:55 [Chaos Castle] (6) Sync Start Time. [105] min remain
+22:14:55 [Chaos Castle] (6) SetState EMPTY
+22:14:55 [Devil Square] (1) Sync Start Time. [45] min remain
+22:14:55 [Devil Square] (1) SetState EMPTY
+22:14:55 [Devil Square] (2) Sync Start Time. [45] min remain
+22:14:55 [Devil Square] (2) SetState EMPTY
+22:14:55 [Devil Square] (3) Sync Start Time. [45] min remain
+22:14:55 [Devil Square] (3) SetState EMPTY
+22:14:55 [Devil Square] (4) Sync Start Time. [45] min remain
+22:14:55 [Devil Square] (4) SetState EMPTY
+22:14:55 [Devil Square] (5) Sync Start Time. [45] min remain
+22:14:55 [Devil Square] (5) SetState EMPTY
+22:14:55 [Devil Square] (6) Sync Start Time. [45] min remain
+22:14:55 [Devil Square] (6) SetState EMPTY
+22:14:55 [Illusion Temple] (1) SetState BLANK
+22:14:55 [Illusion Temple] (2) SetState BLANK
+22:14:55 [Illusion Temple] (3) SetState BLANK
+22:14:55 [Illusion Temple] (4) SetState BLANK
+22:14:55 [Illusion Temple] (5) SetState BLANK
+22:14:55 [Illusion Temple] (6) SetState BLANK
+22:14:56 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:14:56 [ KANTURU ] State(0) -> STANDBY
+22:14:56 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:15:19 [ServerInfo] ChaosMix loaded successfully
+22:15:19 [ServerInfo] Character loaded successfully
+22:15:19 [ServerInfo] Command loaded successfully
+22:15:19 [ServerInfo] Common loaded successfully
+22:15:19 [ServerInfo] Custom loaded successfully
+22:15:19 [ServerInfo] Event loaded successfully
+22:15:19 [ServerInfo] EventItemBag loaded successfully
+22:15:19 [ServerInfo] Hack loaded successfully
+22:15:19 [ServerInfo] Item loaded successfully
+22:15:19 [ServerInfo] Monster loaded successfully
+22:15:19 [ServerInfo] Move loaded successfully
+22:15:19 [ServerInfo] Quest loaded successfully
+22:15:19 [ServerInfo] Shop loaded successfully
+22:15:19 [ServerInfo] Skill loaded successfully
+22:15:19 [ServerInfo] Util loaded successfully
+22:15:20 [Blood Castle] (1) Sync Start Time. [164] min remain
+22:15:20 [Blood Castle] (1) SetState EMPTY
+22:15:20 [Blood Castle] (2) Sync Start Time. [164] min remain
+22:15:20 [Blood Castle] (2) SetState EMPTY
+22:15:20 [Blood Castle] (3) Sync Start Time. [164] min remain
+22:15:20 [Blood Castle] (3) SetState EMPTY
+22:15:20 [Blood Castle] (4) Sync Start Time. [164] min remain
+22:15:20 [Blood Castle] (4) SetState EMPTY
+22:15:20 [Blood Castle] (5) Sync Start Time. [164] min remain
+22:15:20 [Blood Castle] (5) SetState EMPTY
+22:15:20 [Blood Castle] (6) Sync Start Time. [164] min remain
+22:15:20 [Blood Castle] (6) SetState EMPTY
+22:15:20 [Blood Castle] (7) Sync Start Time. [164] min remain
+22:15:20 [Blood Castle] (7) SetState EMPTY
+22:15:20 [Castle Deep] SetState BLANK
+22:15:20 [Chaos Castle] (1) Sync Start Time. [104] min remain
+22:15:20 [Chaos Castle] (1) SetState EMPTY
+22:15:20 [Chaos Castle] (2) Sync Start Time. [104] min remain
+22:15:20 [Chaos Castle] (2) SetState EMPTY
+22:15:20 [Chaos Castle] (3) Sync Start Time. [104] min remain
+22:15:20 [Chaos Castle] (3) SetState EMPTY
+22:15:20 [Chaos Castle] (4) Sync Start Time. [104] min remain
+22:15:20 [Chaos Castle] (4) SetState EMPTY
+22:15:20 [Chaos Castle] (5) Sync Start Time. [104] min remain
+22:15:20 [Chaos Castle] (5) SetState EMPTY
+22:15:20 [Chaos Castle] (6) Sync Start Time. [104] min remain
+22:15:20 [Chaos Castle] (6) SetState EMPTY
+22:15:20 [Devil Square] (1) Sync Start Time. [44] min remain
+22:15:20 [Devil Square] (1) SetState EMPTY
+22:15:20 [Devil Square] (2) Sync Start Time. [44] min remain
+22:15:20 [Devil Square] (2) SetState EMPTY
+22:15:20 [Devil Square] (3) Sync Start Time. [44] min remain
+22:15:20 [Devil Square] (3) SetState EMPTY
+22:15:20 [Devil Square] (4) Sync Start Time. [44] min remain
+22:15:20 [Devil Square] (4) SetState EMPTY
+22:15:20 [Devil Square] (5) Sync Start Time. [44] min remain
+22:15:20 [Devil Square] (5) SetState EMPTY
+22:15:20 [Devil Square] (6) Sync Start Time. [44] min remain
+22:15:20 [Devil Square] (6) SetState EMPTY
+22:15:20 [Illusion Temple] (1) SetState BLANK
+22:15:20 [Illusion Temple] (2) SetState BLANK
+22:15:20 [Illusion Temple] (3) SetState BLANK
+22:15:20 [Illusion Temple] (4) SetState BLANK
+22:15:20 [Illusion Temple] (5) SetState BLANK
+22:15:20 [Illusion Temple] (6) SetState BLANK
+22:15:21 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:15:21 [ KANTURU ] State(0) -> STANDBY
+22:15:21 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:15:47 [ObjectManager][9000] AddClient (192.168.0.85)
+22:15:55 [ObjectManager][9000] AddAccountInfo (lean009)
+22:15:57 [ObjectManager][9000] AddCharacterInfo (Nega)
+22:17:57 [ObjectManager][9000] DelCharacterInfo (Nega)
+22:17:57 [ObjectManager][9000] DelAccountInfo (lean009)
+22:17:57 [ObjectManager][9000] DelClient (192.168.0.85)
+22:18:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:19:39 [ KANTURU ][ BattleStanby ] State(2) -> END
+22:19:39 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+22:19:39 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+22:19:39 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+22:19:39 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+22:21:38 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+22:21:38 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+22:21:38 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+22:21:38 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+22:21:40 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+22:21:40 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+22:21:40 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+22:21:40 [ KANTURU ] State(2) -> END
+22:21:40 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+22:21:40 [ KANTURU ] State(5) -> NONE
+22:21:40 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:21:40 [ KANTURU ] State(0) -> STANDBY
+22:21:40 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:25:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:25:59 [ KANTURU ][ BattleStanby ] State(2) -> END
+22:25:59 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+22:25:59 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+22:25:59 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+22:25:59 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+22:27:58 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+22:27:58 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+22:27:58 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+22:27:58 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+22:28:00 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+22:28:00 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+22:28:00 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+22:28:00 [ KANTURU ] State(2) -> END
+22:28:00 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+22:28:00 [ KANTURU ] State(5) -> NONE
+22:28:00 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:28:00 [ KANTURU ] State(0) -> STANDBY
+22:28:00 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:31:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:31:51 [ObjectManager][9000] AddClient (192.168.0.85)
+22:31:55 [ObjectManager][9000] AddAccountInfo (lean009)
+22:31:58 [ObjectManager][9000] AddCharacterInfo (Nega)
+22:32:19 [ KANTURU ][ BattleStanby ] State(2) -> END
+22:32:19 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+22:32:19 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+22:32:19 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+22:32:19 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+22:32:49 [ObjectManager][9000] DelCharacterInfo (Nega)
+22:32:49 [ObjectManager][9000] DelAccountInfo (lean009)
+22:32:49 [ObjectManager][9000] DelClient (192.168.0.85)
+22:34:18 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+22:34:18 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+22:34:18 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+22:34:18 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+22:34:20 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+22:34:20 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+22:34:20 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+22:34:20 [ KANTURU ] State(2) -> END
+22:34:20 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+22:34:20 [ KANTURU ] State(5) -> NONE
+22:34:20 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:34:20 [ KANTURU ] State(0) -> STANDBY
+22:34:20 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:37:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY

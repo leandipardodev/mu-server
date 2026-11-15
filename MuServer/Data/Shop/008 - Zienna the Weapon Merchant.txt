@@ -1,0 +1,41 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.GamesBit.net
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 008 - Zienna the Weapon Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+7		9		0		0	0		1		0	0	//Plate Helm
+7		3		0		0	0		1		0	0	//Plate Helm
+7		1		0		0	0		1		0	0	//Dragon Helm
+7		26		0		0	0		1		0	0	//Adamantine Mask
+
+8		9		0		0	0		1		0	0	//Plate Armor
+8		3		0		0	0		1		0	0	//Plate Armor
+8		1		0		0	0		1		0	0	//Dragon Armor
+8		26		0		0	0		1		0	0	//Adamantine Armor
+
+
+9		9		0		0	0		1		0	0	//Plate Pants
+9		3		0		0	0		1		0	0	//Plate Pants
+9		1		0		0	0		1		0	0	//Dragon Pants
+9		26		0		0	0		1		0	0	//Adamantine Pants
+
+10		9		0		0	0		1		0	0	//Plate Gloves
+10		3		0		0	0		1		0	0	//Plate Gloves
+10		1		0		0	0		1		0	0	//Dragon Gloves
+10		26		0		0	0		1		0	0	//Adamantine Gloves
+
+11		9		0		0	0		1		0	0	//Plate Boots
+11		3		0		0	0		1		0	0	//Plate Boots
+11		1		0		0	0		1		0	0	//Dragon Boots
+11		26		0		0	0		1		0	0	//Adamantine Boots
+
+0		16		0		0	1		1		0	0	//Sword of Destruction
+5		5		0		0	1		1		0	0	//Knight Blade
+2		8		0		0	1		1		0	0	//Knight Blade
+
+end

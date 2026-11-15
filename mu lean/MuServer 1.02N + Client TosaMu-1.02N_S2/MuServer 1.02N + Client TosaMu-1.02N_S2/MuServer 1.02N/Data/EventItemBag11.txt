@@ -1,0 +1,82 @@
+//////////////////////////////////////////////////////////////////////////////////
+// 최종 작업자    : MuProject Team                                              //
+// 최종 작업일    : 2007 / 07 / 08                                              //
+// 최종 작업 내용 : 문서 정리                                                   //
+//////////////////////////////////////////////////////////////////////////////////
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ 쿤둔의상자+4 : 아틀란스의 습격 / 황금리자드킹                                ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+//일반 26행 / 액설런트 18행
+//일반 아이템과 액설런트 아이템에는 반드시 하나 이상의 아이템이 있어야 함
+
+//[타입] [번호] [레벨] [0] [액설런트여부:1이면액템이드랍됨] [0]
+//---------------------------------------------------------------------------------
+// 일반 아이템
+//---------------------------------------------------------------------------------
+	12	15	0	0	0	0	//혼돈의보석
+	14	16	0	0	0	0	//생명의보석
+//---------------------------------------------------------------------------------
+// 액설런트 아이템
+//---------------------------------------------------------------------------------
+	0	23	0	0	1	0	//익스플로전블레이드
+	0	25	0	0	1	0	//소드댄서
+	8	32	0	0	1	0	//볼케이노갑옷
+	9	32	0	0	1	0	//볼케이노바지
+	10	32	0	0	1	0	//볼케이노장갑
+	11	32	0	0	1	0	//볼케이노부츠
+	8	37	0	0	1	0	//발리언트갑옷
+	9	37	0	0	1	0	//발리언트바지
+	10	37	0	0	1	0	//발리언트장갑
+	11	37	0	0	1	0	//발리언트부츠
+//Black Dragon Set
+7 16 0 0 0 0 //Black Dragon Helm
+8 16 0 0 0 0 //Black Dragon Armor
+9 16 0 0 0 0 //Black Dragon Pants
+10 16 0 0 0 0 //Black Dragon Gloves
+11 16 0 0 0 0 //Black Dragon Boots
+//Blade Knight (Melhor)
+7 17 0 0 1 0 //Phoenix Helm
+8 17 0 0 1 0 //Phoenix Armor
+9 17 0 0 1 0 //Phoenix Pants
+10 17 0 0 1 0 //Phoenix Gloves
+11 17 0 0 1 0 //Phoenix Boots
+//Soul Master (Melhor)
+7 18 0 0 1 0 //Grand Soul Helm
+8 18 0 0 1 0 //Grand Soul Armor
+9 18 0 0 1 0 //Grand Soul Pants
+10 18 0 0 1 0 //Grand Soul Gloves
+11 18 0 0 1 0 //Grand Soul Boots
+//Muse Elf (Melhor)
+7 19 0 0 1 0 //Divine Helm
+8 19 0 0 1 0 //Divine Armor
+9 19 0 0 1 0 //Divine Pants
+10 19 0 0 1 0 //Divine Gloves
+11 19 0 0 1 0 //Divine Boots
+//Magic Gladiator (Melhor)
+8 20 0 0 1 0 //Thunder Armor
+9 20 0 0 1 0 //Thunder Pants
+10 20 0 0 1 0 //Thunder Gloves
+11 20 0 0 1 0 //Thunder Boots
+//Embroidered Set
+7 25 0 0 1 0 //Embroidered Helm
+8 25 0 0 1 0 //Embroidered Armor
+9 25 0 0 1 0 //Embroidered Pants
+10 25 0 0 1 0 //Embroidered Gloves
+11 25 0 0 1 0 //Embroidered Boots
+//Armas
+4 16 0 1 1 1 //Divine Crossbow(Elf)
+4 17 0 1 1 1 //Divine Bow(Elf)
+5 9 0 1 1 1 //Unicorn Staff(DW,MG)
+5 8 0 1 1 1 //Staff Of Destruction(DW,MG)
+5 7 0 1 1 1 //Chaos Lightning Staff
+0 17 5 1 1 1 //Dragon Slayer(Dk)
+0 16 0 1 1 1 //Sword Of Destruction(Dk)
+0 19 0 1 1 1 //Angelic Sword (BK)
+5 10 0 1 1 1 //Angelic Staff (SM)
+4 18 0 1 1 1 //Angelic Crossbow (ELF)
+//Escudos
+6 12 0 1 1 1 //Bronzeshield
+6 11 0 1 1 1 //Serpentshield
+6 5 0 1 1 1 //Shield Of Dragonslayer
+6 14 0 1 1 1 //Legendary shield (SM)

@@ -1,0 +1,29 @@
+[FtpServerInfo]
+Address = 127.0.0.1
+Port    = 21
+ID      = 
+PASS	= 
+
+[FtpServerInfo_LocalTest]
+Address = 127.0.0.1
+Port    = 
+ID      = 
+PASS	= 
+
+[HttpServerInfo]
+HTTPAddress = 
+Port    = 
+ID      = 
+PASS	= 
+
+[GameServerInfo]
+ClientVersion      = 1.02.21
+ClientVersion_TEST = 0.0.0
+VersionFileName    = version.wvd
+DownLoadType       = 0
+
+[TestConnServerInfo]
+Address = no-ip
+
+[LocalNetworkConnect]
+LocalConnectOnly = 0

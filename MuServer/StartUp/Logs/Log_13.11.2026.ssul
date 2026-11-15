@@ -1,0 +1,736 @@
+﻿-=-=-=-=-= Begin write Logs: 13.11.2026 00:18:00 =-=-=-=-=-
+[00:18:00] Process tree has been loaded successfully.
+[00:18:00] The process 'ConnectServer.exe' (ID: 1) is ready.
+[00:18:00] The process 'JoinServer.exe' (ID: 2) is ready.
+[00:18:00] The process 'DataServer.exe' (ID: 3) is ready.
+[00:18:00] The process 'GameServer.exe' (ID: 4) is ready.
+[00:18:00] The process 'MHPServer.exe' (ID: 5) is ready.
+[00:18:00] The process 'GameServerCS.exe' (ID: 6) is ready.
+[00:18:02] Processes execution has been initialized.
+[00:18:04] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[00:18:05] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[00:18:06] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[00:18:08] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[00:18:09] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[00:18:10] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[00:27:08] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[00:27:08] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[00:27:08] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[00:27:08] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[00:27:08] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[00:27:08] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[00:27:08] Processes execution has been terminated.
+-=-=-=-=-= End write Logs: 13.11.2026 00:27:11 =-=-=-=-=-
+
+
+-=-=-=-=-= Begin write Logs: 13.11.2026 01:33:48 =-=-=-=-=-
+[01:33:48] Process tree has been loaded successfully.
+[01:33:48] The process 'ConnectServer.exe' (ID: 1) is ready.
+[01:33:48] The process 'JoinServer.exe' (ID: 2) is ready.
+[01:33:48] The process 'DataServer.exe' (ID: 3) is ready.
+[01:33:48] The process 'GameServer.exe' (ID: 4) is ready.
+[01:33:48] The process 'MHPServer.exe' (ID: 5) is ready.
+[01:33:48] The process 'GameServerCS.exe' (ID: 6) is ready.
+-=-=-=-=-= End write Logs: 13.11.2026 01:40:42 =-=-=-=-=-
+
+
+-=-=-=-=-= Begin write Logs: 13.11.2026 02:27:38 =-=-=-=-=-
+[02:27:38] Process tree has been loaded successfully.
+[02:27:38] The process 'ConnectServer.exe' (ID: 1) is ready.
+[02:27:38] The process 'JoinServer.exe' (ID: 2) is ready.
+[02:27:38] The process 'DataServer.exe' (ID: 3) is ready.
+[02:27:38] The process 'GameServer.exe' (ID: 4) is ready.
+[02:27:38] The process 'MHPServer.exe' (ID: 5) is ready.
+[02:27:38] The process 'GameServerCS.exe' (ID: 6) is ready.
+[02:27:41] Processes execution has been initialized.
+[02:27:43] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[02:27:44] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[02:27:45] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[02:27:47] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[02:27:48] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[02:27:50] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[03:37:18] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[03:37:18] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[03:37:18] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[03:37:18] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[03:37:18] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[03:37:18] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[03:37:18] Processes execution has been terminated.
+[03:37:19] Processes execution has been initialized.
+[03:37:20] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[03:37:22] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[03:37:23] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[03:37:25] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[03:37:26] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[03:37:27] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[04:14:49] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[04:14:49] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[04:14:49] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[04:14:49] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[04:14:49] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[04:14:49] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[04:14:49] Processes execution has been terminated.
+-=-=-=-=-= End write Logs: 13.11.2026 04:14:52 =-=-=-=-=-
+
+
+-=-=-=-=-= Begin write Logs: 13.11.2026 06:08:02 =-=-=-=-=-
+[06:08:02] Process tree has been loaded successfully.
+[06:08:02] The process 'ConnectServer.exe' (ID: 1) is ready.
+[06:08:02] The process 'JoinServer.exe' (ID: 2) is ready.
+[06:08:02] The process 'DataServer.exe' (ID: 3) is ready.
+[06:08:02] The process 'GameServer.exe' (ID: 4) is ready.
+[06:08:02] The process 'MHPServer.exe' (ID: 5) is ready.
+[06:08:02] The process 'GameServerCS.exe' (ID: 6) is ready.
+[06:08:05] Processes execution has been initialized.
+[06:08:06] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:08:07] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:08:08] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:08:10] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:08:11] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:08:12] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:24:44] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:24:44] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:24:44] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:24:44] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:24:44] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:24:44] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[06:24:44] Processes execution has been terminated.
+[06:24:45] Processes execution has been initialized.
+[06:24:47] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:24:48] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:24:49] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:24:51] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:24:53] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:24:55] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:25:44] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:25:44] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:25:44] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:25:44] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:25:44] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:25:44] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[06:25:44] Processes execution has been terminated.
+[06:25:45] Processes execution has been initialized.
+[06:25:47] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:25:48] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:25:49] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:25:51] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:25:52] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:25:55] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:26:10] Process 'GameServerCS.exe' (ID: 6) is not active.
+[06:30:14] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:30:14] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:30:14] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:30:14] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:30:14] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:30:14] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[06:30:14] Processes execution has been terminated.
+[06:30:15] Processes execution has been initialized.
+[06:30:16] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:30:18] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:30:19] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:30:21] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:30:22] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:30:25] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:30:40] Process 'GameServerCS.exe' (ID: 6) is not active.
+[06:30:47] Process 'GameServerCS.exe' (ID: 6) is not active.
+[06:32:31] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:32:31] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:32:31] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:32:31] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:32:31] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:32:31] Processes execution has been terminated.
+[06:32:32] Processes execution has been initialized.
+[06:32:33] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:32:35] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:32:36] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:32:38] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:32:39] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:32:42] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:32:57] Process 'GameServer.exe' (ID: 4) is not active.
+[06:32:57] Process 'GameServerCS.exe' (ID: 6) is not active.
+[06:34:41] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:34:41] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:34:41] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:34:41] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:34:41] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:34:41] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[06:34:41] Processes execution has been terminated.
+[06:34:42] Processes execution has been initialized.
+[06:34:43] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:34:44] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:34:45] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:34:47] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:34:48] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:34:49] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:48:31] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:48:32] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:48:32] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:48:32] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:48:32] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:48:32] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[06:48:32] Processes execution has been terminated.
+[06:48:35] Processes execution has been initialized.
+[06:48:36] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:48:38] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:48:39] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:48:40] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:48:42] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:48:43] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:52:29] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:52:29] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:52:29] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:52:29] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:52:29] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:52:29] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[06:52:29] Processes execution has been terminated.
+[06:52:33] Processes execution has been initialized.
+[06:52:34] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:52:36] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:52:37] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:52:38] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:52:39] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:52:41] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[06:57:38] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[06:57:38] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[06:57:38] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[06:57:38] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[06:57:38] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[06:57:38] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[06:57:38] Processes execution has been terminated.
+[06:57:39] Processes execution has been initialized.
+[06:57:40] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[06:57:42] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[06:57:43] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[06:57:44] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[06:57:45] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[06:57:47] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:01:07] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:01:07] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:01:07] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:01:07] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:01:07] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:01:07] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:01:07] Processes execution has been terminated.
+[07:01:30] Processes execution has been initialized.
+[07:01:31] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:01:32] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:01:34] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:01:35] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:01:36] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:01:38] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:02:57] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:02:57] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:02:57] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:02:57] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:02:57] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:02:57] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:02:57] Processes execution has been terminated.
+[07:03:00] Processes execution has been initialized.
+[07:03:01] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:03:02] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:03:04] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:03:05] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:03:06] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:03:08] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:04:55] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:04:55] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:04:55] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:04:55] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:04:55] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:04:55] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:04:55] Processes execution has been terminated.
+[07:04:57] Processes execution has been initialized.
+[07:04:58] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:04:59] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:05:00] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:05:02] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:05:03] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:05:04] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:06:38] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:06:38] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:06:38] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:06:38] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:06:38] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:06:38] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:06:38] Processes execution has been terminated.
+[07:06:39] Processes execution has been initialized.
+[07:06:40] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:06:42] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:06:43] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:06:44] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:06:45] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:06:47] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:09:08] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:09:08] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:09:08] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:09:08] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:09:08] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:09:08] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:09:08] Processes execution has been terminated.
+[07:09:11] Processes execution has been initialized.
+[07:09:12] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:09:13] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:09:14] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:09:16] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:09:17] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:09:19] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:11:16] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:11:16] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:11:16] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:11:16] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:11:16] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:11:16] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:11:16] Processes execution has been terminated.
+[07:11:19] Processes execution has been initialized.
+[07:11:20] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:11:21] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:11:22] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:11:24] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:11:25] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:11:26] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:13:47] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:13:47] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:13:47] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:13:47] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:13:47] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:13:47] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:13:47] Processes execution has been terminated.
+[07:13:53] Processes execution has been initialized.
+[07:13:54] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:13:55] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:13:56] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:13:58] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:13:59] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:14:00] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:14:54] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:14:54] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:14:54] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:14:54] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:14:54] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:14:54] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:14:54] Processes execution has been terminated.
+[07:14:55] Processes execution has been initialized.
+[07:14:56] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:14:57] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:14:59] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:15:00] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:15:01] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:15:03] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:16:59] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:16:59] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:16:59] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:16:59] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:16:59] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:16:59] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:16:59] Processes execution has been terminated.
+[07:17:01] Processes execution has been initialized.
+[07:17:02] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:17:03] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:17:04] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:17:07] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:17:08] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:17:10] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:17:46] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:17:46] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:17:46] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:17:46] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:17:46] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:17:46] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:17:46] Processes execution has been terminated.
+[07:17:48] Processes execution has been initialized.
+[07:17:49] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:17:50] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:17:52] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:17:53] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:17:54] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:17:56] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:19:04] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:19:04] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:19:04] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:19:05] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:19:05] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:19:05] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:19:05] Processes execution has been terminated.
+[07:19:07] Processes execution has been initialized.
+[07:19:08] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:19:09] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:19:10] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:19:12] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:19:13] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:19:14] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[07:54:22] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[07:54:22] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[07:54:22] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[07:54:22] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[07:54:22] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[07:54:22] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[07:54:22] Processes execution has been terminated.
+[07:54:23] Processes execution has been initialized.
+[07:54:25] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[07:54:26] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[07:54:27] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[07:54:29] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[07:54:30] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[07:54:31] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:00:14] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:00:14] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:00:14] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:00:14] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:00:14] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:00:14] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:00:14] Processes execution has been terminated.
+[08:00:15] Processes execution has been initialized.
+[08:00:16] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:00:18] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:00:19] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:00:20] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:00:22] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:00:23] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:03:57] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:03:57] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:03:57] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:03:57] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:03:57] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:03:57] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:03:57] Processes execution has been terminated.
+[08:04:00] Processes execution has been initialized.
+[08:04:01] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:04:02] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:04:04] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:04:05] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:04:07] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:04:08] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:04:51] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:04:51] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:04:51] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:04:51] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:04:51] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:04:51] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:04:51] Processes execution has been terminated.
+[08:04:52] Processes execution has been initialized.
+[08:04:53] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:04:54] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:04:55] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:04:57] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:04:58] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:04:59] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:12:12] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:12:12] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:12:12] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:12:12] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:12:12] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:12:12] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:12:12] Processes execution has been terminated.
+[08:12:13] Processes execution has been initialized.
+[08:12:15] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:12:16] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:12:17] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:12:19] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:12:20] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:12:21] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:14:07] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:14:07] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:14:07] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:14:07] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:14:07] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:14:07] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:14:07] Processes execution has been terminated.
+[08:14:09] Processes execution has been initialized.
+[08:14:10] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:14:12] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:14:13] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:14:14] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:14:15] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:14:17] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:16:45] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:16:45] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:16:45] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:16:45] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:16:45] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:16:45] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:16:45] Processes execution has been terminated.
+[08:16:47] Processes execution has been initialized.
+[08:16:48] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:16:49] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:16:50] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:16:52] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:16:53] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:16:55] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:22:52] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:22:52] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:22:52] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:22:52] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:22:52] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:22:52] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:22:52] Processes execution has been terminated.
+[08:22:54] Processes execution has been initialized.
+[08:22:55] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:22:56] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:22:57] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:22:59] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:23:00] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:23:01] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:32:14] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:32:14] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:32:14] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:32:14] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:32:14] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:32:14] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:32:14] Processes execution has been terminated.
+[08:32:32] Processes execution has been initialized.
+[08:32:33] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:32:35] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:32:36] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:32:37] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:32:38] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:32:40] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:33:29] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:33:29] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:33:29] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:33:29] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:33:29] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:33:29] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:33:29] Processes execution has been terminated.
+[08:33:30] Processes execution has been initialized.
+[08:33:31] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:33:33] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:33:34] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:33:35] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:33:36] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:33:38] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[08:57:10] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[08:57:10] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[08:57:10] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[08:57:10] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[08:57:10] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[08:57:10] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[08:57:10] Processes execution has been terminated.
+[08:57:12] Processes execution has been initialized.
+[08:57:13] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[08:57:14] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[08:57:16] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[08:57:17] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[08:57:18] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[08:57:20] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[09:04:16] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[09:04:16] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[09:04:16] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[09:04:16] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[09:04:16] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[09:04:17] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[09:04:17] Processes execution has been terminated.
+[09:04:18] Processes execution has been initialized.
+[09:04:19] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[09:04:20] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[09:04:21] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[09:04:23] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[09:04:24] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[09:04:26] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[09:09:43] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[09:09:43] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[09:09:43] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[09:09:43] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[09:09:43] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[09:09:43] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[09:09:43] Processes execution has been terminated.
+[09:09:48] Processes execution has been initialized.
+[09:09:49] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[09:09:50] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[09:09:51] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[09:09:53] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[09:09:54] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[09:09:56] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[09:16:50] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[09:16:50] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[09:16:50] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[09:16:50] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[09:16:50] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[09:16:50] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[09:16:50] Processes execution has been terminated.
+[09:16:51] Processes execution has been initialized.
+[09:16:53] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[09:16:54] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[09:16:55] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[09:16:56] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[09:16:58] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[09:16:59] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[09:21:45] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[09:21:45] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[09:21:45] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[09:21:45] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[09:21:45] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[09:21:45] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[09:21:45] Processes execution has been terminated.
+[09:21:46] Processes execution has been initialized.
+[09:21:47] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[09:21:49] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[09:21:50] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[09:21:51] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[09:21:52] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[09:21:54] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[09:28:31] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[09:28:31] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[09:28:31] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[09:28:31] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[09:28:31] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[09:28:31] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[09:28:31] Processes execution has been terminated.
+[09:28:33] Processes execution has been initialized.
+[09:28:34] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[09:28:35] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[09:28:36] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[09:28:38] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[09:28:39] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[09:28:40] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[09:45:05] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[09:45:05] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[09:45:05] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[09:45:05] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[09:45:05] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[09:45:05] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[09:45:05] Processes execution has been terminated.
+[09:45:07] Processes execution has been initialized.
+[09:45:08] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[09:45:09] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[09:45:10] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[09:45:12] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[09:45:13] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[09:45:14] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[09:47:36] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[09:47:36] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[09:47:36] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[09:47:36] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[09:47:36] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[09:47:36] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[09:47:36] Processes execution has been terminated.
+[09:47:39] Processes execution has been initialized.
+[09:47:41] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[09:47:42] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[09:47:43] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[09:47:44] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[09:47:46] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[09:47:47] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[10:24:11] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[10:24:11] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[10:24:11] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[10:24:11] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[10:24:11] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[10:24:11] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[10:24:11] Processes execution has been terminated.
+[10:24:13] Processes execution has been initialized.
+[10:24:14] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[10:24:15] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[10:24:16] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[10:24:18] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[10:24:19] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[10:24:21] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[10:53:59] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[10:53:59] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[10:53:59] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[10:53:59] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[10:53:59] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[10:53:59] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[10:53:59] Processes execution has been terminated.
+[10:54:04] Processes execution has been initialized.
+[10:54:05] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[10:54:06] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[10:54:08] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[10:54:09] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[10:54:11] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[10:54:12] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[10:57:59] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[10:57:59] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[10:57:59] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[10:57:59] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[10:57:59] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[10:57:59] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[10:57:59] Processes execution has been terminated.
+[11:00:06] Processes execution has been initialized.
+[11:00:08] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[11:00:09] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[11:00:10] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[11:00:12] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[11:00:13] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[11:00:15] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[11:20:34] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[11:20:34] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[11:20:34] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[11:20:34] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[11:20:34] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[11:20:34] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[11:20:34] Processes execution has been terminated.
+-=-=-=-=-= End write Logs: 13.11.2026 11:20:36 =-=-=-=-=-
+
+
+-=-=-=-=-= Begin write Logs: 13.11.2026 11:57:33 =-=-=-=-=-
+[11:57:33] Process tree has been loaded successfully.
+[11:57:33] The process 'ConnectServer.exe' (ID: 1) is ready.
+[11:57:33] The process 'JoinServer.exe' (ID: 2) is ready.
+[11:57:33] The process 'DataServer.exe' (ID: 3) is ready.
+[11:57:33] The process 'GameServer.exe' (ID: 4) is ready.
+[11:57:33] The process 'MHPServer.exe' (ID: 5) is ready.
+[11:57:33] The process 'GameServerCS.exe' (ID: 6) is ready.
+[11:57:38] Processes execution has been initialized.
+[11:57:39] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[11:57:40] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[11:57:42] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[11:57:43] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[11:57:44] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[11:57:46] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[11:59:54] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[11:59:54] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[11:59:54] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[11:59:54] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[11:59:54] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[11:59:54] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[11:59:54] Processes execution has been terminated.
+-=-=-=-=-= End write Logs: 13.11.2026 11:59:57 =-=-=-=-=-
+
+
+-=-=-=-=-= Begin write Logs: 13.11.2026 12:22:53 =-=-=-=-=-
+[12:22:53] Process tree has been loaded successfully.
+[12:22:53] The process 'ConnectServer.exe' (ID: 1) is ready.
+[12:22:53] The process 'JoinServer.exe' (ID: 2) is ready.
+[12:22:53] The process 'DataServer.exe' (ID: 3) is ready.
+[12:22:53] The process 'GameServer.exe' (ID: 4) is ready.
+[12:22:53] The process 'MHPServer.exe' (ID: 5) is ready.
+[12:22:53] The process 'GameServerCS.exe' (ID: 6) is ready.
+[12:22:57] Processes execution has been initialized.
+[12:22:58] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[12:22:59] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[12:23:00] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[12:23:02] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[12:23:03] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[12:23:05] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[12:26:26] Process 'ConnectServer.exe' (ID: 1) execution has been terminated.
+[12:26:26] Process 'JoinServer.exe' (ID: 2) execution has been terminated.
+[12:26:26] Process 'DataServer.exe' (ID: 3) execution has been terminated.
+[12:26:26] Process 'GameServer.exe' (ID: 4) execution has been terminated.
+[12:26:26] Process 'MHPServer.exe' (ID: 5) execution has been terminated.
+[12:26:26] Process 'GameServerCS.exe' (ID: 6) execution has been terminated.
+[12:26:26] Processes execution has been terminated.
+-=-=-=-=-= End write Logs: 13.11.2026 12:26:28 =-=-=-=-=-
+
+
+-=-=-=-=-= Begin write Logs: 13.11.2026 12:38:12 =-=-=-=-=-
+[12:38:12] Process tree has been loaded successfully.
+[12:38:12] The process 'ConnectServer.exe' (ID: 1) is ready.
+[12:38:12] The process 'JoinServer.exe' (ID: 2) is ready.
+[12:38:12] The process 'DataServer.exe' (ID: 3) is ready.
+[12:38:12] The process 'GameServer.exe' (ID: 4) is ready.
+[12:38:12] The process 'MHPServer.exe' (ID: 5) is ready.
+[12:38:12] The process 'GameServerCS.exe' (ID: 6) is ready.
+[12:38:14] Processes execution has been initialized.
+[12:38:15] Process 'ConnectServer.exe' (ID: 1) execution has been initialized.
+[12:38:16] Process 'JoinServer.exe' (ID: 2) execution has been initialized.
+[12:38:17] Process 'DataServer.exe' (ID: 3) execution has been initialized.
+[12:38:19] Process 'GameServer.exe' (ID: 4) execution has been initialized.
+[12:38:20] Process 'MHPServer.exe' (ID: 5) execution has been initialized.
+[12:38:21] Process 'GameServerCS.exe' (ID: 6) execution has been initialized.
+[14:22:12] Process 'ConnectServer.exe' (ID: 1) is not active.
+[14:22:12] Process 'JoinServer.exe' (ID: 2) is not active.
+[14:22:12] Process 'DataServer.exe' (ID: 3) is not active.
+[14:22:12] Process 'GameServer.exe' (ID: 4) is not active.
+[14:22:12] Process 'MHPServer.exe' (ID: 5) is not active.
+[14:22:12] Process 'GameServerCS.exe' (ID: 6) is not active.
+[14:22:13] Process 'ConnectServer.exe' (ID: 1) has been restarted.

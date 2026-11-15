@@ -1,0 +1,407 @@
+//Lorencia
+0 1 "Bull Fighter"
+1 1 "Hound"
+2 1 "Dragonin"
+3 1 "Spider"
+4 1 "Elite Bull Fighter"
+5 1 "Hell Hound"
+6 1 "Lich"
+7 1 "Gigant"
+8 1 "Poison Bull Fighter"
+9 1 "Thunder Lich"
+
+//Dungeon
+10 1 "Dark Knight"
+11 1 "Ghost"
+12 1 "Larva"
+13 1 "Hell Spider"
+14 1 "Skeleton"
+15 1 "Skeleton Archer"
+16 1 "Elite Skeleton"
+17 1 "Cyclope"
+18 1 "Gorgon"
+
+//Devias
+19 1 "Yeti"
+20 1 "Elite Yeti"
+21 1 "Asesino"
+22 1 "Ice Monster"
+23 1 "Vikingo"
+24 1 "Worm"
+25 1 "Ice Queen"
+
+//Noria
+26 1 "Goblin"
+27 1 "Scorpion"
+28 1 "Beetle Monster"
+29 1 "Hunter"
+30 1 "Forest Monster"
+31 1 "Agon"
+32 1 "Stone Golem"
+33 1 "Elite Goblin"
+
+//Losttower
+34 1 "Cursed Wizard"
+35 1 "Death Gorgon"
+36 1 "Shadow"
+37 1 "Devil"
+38 1 "Barlog"
+39 1 "Poison Shadow"
+40 1 "Death Knight"
+41 1 "Death Cow"
+
+//Atlans
+45 1 "Bahamut"
+46 1 "Vepar"
+47 1 "Valkyrie"
+48 1 "Lizard King"
+49 1 "Hydra"
+51 1 "Great Bahamut"
+52 1 "Silver Valkyrie"
+
+//Tarkan
+57 1 "Iron Wheel"
+58 1 "Tantallos"
+59 1 "Zaikan"
+60 1 "Bloody Wolf"
+61 1 "Vim Knight"
+62 1 "Mutant"
+63 1 "Death Vim Knight"
+
+//Icarus
+69 1 "Aquamos"
+70 1 "Queen Rainer"
+71 1 "Mega Crust"
+72 1 "Phantom Knight"
+73 1 "Drakan"
+74 1 "Alpha Crust"
+75 1 "Gaint Drakan"
+76 1 "Dark Guard"
+77 1 "Phoenix"
+
+//Blood Castle 1(15 ~ 80)
+84 1 "King Orc +1"
+85 1 "Orc Archer +1"
+86 1 "Spirit Soldier +1"
+87 1 "Spirit Beast +1"
+88 1 "Spirit Knight +1"
+89 1 "Spirit Sourcerer +1"
+
+//Blood Castle 2 (81 ~ 130)
+90 1 "King Orc +2"
+91 1 "Orc Archer +2"
+92 1 "Spirit Soldier +2"
+93 1 "Spirit Beast +2"
+94 1 "Spirit Knight +2"
+95 1 "Spirit Sourcerer +2"
+
+//Blood Castle 3 (131 ~ 180)
+96 1 "King Orc +3"
+97 1 "Orc Archer +3"
+98 1 "Spirit Soldier +3"
+99 1 "Spirit Beast +3"
+111 1 "Spirit Knight +3"
+112 1 "Spirit Sourcerer +3"
+
+//Blood Castle 4 (181 ~ 230)
+113 1 "King Orc +4"
+114 1 "Orc Archer +4"
+115 1 "Spirit Soldier +4"
+116 1 "Spirit Beast +4"
+117 1 "Spirit Knight +4"
+118 1 "Spirit Sourcerer +4"
+
+//Blood Castle 5 (231 ~ 280)
+119 1 "King Orc +5"
+120 1 "Orc Archer +5"
+121 1 "Spirit Soldier +5"
+122 1 "Spirit Beast +5"
+123 1 "Spirit Knight +5"
+124 1 "Spirit Sourcerer +5"
+
+//Blood Castle 6 (281 ~330 )
+125 1 "King Orc +6"
+126 1 "Orc Archer +6"
+127 1 "Spirit Soldier +6"
+128 1 "Spirit Beast +6"
+129 1 "Spirit Knight +6"
+130 1 "Spirit Sourcerer +6"
+
+//Blood Castle 7 (331~ 400)
+138 1 "Orc BOSS"
+139 1 "Archer BOSS"
+140 1 "Soldier BOSS"
+141 1 "Beast BOSS"
+142 1 "Knight BOSS"
+143 1 "Sourcerer BOSS"
+
+//Puertas Kalima
+152 1 "Puerta"
+153 1 "Puerta"
+154 1 "Puerta"
+155 1 "Puerta"
+156 1 "Puerta"
+157 1 "Puerta"
+158 1 "Puerta"
+
+//Chaos Castle
+162 1 "CC +1"
+163 1 "CC +1"
+164 1 "CC +2"
+165 1 "CC +2"
+166 1 "CC +3"
+167 1 "CC +3"
+168 1 "CC +4"
+169 1 "CC +4"
+170 1 "CC +5"
+171 1 "CC +5"
+172 1 "CC +6"
+173 1 "CC +6"
+
+//Blood Castle NPC
+131 1 "Castle Gate"
+132 1 "Statue of Saint"
+133 1 "Statue of Saint"
+134 1 "Statue of Saint"
+
+//Dorados Kundum
+78 1 "Goblin Dorado"
+53 1 "Titan Dorado"
+79 1 "Dragon Dorado"
+81 1 "Lizard King Dorado"
+82 1 "Tantalo Dorado"
+
+//Dorados
+43 1 "Dragonin Dorado"
+44 1 "Dragon"
+54 1 "Solider Dorado"
+80 1 "Vepar Dorado"
+83 1 "Iron Wheel Dorado"
+
+//Special
+42 1 "Great Dragon"
+50 1 "Sea Worm"
+55 1 "Death King"
+56 1 "Death Bone"
+64 1 "Orc Elite"
+65 1 "Orc Warrior"
+66 1 "Great Wizard"
+67 1 "Metal Barlog"
+68 1 "Great Dragon"
+150 1 "Bali"
+151 1 "Solider"
+297 1 "PK"
+
+//Evento White Wizard
+135 1 "White Wizard"
+136 1 "Soldier Orc"
+137 1 "Archer Orc"
+
+//Traps
+100 1 "Saw Trap"
+101 1 "Skewer Trap"
+102 1 "Fire Trap"
+103 1 "Meteorite Trap"
+
+//Trampa CS
+104 1 "Siegue Trampa"
+
+//Kantru Trampa
+105 1 "Kay"
+106 1 "Laser"
+
+//Partidos
+200 1 "Balon"
+
+//NPC CS
+215 1 "Shield"
+216 1 "Crown"
+217 1 "Crown Switch 1"
+218 1 "Crown Switch 2"
+219 1 "Switch"
+220 1 "Guard"
+221 1 "Barricada Atake"
+222 1 "Barricada Defensa"
+223 1 "Senior"
+224 1 "Reguistro CS"
+
+277 1 "Puerta"
+278 1 "Life Stone"
+283 1 "Statua Guardian"
+284 1 "Vacio"
+285 1 "Guardian GATE"
+286 1 "Guard Archo"
+287 1 "Guard Lanza"
+288 1 "Canon Tower"
+
+//NPC
+226 1 "Trainer"
+229 1 "Malron"
+230 1 "Alex"
+231 1 "Thomson"
+232 1 "Archangel"
+233 1 "Archangel"
+234 1 "Goblin"
+235 1 "QUEST Sevina"
+236 1 "Golden Archer"
+237 1 "Charon DS"
+238 1 "Chaos Goblin"
+239 1 "Stadium Guard"
+240 1 "Vault Guard"
+241 1 "Guild Master"
+242 1 "Lala Elf"
+243 1 "Yoda"
+244 1 "Barmaid"
+245 1 "Maga"
+246 1 "Weapon Merchant"
+247 1 "Guard"
+248 1 "Peddler"
+249 1 "Guard"
+250 1 "Peddler"
+251 1 "Herrero"
+252 1 "Bull"
+253 1 "Potion Girl"
+254 1 "Mago"
+255 1 "Barmaid"
+256 1 "Lahap"
+257 1 "Elf Guard"
+258 1 "Guard 1"
+259 1 "Lima"
+
+//Kalima Monster 1
+144 1 "Death Angel +1"
+145 1 "Death Centurion +1"
+146 1 "Bloody Soldier +1"
+147 1 "Aegis +1"
+148 1 "Lord Centurion +1"
+149 1 "Necron +1"
+160 1 "Schriker +1"
+161 1 "KUNDUM +1"
+
+//Kalima Monster 2
+174 1 "Death Angel +2"
+175 1 "Death Centurion +2"
+176 1 "Bloody Soldier +2"
+177 1 "Aegis +2"
+178 1 "Lord Centurion +2"
+179 1 "Necron +2"
+180 1 "Schriker +2"
+181 1 "KUNDUM +2"
+
+//Kalima Monster 3
+182 1 "Death Angel +3"
+183 1 "Death Centurion +3"
+184 1 "Bloody Soldier +3"
+185 1 "Aegis +3"
+186 1 "Lord Centurion +3"
+187 1 "Necron +3"
+188 1 "Schriker +3"
+189 1 "KUNDUM +3"
+
+//Kalima Monster 4
+190 1 "Death Angel +4"
+191 1 "Death Centurion +4"
+192 1 "Bloody Soldier +4"
+193 1 "Aegis +4"
+194 1 "Lord Centurion +4"
+195 1 "Necron +4"
+196 1 "Schriker +4"
+197 1 "KUNDUM +4"
+
+//Kalima Monster 5
+260 1 "Death Angel +5"
+261 1 "Death Centurion +5"
+262 1 "Bloody Soldier +5"
+263 1 "Aegis +5"
+264 1 "Lord Centurion +5"
+265 1 "Necron +5"
+266 1 "Schriker +5"
+267 1 "KUNDUM +5"
+
+//Kalima Monster 6
+268 1 "Death Angel +6"
+269 1 "Death Centurion +6"
+270 1 "Bloody Soldier +6"
+271 1 "Aegis +6"
+272 1 "Lord Centurion +6"
+273 1 "Necron +6"
+274 1 "Schriker +6"
+275 1 "KUNDUM +6"
+
+//Lost Kalima
+331 1 "Angel"
+332 1 "Centurion"
+333 1 "Soldier"
+334 1 "Aegis"
+335 1 "Lord"
+336 1 "Necron"
+337 1 "Schriker"
+338 1 "Great Schriker"
+
+//Land Of Trial
+290 1 "Lizard Warrior"
+291 1 "Fire Golem"
+292 1 "Queen Bee"
+293 1 "Poison Golem"
+294 1 "Axel Warrior"
+295 1 "Dare Devil"
+
+//Deep Event
+300 1 "EXE Mutant"
+301 1 "EXE Crust"
+302 1 "EXE Axel"
+303 1 "EXE Golem"
+
+//Aida
+304 1 "Witch Queen"
+305 1 "Blue Golem"
+306 1 "Death Rider"
+307 1 "Forest Oke"
+308 1 "Death Tree"
+309 1 "Hell Maine"
+
+//Crywolf
+310 1 "Hammer Scout"
+311 1 "Lance Scout"
+312 1 "Bow Scout"
+313 1 "Werewolf"
+314 1 "Hammer (Hero)"
+315 1 "Werewolf (Hero)"
+316 1 "Mistik Elf"
+317 1 "Solam"
+
+//CryWolf BOSS
+341 1 "Soran"
+344 1 "Balram"
+345 1 "Spirit Warrior"
+340 1 "Dark Elf"
+348 1 "Ballesta"
+349 1 "Balgass"
+
+//Kantru
+350 1 "Kantru Berserk"
+351 1 "Kantru Wolf"
+352 1 "Kantru Rider"
+353 1 "Kantru Satyro"
+354 1 "Kantru Blade Arms"
+355 1 "Kantruario"
+356 1 "Kantru Great Axe"
+357 1 "Kantru Beast"
+358 1 "Kantru Insect"
+359 1 "Kantru Tail"
+360 1 "Kantru King"
+361 1 "Kantru Mare"
+
+//Boss
+362 1 "Hands Maya"
+363 1 "Maya"
+
+364 1 "Kantru 364"
+
+//Kantru NPC
+367 1 "Equipment"
+368 1 "Elpis"
+369 1 "Osbon"
+370 1 "Jebiden"
+371 1 "Guard 2"
+end

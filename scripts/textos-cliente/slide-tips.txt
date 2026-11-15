@@ -1,0 +1,32 @@
+Necesitás nivel 15 para entrar a Devias.
+Entrada a Devias desde Lorencia: coordenadas 7, 40.
+Desde nivel 10 podés perder experiencia y zen al morir.
+Teclas Q, W, E: pociones y pergamino de ciudad.
+Baúl de Lorencia: (140, 110) y (147, 144).
+Baúl de Lorencia: (173, 95).
+El baúl cobra una comisión según tu nivel.
+Usá el candado del baúl para protegerlo.
+Poné el mouse sobre la skill y apretá Ctrl + número para asignar hotkey.
+Entrada a Noria desde Lorencia: 214, 244.
+Entrada a Lorencia desde Noria: 153, 5.
+Barra espaciadora: juntás el loot del suelo.
+Hanzo (Lorencia 117, 140) vende equipo de caballero.
+Pasi (Lorencia 119, 112) vende equipo de mago.
+El Buhonero (Lorencia 183, 136) vende equipo inicial.
+Elfa Lala (Noria 173, 124) vende equipo inicial.
+Eo el Artesano (Noria 196, 124) vende equipo de elfa.
+Ganás 5 puntos de stats por nivel.
+Clic derecho sobre un monstruo: usás la skill.
+Clic derecho sobre scrolls y orbes para aprender skills.
+La función Amigos se abre desde nivel 6.
+Tecla D: comandos de trade, party y susurro.
+Nivel 10+: podés usar el Chaos Goblin.
+Nivel 6+: tienda personal con /store (o la tecla S).
+Ver tiendas ajenas: /view store on y /view store off.
+Tecla T: información de las quests.
+Reset: nivel 400 + 35M de zen = +1000 puntos. Mantenés los stats.
+"/pick zen" junta el zen solo. También /pick bless, /pick soul y /pick life.
+/offattack: tu personaje sigue peleando cuando te desconectás (gasta zen).
+/store abre tu tienda y /offstore la deja abierta al desconectarte.
+/bau 1 y /bau 2: cambiá de baúl para guardar más ítems.
+/pk limpia el estado asesino (50M de zen).

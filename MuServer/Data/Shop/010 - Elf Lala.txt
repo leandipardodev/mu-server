@@ -1,0 +1,45 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.GamesBit.net
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: Shop 4
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+7	10	0	0	0	1	0	0	//Vine Helm
+7	11	0	0	0	1	0	0	//Silk Helm
+7	12	0	0	0	1	0	0	//Wind Helm
+7	14	0	0	0	1	0	0	//Guardian Helm
+8	10	0	0	0	1	0	0	//Vine Armor
+8	11	0	0	0	1	0	0	//Silk Armor
+8	12	0	0	0	1	0	0	//Wind Armor
+8	14	0	0	0	1	0	0	//Guardian Armor
+9	10	0	0	0	1	0	0	//Vine Pants
+9	11	0	0	0	1	0	0	//Silk Pants
+9	12	0	0	0	1	0	0	//Wind Pants
+9	14	0	0	0	1	0	0	//Guardian Pants
+10	10	0	0	0	1	0	0	//Vine Gloves
+10	11	0	0	0	1	0	0	//Silk Gloves
+10	12	0	0	0	1	0	0	//Wind Gloves
+10	14	0	0	0	1	0	0	//Guardian Gloves
+11	10	0	0	0	1	0	0	//Vine Boots
+11	11	0	0	0	1	0	0	//Silk Boots
+11	12	0	0	0	1	0	0	//Wind Boots
+11	14	0	0	0	1	0	0	//Guardian Boots
+12	8	0	0	0	1	0	0	//Healing Orb
+12	9	0	0	0	1	0	0	//Orb of Greater Fortitude
+12	10	0	0	0	1	0	0	//Orb of Greater Damage
+12	11	0	0	0	1	0	0	//Orb of Summoning
+12	11	1	0	0	1	0	0	//Orb of Summoning
+12	11	2	0	0	1	0	0	//Orb of Summoning
+12	11	3	0	0	1	0	0	//Orb of Summoning
+12	11	4	0	0	1	0	0	//Orb of Summoning
+12	11	5	0	0	1	0	0	//Orb of Summoning
+12	11	6	0	0	1	0	0	//Orb of Summoning
+12	17	0	0	0	1	0	0	//Orb of Penetration
+12	18	0	0	0	1	0	0	//Orb of Ice Arrow
+14	3	0	255	0	0	0	0	//Large Healing Potion
+14	6	0	255	0	0	0	0	//Large Mana Potion
+end

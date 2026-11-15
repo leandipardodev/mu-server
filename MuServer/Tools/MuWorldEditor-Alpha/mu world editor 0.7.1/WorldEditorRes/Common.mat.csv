@@ -1,0 +1,9 @@
+Name,Diffuse,Emissive,Specular,Normal,Reflection,UScale,VScale,Cull,IsLightingEnabled,IsDepthWrite,IsBlend,Opacity,IsAlphaTest,AlphaTestValue,TexAnimX,TexAnimY,Channel,Shader
+grid,Data\\Textures\\Editor\\grid.tga,,,,,1,1,0,FALSE,TRUE,FALSE,1,TRUE,64,,,,
+BrushHardness,Data/Textures/Editor/Brush01.dds,,,,,1,1,0,FALSE,FALSE,TRUE,1,TRUE,64,,,,
+BrushRandius,Data/Textures/Editor/Brush00.dds,,,,,1,1,0,FALSE,FALSE,TRUE,1,FALSE,64,,,,
+Skeleton,,,,,,,,,FALSE,FALSE,FALSE,,FALSE,,,,,
+BoundMesh,,,,,,,,,FALSE,TRUE,FALSE,,FALSE,,,,,
+Coordinate1,,,,,,,,,FALSE,TRUE,FALSE,,FALSE,,,,,
+Coordinate2,,,,,,,,,FALSE,TRUE,TRUE,,FALSE,,,,,
+GammaCorrection,WorldEditorRes/Camma.tga,,,,,,,,FALSE,FALSE,FALSE,,FALSE,,,,,data\fx\GammaCorrection.fx

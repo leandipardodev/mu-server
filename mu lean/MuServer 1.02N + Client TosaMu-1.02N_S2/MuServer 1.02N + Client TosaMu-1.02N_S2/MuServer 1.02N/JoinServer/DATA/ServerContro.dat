@@ -1,0 +1,14 @@
+RELOAD_LIST_START
+"Option"
+"Monster"
+"Shop"
+
+
+EVENT_LIST_START
+"DragonAttack"
+"StarOfXMas"
+"FireCracker"
+"HeartOfLove"
+"MedalEvent"
+EVENT_LIST_END
+end

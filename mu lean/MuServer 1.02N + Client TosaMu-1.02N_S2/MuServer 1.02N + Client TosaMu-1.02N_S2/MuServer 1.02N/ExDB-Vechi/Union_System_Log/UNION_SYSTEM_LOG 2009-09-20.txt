@@ -1,0 +1,10 @@
+19:21:42  ★ [GaTaS][Monique] Union = 0 Rival = 0
+19:21:42  Union [ 0 ] : [ GaTaS ] [ 47 ] 추가 성공
+19:21:42  Rival 정보 재구성 성공 : GaTaS, 47
+19:31:7  Union [ 0 ] : [ Admin ] [ 48 ] 추가 성공
+20:17:28  ★ [Admin][Admin] Union = 0 Rival = 0
+20:17:28  ★ [GaTaS][Monique] Union = 0 Rival = 0
+20:17:28  Union [ 0 ] : [ GaTaS ] [ 47 ] 추가 성공
+20:17:28  Union [ 0 ] : [ Admin ] [ 48 ] 추가 성공
+20:17:28  Rival 정보 재구성 성공 : GaTaS, 47
+20:17:28  Rival 정보 재구성 성공 : Admin, 48

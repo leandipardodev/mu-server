@@ -1,0 +1,13 @@
+local.bmd
+
+no longer stays in the "data/local"
+now it is in the root folder of the client
+
+esse arquivo não fica mais na pasta "data/local"
+agora ele fica na pasta raiz do client
+
+
+UPDATE 1.0
+RECONNECT
+INFO BAR
+SERVER NAME

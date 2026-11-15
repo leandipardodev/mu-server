@@ -1,0 +1,25 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.GamesBit.net
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 005 - Amy the Potion Girl
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+7	3	0	0	0	1	0	0	//Legendary Helm
+8	3	0	0	0	1	0	0	//Legendary Armor
+9	3	0	0	0	1	0	0	//Legendary Pants
+10	3	0	0	0	1	0	0	//Legendary Gloves
+11	3	0	0	0	1	0	0	//Legendary Boots
+7	18	0	0	0	1	0	0	//Grand Soul Helm
+8	18	0	0	0	1	0	0	//Grand Soul Armor
+9	18	0	0	0	1	0	0	//Grand Soul Pants
+10	18	0	0	0	1	0	0	//Grand Soul Gloves
+11	18	0	0	0	1	0	0	//Grand Soul Boots
+5	5	0	0	0	1	0	0	//Legendary Staff
+5	11	0	0	0	1	0	0	//Staff of Kundun
+6	14	0	0	0	1	0	0	//Legendary Shield
+6	15	0	0	0	1	0	0	//Grand Soul Shield
+end

@@ -1,0 +1,150 @@
+-- =====================================================
+-- Mu Nega - ScriptMain.lua
+-- Anuncios y saludos de NPC (Season 2)
+-- =====================================================
+
+-- Saludo por tipo de NPC (columna Type de Monster.txt)
+local NPC_SALUDOS = {
+	[226] = "¡Bienvenido a Mu Nega! /move viaja, /reset en 400.",
+	[229] = "Soy Marlon. La Chaos Machine está al lado.",
+	[230] = "Bienvenido a Noria. /move lista los mapas.",
+	[234] = "No hay mascotas que junten zen: usá /pick zen",
+	[235] = "Cambio de clase: nivel 150 y los 4 tesoros.",
+	[236] = "Chaos Castle: entrá con tu party.",
+	[237] = "Te llevo a Chaos Castle. Necesitás party.",
+	[238] = "Combino ítems: Joya del Caos + zen + ítem.",
+	[239] = "Arena PvP: /war para guerra de guilds.",
+	[240] = "Guardo tus cosas. También podes usar /bau.",
+	[241] = "Creá tu guild acá. Necesitás nivel y zen.",
+	[242] = "Bienvenido a Noria, tierra de elfos.",
+	[245] = "Vendo pociones y skills. Tip: /post avisa.",
+	[246] = "Armas y escudos. Tip: /store vende offline.",
+	[249] = "Limpio tu PK por zen: escribí /pk",
+	[250] = "Mercader. Tip: /pick zen junta el zen solo.",
+	[251] = "Herrero. Reparo y combino. Tip: /pick zen",
+	[253] = "¡Pociones frescas! Tip: /pick zen ahorra tiempo.",
+	[254] = "Soy Pasi el Mago. El futuro mejora con /reset.",
+	[255] = "Soy Lumen. Tomate algo y andá a /reset.",
+	[258] = "Ayudante del servidor. Dudas? /post",
+	[259] = "Misiones nivel 220: volvé cuando estés listo."
+}
+
+-- Busca el saludo por tipo de NPC; si bIndex es indice de objeto, lo resuelve
+local function BuscarSaludo(bIndex)
+	local texto = NPC_SALUDOS[bIndex]
+	if texto ~= nil then
+		return texto
+	end
+	local ok, tipo = pcall(GetObjectType, bIndex)
+	if ok and tipo ~= nil then
+		return NPC_SALUDOS[tonumber(tipo)]
+	end
+	return nil
+end
+
+
+function OnReadScript()
+end
+
+
+function OnShutScript()
+
+end
+
+
+function OnTimerThread()
+end
+
+
+function OnCommandManager(aIndex,code,arg)
+
+
+    return 0;
+end
+
+
+function OnCommandDone(aIndex,code)
+
+
+end
+
+
+function OnCharacterEntry(aIndex)
+
+	local UserMax  = GetGameServerMaxUser()
+
+	local User = GetGameServerCurUser()
+
+
+	NoticeSend(aIndex,1,string.format("Jugadores ON: %d / %d", User, UserMax))
+	NoticeSend(aIndex,1,"Comandos: /move /reset /post /pick zen")
+
+end
+
+
+function OnCharacterClose(aIndex)
+
+end
+
+
+function OnNpcTalk(aIndex,bIndex)
+
+	local texto = BuscarSaludo(bIndex)
+
+	if texto ~= nil then
+		NoticeSend(aIndex,1,texto)
+	end
+
+	return 0
+
+end
+
+
+function OnMonsterDie(aIndex,bIndex)
+
+end
+
+
+function OnUserDie(aIndex,bIndex)
+
+end
+
+
+function OnUserRespawn(aIndex,KillerType)
+
+
+end
+
+
+function OnCheckUserTarget(aIndex,bIndex)
+
+	return 1
+
+end
+
+
+function OnCheckUserKiller(aIndex,bIndex)
+	return 1
+
+end
+
+
+function OnUserItemPick(aIndex,index)
+
+	return 1
+
+end
+
+
+function OnUserItemDrop(aIndex,index,x,y)
+
+	return 1
+
+end
+
+
+function OnUserItemMove(aIndex,aFlag,aSlot,bFlag,bSlot)
+
+	return 1
+
+end

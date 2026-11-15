@@ -1,0 +1,19 @@
+//############################################################
+//# -- RoGAMING MUONLINE SERVER EMULATOR
+//# -- www.RoGAMING.com
+//# -- www.facebook.com/RoGAMING
+//# -- © 2021 RoGAMING Development
+//# ----------------------------------------------------------
+//# -- File is a part of RoGAMING MUONLINE Server files.
+//############################################################
+
+// -------------------------------------------------------------
+// [00,000]    [*/N]       [0-1]       [0~10]      [Max 25 Char]
+// ItemIndex   ItemLevel   FontValue   FontColor   Text
+// -------------------------------------------------------------
+// EXAMPLE
+ 02,050      *           1           1           "Mace foda"
+
+   
+   
+end

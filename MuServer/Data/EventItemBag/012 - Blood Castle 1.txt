@@ -1,0 +1,28 @@
+3
+//Index    DropRate
+0			10000
+1			10000
+2			10000
+3			10000
+4			1000
+end
+
+4
+//Item		Section		SectionRate		MoneyAmount		OptionValue		DW	DK	FE	MG	DL
+0			5			10000			200000			0				1	1	1	1	1
+1			5			10000			200000			0				1	1	1	1	1
+2			5			10000			200000			0				1	1	1	1	1
+3			5			10000			200000			0				1	1	1	1	1
+4			6			10000			200000			0				1	1	1	1	1
+end
+
+5
+//Index		Level	Grade	Level	Skill	Luck	JoL 	Exc 	Ancient		SKT		Duration	Comment
+6159		0		0		*		*		*		*		*		*			*		0			//
+7179		0		0		*		*		*		*		*		*			*		0			//
+end
+
+6
+//Index		Level	Grade	Level	Skill	Luck	JoL 	Exc 	Ancient		SKT		Duration	Comment
+1074		0		0		*		*		*		*		*		*			*		0			//
+end

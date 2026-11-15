@@ -1,0 +1,38 @@
+14 1 0 100 0 0 0 //Small Heal Pot+7
+14 2 0 100 0 0 0 //Medium Heal Pot+7
+14 3 0 100 0 0 0 //Large Heal Pot+7
+14 4 0 100 0 0 0 //Small Mana Pot+7
+14 5 0 100 0 0 0 //Medium Mana Pot+7
+14 6 0 100 0 0 0 //Large Mana Pot+7
+14 8 0 100 0 0 0 //Antidote+7
+14 1 0 255 0 0 0 //Small Heal Pot+7
+14 2 0 255 0 0 0 //Medium Heal Pot+7
+14 3 0 255 0 0 0 //Large Heal Pot+7
+14 4 0 255 0 0 0 //Small Mana Pot+7
+14 5 0 255 0 0 0 //Medium Mana Pot+7
+14 6 0 255 0 0 0 //Large Mana Pot+7
+14 8 0 255 0 0 0 //Antidote+7
+14 8 7 100 0 0 0 //Antidote+7
+14 9 7 0 0 0 0 //Alcohol+7
+13 17 1 0 0 0 0 //Blood Fang+1
+13 17 2 0 0 0 0 //Blood Fang+2
+13 17 3 0 0 0 0 //Blood Fang+3
+13 17 4 0 0 0 0 //Blood Fang+4
+13 17 5 0 0 0 0 //Blood Fang+5
+13 17 6 0 0 0 0 //Blood Fang+6
+13 17 7 0 0 0 0 //Blood Fang+7
+15 11 0 0 0 0 0 //Aqua Beam Scroll
+8 7 0 36 0 1 3 //Sphinx Armor+0+12+Luck
+//11 7 0 36 0 1 3 //Sphinx Boots+0+12+Luck
+10 7 0 36 0 1 3 //Sphinx Gloves+0+12+Luck
+//7 7 0 36 0 1 3 //Sphinx Helm+0+12+Luck
+//9 7 0 36 0 1 3 //Sphinx Pants+0+12+Luck
+//8 3 0 42 0 1 3 //Legendary Armor+0+12+Luck
+//11 3 0 42 0 1 3 //Legendary Boots+0+12+Luck
+//10 3 0 42 0 1 3 //Legendary Gloves+0+12+Luck
+//7 3 0 42 0 1 3 //Legendary Helm+0+12+Luck
+//9 3 0 42 0 1 3 //Legendary Pants+0+12+Luck
+//6 14 0 50 0 1 3 //Legendary Shield+0+15+Luck
+//5 5 0 0 0 1 3 //Legendary Staff+0+12+Luck
+//5 4 0 0 0 1 3 //Gorgon Staff+0+12+Luck
+end

@@ -1,0 +1,55 @@
+00:42:03 [SocketManager] Server started at port [44405]
+00:42:03 [ServerList] ServerList loaded successfully
+00:42:05 [ServerList] JoinServer online
+00:42:08 [ServerList] GameServer online (Principal) (0)
+00:42:11 [ServerList] GameServer online (CastleSiege) (19)
+00:53:51 [SocketManager] Server started at port [44405]
+00:53:51 [ServerList] ServerList loaded successfully
+00:53:54 [ServerList] JoinServer online
+00:53:57 [ServerList] GameServer online (Principal) (0)
+00:53:59 [ServerList] GameServer online (CastleSiege) (19)
+06:14:36 [SocketManager] Server started at port [44405]
+06:14:36 [ServerList] ServerList loaded successfully
+06:14:38 [ServerList] JoinServer online
+06:14:41 [ServerList] GameServer online (Principal) (0)
+06:14:43 [ServerList] GameServer online (CastleSiege) (19)
+06:49:22 [SocketManager] Server started at port [44405]
+06:49:22 [ServerList] ServerList loaded successfully
+06:49:24 [ServerList] JoinServer online
+06:49:27 [ServerList] GameServer online (Principal) (0)
+06:49:29 [ServerList] GameServer online (CastleSiege) (19)
+08:11:57 [SocketManager] Server started at port [44405]
+08:11:57 [ServerList] ServerList loaded successfully
+08:11:59 [ServerList] JoinServer online
+08:12:02 [ServerList] GameServer online (Principal) (0)
+08:12:05 [ServerList] GameServer online (CastleSiege) (19)
+08:28:55 [SocketManager] Server started at port [44405]
+08:28:55 [ServerList] ServerList loaded successfully
+08:28:57 [ServerList] JoinServer online
+08:29:00 [ServerList] GameServer online (Principal) (0)
+08:29:02 [ServerList] GameServer online (CastleSiege) (19)
+15:49:45 [SocketManager] Server started at port [44405]
+15:49:45 [ServerList] ServerList loaded successfully
+15:49:47 [ServerList] JoinServer online
+15:49:50 [ServerList] GameServer online (Principal) (0)
+15:49:53 [ServerList] GameServer online (CastleSiege) (19)
+16:16:06 [SocketManager] Server started at port [44405]
+16:16:06 [ServerList] ServerList loaded successfully
+16:16:09 [ServerList] JoinServer online
+16:16:12 [ServerList] GameServer online (Principal) (0)
+16:16:14 [ServerList] GameServer online (CastleSiege) (19)
+17:25:02 [SocketManager] Server started at port [44405]
+17:25:02 [ServerList] ServerList loaded successfully
+17:25:04 [ServerList] JoinServer online
+17:25:07 [ServerList] GameServer online (Principal) (0)
+17:25:10 [ServerList] GameServer online (CastleSiege) (19)
+22:14:51 [SocketManager] Server started at port [44405]
+22:14:51 [ServerList] ServerList loaded successfully
+22:14:53 [ServerList] JoinServer online
+22:14:56 [ServerList] GameServer online (Principal) (0)
+22:14:59 [ServerList] GameServer online (CastleSiege) (19)
+22:15:15 [SocketManager] Server started at port [44405]
+22:15:15 [ServerList] ServerList loaded successfully
+22:15:17 [ServerList] JoinServer online
+22:15:21 [ServerList] GameServer online (Principal) (0)
+22:15:23 [ServerList] GameServer online (CastleSiege) (19)

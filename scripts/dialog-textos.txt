@@ -1,0 +1,13 @@
+// Entradas de Dialog.bmd (1024 bytes cada una)
+// Formato: INDICE|TEXTO
+// Se pueden agregar/quitar lineas. Maximo ~250 caracteres por entrada.
+0|¡Hola! ¿Necesitás algo? Probá /move para viajar.
+1|Soy Pasi el Mago. El futuro mejora con /reset.
+2|Soy Baz, guardián del baúl. Dejá tus cosas acá.
+3|La música del arpa calma el cansancio. ¿Ayuda?
+4|Soy Baz, guardián del baúl. Dejá tus cosas acá.
+5|Traeme zen para combinar. Tip: /pick zen
+6|¡Bienvenido a Mu Nega! F1 = ayuda. /move viaja.
+7|¿Primera vez en Lorencia? Cazá al sureste.
+8|Bienvenido a Noria. Escribí /move para viajar.
+9|Mu Nega Season 2 - Escribí /post para hablar.

@@ -1,0 +1,28 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.GamesBit.net
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: Shop 5
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+4	0	0	0	1	1	0	0	//Short Bow
+4	1	0	0	1	1	0	0	//Bow
+4	2	0	0	1	1	0	0	//Elven Bow
+4	3	0	0	1	1	0	0	//Battle Bow
+4	4	0	0	1	1	0	0	//Tiger Bow
+4	5	0	0	1	1	0	0	//Silver Bow
+4	8	0	0	1	1	0	0	//Crossbow
+4	9	0	0	1	1	0	0	//Golden Crossbow
+4	10	0	0	1	1	0	0	//Arquebus
+4	11	0	0	1	1	0	0	//Light Crossbow
+4	12	0	0	1	1	0	0	//Serpent Crossbow
+4	13	0	0	1	1	0	0	//Bluewing Crossbow
+4	14	0	0	1	1	0	0	//Aquagold Crossbow
+4	7	0	0	0	1	0	0	//Bolt
+4	7	0	0	0	1	0	0	//Bolt
+4	15	0	0	0	1	0	0	//Arrow
+4	15	0	0	0	1	0	0	//Arrow
+end

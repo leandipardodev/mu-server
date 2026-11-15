@@ -1,0 +1,343 @@
+15:52:25  ================== MU 2003 EVENT SERVER START ==================
+15:52:25  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:25  QNO : 0, TID : 0, DB ODBC CONNECT [FAIL]
+15:52:25  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:25  QNO : 0, TID : 1, DB ODBC CONNECT [FAIL]
+15:52:25  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:25  QNO : 0, TID : 2, DB ODBC CONNECT [FAIL]
+15:52:25  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:25  QNO : 0, TID : 3, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 1, TID : 0, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 1, TID : 1, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 1, TID : 2, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 1, TID : 3, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 2, TID : 0, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 2, TID : 1, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 2, TID : 2, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 2, TID : 3, DB ODBC CONNECT [FAIL]
+15:52:26  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:26  QNO : 3, TID : 0, DB ODBC CONNECT [FAIL]
+15:52:27  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:27  QNO : 3, TID : 1, DB ODBC CONNECT [FAIL]
+15:52:27  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:27  QNO : 3, TID : 2, DB ODBC CONNECT [FAIL]
+15:52:27  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+15:52:27  QNO : 3, TID : 3, DB ODBC CONNECT [FAIL]
+16:29:28  ================== MU 2003 EVENT SERVER START ==================
+16:29:28  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:28  QNO : 0, TID : 0, DB ODBC CONNECT [FAIL]
+16:29:28  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:28  QNO : 0, TID : 1, DB ODBC CONNECT [FAIL]
+16:29:28  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:28  QNO : 0, TID : 2, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 0, TID : 3, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 1, TID : 0, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 1, TID : 1, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 1, TID : 2, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 1, TID : 3, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 2, TID : 0, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 2, TID : 1, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 2, TID : 2, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 2, TID : 3, DB ODBC CONNECT [FAIL]
+16:29:29  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:29  QNO : 3, TID : 0, DB ODBC CONNECT [FAIL]
+16:29:30  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:30  QNO : 3, TID : 1, DB ODBC CONNECT [FAIL]
+16:29:30  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:30  QNO : 3, TID : 2, DB ODBC CONNECT [FAIL]
+16:29:30  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:29:30  QNO : 3, TID : 3, DB ODBC CONNECT [FAIL]
+16:44:1  ================== MU 2003 EVENT SERVER START ==================
+16:44:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:1  QNO : 0, TID : 0, DB ODBC CONNECT [FAIL]
+16:44:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:1  QNO : 0, TID : 1, DB ODBC CONNECT [FAIL]
+16:44:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:1  QNO : 0, TID : 2, DB ODBC CONNECT [FAIL]
+16:44:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:1  QNO : 0, TID : 3, DB ODBC CONNECT [FAIL]
+16:44:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:1  QNO : 1, TID : 0, DB ODBC CONNECT [FAIL]
+16:44:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:1  QNO : 1, TID : 1, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 1, TID : 2, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 1, TID : 3, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 2, TID : 0, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 2, TID : 1, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 2, TID : 2, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 2, TID : 3, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 3, TID : 0, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 3, TID : 1, DB ODBC CONNECT [FAIL]
+16:44:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:2  QNO : 3, TID : 2, DB ODBC CONNECT [FAIL]
+16:44:3  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+16:44:3  QNO : 3, TID : 3, DB ODBC CONNECT [FAIL]
+22:34:1  ================== MU 2003 EVENT SERVER START ==================
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 0, TID : 0, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 0, TID : 1, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 0, TID : 2, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 0, TID : 3, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 1, TID : 0, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 1, TID : 1, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 1, TID : 2, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 1, TID : 3, DB ODBC CONNECT [FAIL]
+22:34:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:1  QNO : 2, TID : 0, DB ODBC CONNECT [FAIL]
+22:34:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:2  QNO : 2, TID : 1, DB ODBC CONNECT [FAIL]
+22:34:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:2  QNO : 2, TID : 2, DB ODBC CONNECT [FAIL]
+22:34:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:2  QNO : 2, TID : 3, DB ODBC CONNECT [FAIL]
+22:34:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:2  QNO : 3, TID : 0, DB ODBC CONNECT [FAIL]
+22:34:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:2  QNO : 3, TID : 1, DB ODBC CONNECT [FAIL]
+22:34:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:2  QNO : 3, TID : 2, DB ODBC CONNECT [FAIL]
+22:34:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:34:2  QNO : 3, TID : 3, DB ODBC CONNECT [FAIL]
+22:45:0  ================== MU 2003 EVENT SERVER START ==================
+22:45:0  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:0  QNO : 0, TID : 0, DB ODBC CONNECT [FAIL]
+22:45:0  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:0  QNO : 0, TID : 1, DB ODBC CONNECT [FAIL]
+22:45:0  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:0  QNO : 0, TID : 2, DB ODBC CONNECT [FAIL]
+22:45:0  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:0  QNO : 0, TID : 3, DB ODBC CONNECT [FAIL]
+22:45:0  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:0  QNO : 1, TID : 0, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 1, TID : 1, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 1, TID : 2, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 1, TID : 3, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 2, TID : 0, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 2, TID : 1, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 2, TID : 2, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 2, TID : 3, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 3, TID : 0, DB ODBC CONNECT [FAIL]
+22:45:1  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:1  QNO : 3, TID : 1, DB ODBC CONNECT [FAIL]
+22:45:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:2  QNO : 3, TID : 2, DB ODBC CONNECT [FAIL]
+22:45:2  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:45:2  QNO : 3, TID : 3, DB ODBC CONNECT [FAIL]
+22:51:40  ================== MU 2003 EVENT SERVER START ==================
+22:51:40  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:40  QNO : 0, TID : 0, DB ODBC CONNECT [FAIL]
+22:51:40  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:40  QNO : 0, TID : 1, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 0, TID : 2, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 0, TID : 3, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 1, TID : 0, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 1, TID : 1, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 1, TID : 2, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 1, TID : 3, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 2, TID : 0, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 2, TID : 1, DB ODBC CONNECT [FAIL]
+22:51:41  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:41  QNO : 2, TID : 2, DB ODBC CONNECT [FAIL]
+22:51:42  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:42  QNO : 2, TID : 3, DB ODBC CONNECT [FAIL]
+22:51:42  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:42  QNO : 3, TID : 0, DB ODBC CONNECT [FAIL]
+22:51:42  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:42  QNO : 3, TID : 1, DB ODBC CONNECT [FAIL]
+22:51:42  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:42  QNO : 3, TID : 2, DB ODBC CONNECT [FAIL]
+22:51:42  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+22:51:42  QNO : 3, TID : 3, DB ODBC CONNECT [FAIL]
+23:6:37  ================== MU 2003 EVENT SERVER START ==================
+23:6:37  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:37  QNO : 0, TID : 0, DB ODBC CONNECT [FAIL]
+23:6:37  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:37  QNO : 0, TID : 1, DB ODBC CONNECT [FAIL]
+23:6:37  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:37  QNO : 0, TID : 2, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 0, TID : 3, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 1, TID : 0, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 1, TID : 1, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 1, TID : 2, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 1, TID : 3, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 2, TID : 0, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 2, TID : 1, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 2, TID : 2, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 2, TID : 3, DB ODBC CONNECT [FAIL]
+23:6:38  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:38  QNO : 3, TID : 0, DB ODBC CONNECT [FAIL]
+23:6:39  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:39  QNO : 3, TID : 1, DB ODBC CONNECT [FAIL]
+23:6:39  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:39  QNO : 3, TID : 2, DB ODBC CONNECT [FAIL]
+23:6:39  SQLSTATE:IM002, Áø´ÜÁ¤º¸:[Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado
+
+23:6:39  QNO : 3, TID : 3, DB ODBC CONNECT [FAIL]

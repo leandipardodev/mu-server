@@ -1,0 +1,3905 @@
+3
+43	3	30	10	10	240	240	-1	2 // Golden_Budge_Dragon => Noria
+44	0	30	182	128	195	145	-1	10 // Golden_Dragon => Lorencia
+53	0	30	185	132	185	132	-1	1 // Golden_Titan => Lorencia
+55	0	30	132	83	132	83	-1	1 // Death_King => Lorencia
+54	0	30	183	128	188	135	-1	10 // Golden_Solider => Lorencia
+56	0	30	132	83	138	90	-1	10 // Death_Bone => Lorencia
+78	0	30	10	10	240	240	-1	1 // Golden_Goblin => Lorencia
+79	0	30	10	10	240	240	-1	2 // Golden_Dragon => Lorencia
+80	0	30	185	132	185	132	-1	1 // Golden_Lizard_King => Lorencia
+81	0	30	132	83	132	83	-1	10 // Golden_Vepar => Lorencia
+82	0	30	183	128	188	135	-1	1 // Golden_Tantalos => Lorencia
+83	0	30	132	83	138	90	-1	10 // Golden_Wheel => Lorencia
+end
+0
+226	0	0	122	110	3 // NPC_Trainer => Lorencia
+230	0	0	62	130	3 // NPC_Alex => Lorencia
+236	0	0	175	120	3 // NPC_GoldenArcher => Lorencia
+240	0	0	146	110	3 // NPC_Valut_Guard => Lorencia
+240	0	0	147	145	1 // NPC_Valut_Guard => Lorencia
+248	0	0	6	145	2 // NPC_FlorencePeddler => Lorencia
+249	0	10	131	88	1 // NPC_BerdyshGuard => Lorencia
+249	0	20	173	125	3 // NPC_BerdyshGuard => Lorencia
+249	0	20	94	125	7 // NPC_BerdyshGuard => Lorencia
+249	0	20	94	130	7 // NPC_BerdyshGuard => Lorencia
+249	0	30	131	148	1 // NPC_BerdyshGuard => Lorencia
+250	0	0	183	137	2 // NPC_Peddler => Lorencia
+251	0	0	116	141	3 // NPC_BlackSmithHans => Lorencia
+253	0	0	127	86	2 // NPC_PotionGirl => Lorencia
+254	0	0	118	113	3 // NPC_WizardPasi => Lorencia
+255	0	0	123	135	1 // NPC_BarmaidLiaman => Lorencia
+257	0	0	96	129	1 // NPC_Buff Elf => Lorencia
+256	0	0	146	112	2 // NPC_Bahap => Lorencia
+259	0	0	135	120	2 // NPC_Lima => Lorencia
+end
+1
+3	0	30	180	90	226	244	-1	45 // Spider => Lorencia
+2	0	30	180	90	226	244	-1	40 // Budge_Dragon => Lorencia
+2	0	30	135	20	240	88	-1	20 // Budge_Dragon => Lorencia
+0	0	30	135	20	240	88	-1	45 // Bull_Fighter => Lorencia
+6	0	30	95	168	175	244	-1	20 // Lich => Lorencia
+14	0	30	95	168	175	244	-1	15 // Skeleton_Warrior => Lorencia
+1	0	30	8	11	94	244	-1	45 // Hound => Lorencia
+4	0	30	8	11	94	244	-1	45 // Elite_Bull_Fighter => Lorencia
+7	0	30	8	11	60	80	-1	15 // Giant => Lorencia
+end
+//--------------------------------------------------------------------------------------------------
+// Spot Lorencia
+//--------------------------------------------------------------------------------------------------
+0
+end
+1
+end
+2
+end
+3
+2	0	5	182	126	186	129	0	15 // Budge_Dragon => Lorencia
+3	0	5	182	126	186	129	0	15 // Spider => Lorencia
+end
+4
+end
+0
+end
+1
+end
+2
+end
+3
+0	0	5	140	76	145	80	0	10 // Bull_Fighter => Lorencia
+end
+4
+end
+//--------------------------------------------------------------------------------------------------
+//
+//--------------------------------------------------------------------------------------------------
+2
+8	1	30	50	123	-1 // Poison_Bull => Dungeon
+8	1	30	42	122	-1 // Poison_Bull => Dungeon
+8	1	30	4	73	-1 // Poison_Bull => Dungeon
+8	1	30	12	56	-1 // Poison_Bull => Dungeon
+8	1	30	2	78	-1 // Poison_Bull => Dungeon
+16	1	30	108	9	-1 // Elike_Skeleton => Dungeon
+14	1	30	120	232	-1 // Skeleton_Warrior => Dungeon
+14	1	30	107	230	-1 // Skeleton_Warrior => Dungeon
+12	1	30	65	205	-1 // Larva => Dungeon
+14	1	30	84	244	-1 // Skeleton_Warrior => Dungeon
+15	1	30	61	169	-1 // Skeleton_Archer => Dungeon
+14	1	30	94	242	-1 // Skeleton_Warrior => Dungeon
+14	1	30	108	195	-1 // Skeleton_Warrior => Dungeon
+14	1	30	94	208	-1 // Skeleton_Warrior => Dungeon
+11	1	30	69	167	-1 // Ghost => Dungeon
+12	1	30	87	177	-1 // Larva => Dungeon
+11	1	30	136	149	-1 // Ghost => Dungeon
+12	1	30	70	195	-1 // Larva => Dungeon
+14	1	30	62	181	-1 // Skeleton_Warrior => Dungeon
+12	1	30	61	213	-1 // Larva => Dungeon
+11	1	30	133	212	-1 // Ghost => Dungeon
+12	1	30	69	222	-1 // Larva => Dungeon
+12	1	30	57	247	-1 // Larva => Dungeon
+12	1	30	49	246	-1 // Larva => Dungeon
+14	1	30	31	247	-1 // Skeleton_Warrior => Dungeon
+14	1	30	3	246	-1 // Skeleton_Warrior => Dungeon
+14	1	30	29	246	-1 // Skeleton_Warrior => Dungeon
+14	1	30	83	198	-1 // Skeleton_Warrior => Dungeon
+17	1	30	18	220	-1 // Cyclops => Dungeon
+14	1	30	33	209	-1 // Skeleton_Warrior => Dungeon
+11	1	30	135	212	-1 // Ghost => Dungeon
+12	1	30	86	196	-1 // Larva => Dungeon
+11	1	30	151	212	-1 // Ghost => Dungeon
+11	1	30	168	220	-1 // Ghost => Dungeon
+12	1	30	46	210	-1 // Larva => Dungeon
+14	1	30	45	201	-1 // Skeleton_Warrior => Dungeon
+12	1	30	46	205	-1 // Larva => Dungeon
+11	1	30	46	146	-1 // Ghost => Dungeon
+11	1	30	49	182	-1 // Ghost => Dungeon
+11	1	30	44	162	-1 // Ghost => Dungeon
+11	1	30	45	180	-1 // Ghost => Dungeon
+11	1	30	45	183	-1 // Ghost => Dungeon
+11	1	30	164	232	-1 // Ghost => Dungeon
+12	1	30	137	241	-1 // Larva => Dungeon
+12	1	30	130	244	-1 // Larva => Dungeon
+11	1	30	92	157	-1 // Ghost => Dungeon
+11	1	30	102	174	-1 // Ghost => Dungeon
+11	1	30	113	166	-1 // Ghost => Dungeon
+15	1	30	217	229	-1 // Skeleton_Archer => Dungeon
+11	1	30	222	223	-1 // Ghost => Dungeon
+11	1	30	163	184	-1 // Ghost => Dungeon
+11	1	30	164	186	-1 // Ghost => Dungeon
+17	1	30	230	173	-1 // Cyclops => Dungeon
+17	1	30	236	167	-1 // Cyclops => Dungeon
+11	1	30	150	193	-1 // Ghost => Dungeon
+11	1	30	142	218	-1 // Ghost => Dungeon
+12	1	30	134	240	-1 // Larva => Dungeon
+17	1	30	241	173	-1 // Cyclops => Dungeon
+11	1	30	199	116	-1 // Ghost => Dungeon
+5	1	30	170	126	-1 // Hell_Hound => Dungeon
+14	1	30	120	243	-1 // Skeleton_Warrior => Dungeon
+11	1	30	240	247	-1 // Ghost => Dungeon
+11	1	30	242	247	-1 // Ghost => Dungeon
+11	1	30	241	226	-1 // Ghost => Dungeon
+11	1	30	246	220	-1 // Ghost => Dungeon
+11	1	30	243	201	-1 // Ghost => Dungeon
+5	1	30	163	114	-1 // Hell_Hound => Dungeon
+11	1	30	244	192	-1 // Ghost => Dungeon
+11	1	30	213	248	-1 // Ghost => Dungeon
+17	1	30	173	200	-1 // Cyclops => Dungeon
+11	1	30	148	149	-1 // Ghost => Dungeon
+5	1	30	163	125	-1 // Hell_Hound => Dungeon
+15	1	30	141	110	-1 // Skeleton_Archer => Dungeon
+5	1	30	145	118	-1 // Hell_Hound => Dungeon
+13	1	30	112	93	-1 // Hell_Spider => Dungeon
+15	1	30	98	54	-1 // Skeleton_Archer => Dungeon
+14	1	30	99	49	-1 // Skeleton_Warrior => Dungeon
+13	1	30	104	65	-1 // Hell_Spider => Dungeon
+13	1	30	183	27	-1 // Hell_Spider => Dungeon
+8	1	30	187	15	-1 // Poison_Bull => Dungeon
+8	1	30	158	17	-1 // Poison_Bull => Dungeon
+16	1	30	159	41	-1 // Elike_Skeleton => Dungeon
+16	1	30	115	8	-1 // Elike_Skeleton => Dungeon
+5	1	30	123	120	-1 // Hell_Hound => Dungeon
+15	1	30	114	110	-1 // Skeleton_Archer => Dungeon
+15	1	30	68	110	-1 // Skeleton_Archer => Dungeon
+15	1	30	76	111	-1 // Skeleton_Archer => Dungeon
+16	1	30	124	20	-1 // Elike_Skeleton => Dungeon
+16	1	30	90	6	-1 // Elike_Skeleton => Dungeon
+13	1	30	114	20	-1 // Hell_Spider => Dungeon
+5	1	30	138	86	-1 // Hell_Hound => Dungeon
+16	1	30	212	83	-1 // Elike_Skeleton => Dungeon
+16	1	30	211	90	-1 // Elike_Skeleton => Dungeon
+16	1	30	226	58	-1 // Elike_Skeleton => Dungeon
+16	1	30	239	56	-1 // Elike_Skeleton => Dungeon
+16	1	30	235	23	-1 // Elike_Skeleton => Dungeon
+13	1	30	247	87	-1 // Hell_Spider => Dungeon
+11	1	30	247	7	-1 // Ghost => Dungeon
+11	1	30	240	7	-1 // Ghost => Dungeon
+11	1	30	241	9	-1 // Ghost => Dungeon
+9	1	30	28	18	-1 // Thunder_Lich => Dungeon
+9	1	30	22	4	-1 // Thunder_Lich => Dungeon
+9	1	30	18	29	-1 // Thunder_Lich => Dungeon
+9	1	30	18	23	-1 // Thunder_Lich => Dungeon
+9	1	30	34	4	-1 // Thunder_Lich => Dungeon
+8	1	30	119	47	-1 // Poison_Bull => Dungeon
+9	1	30	22	90	-1 // Thunder_Lich => Dungeon
+9	1	30	33	78	-1 // Thunder_Lich => Dungeon
+8	1	30	25	100	-1 // Poison_Bull => Dungeon
+16	1	30	29	80	-1 // Elike_Skeleton => Dungeon
+9	1	30	42	117	-1 // Thunder_Lich => Dungeon
+10	1	30	14	107	-1 // Dark_Knight => Dungeon
+8	1	30	21	82	-1 // Poison_Bull => Dungeon
+10	1	30	22	65	-1 // Dark_Knight => Dungeon
+10	1	30	39	77	-1 // Dark_Knight => Dungeon
+10	1	30	29	66	-1 // Dark_Knight => Dungeon
+8	1	30	16	55	-1 // Poison_Bull => Dungeon
+8	1	30	35	55	-1 // Poison_Bull => Dungeon
+8	1	30	116	47	-1 // Poison_Bull => Dungeon
+8	1	30	122	46	-1 // Poison_Bull => Dungeon
+8	1	30	193	30	-1 // Poison_Bull => Dungeon
+5	1	30	120	75	-1 // Hell_Hound => Dungeon
+13	1	30	149	94	-1 // Hell_Spider => Dungeon
+5	1	30	81	58	-1 // Hell_Hound => Dungeon
+13	1	30	126	94	-1 // Hell_Spider => Dungeon
+5	1	30	71	53	-1 // Hell_Hound => Dungeon
+5	1	30	69	88	-1 // Hell_Hound => Dungeon
+16	1	30	86	105	-1 // Elike_Skeleton => Dungeon
+16	1	30	88	104	-1 // Elike_Skeleton => Dungeon
+5	1	30	98	111	-1 // Hell_Hound => Dungeon
+15	1	30	156	125	-1 // Skeleton_Archer => Dungeon
+17	1	30	165	171	-1 // Cyclops => Dungeon
+17	1	30	208	162	-1 // Cyclops => Dungeon
+17	1	30	220	161	-1 // Cyclops => Dungeon
+17	1	30	176	188	-1 // Cyclops => Dungeon
+17	1	30	168	150	-1 // Cyclops => Dungeon
+17	1	30	156	171	-1 // Cyclops => Dungeon
+17	1	30	176	161	-1 // Cyclops => Dungeon
+17	1	30	185	161	-1 // Cyclops => Dungeon
+17	1	30	181	171	-1 // Cyclops => Dungeon
+17	1	30	198	168	-1 // Cyclops => Dungeon
+17	1	30	190	172	-1 // Cyclops => Dungeon
+11	1	30	227	248	-1 // Ghost => Dungeon
+11	1	30	181	246	-1 // Ghost => Dungeon
+14	1	30	152	247	-1 // Skeleton_Warrior => Dungeon
+17	1	30	128	232	-1 // Cyclops => Dungeon
+14	1	30	156	247	-1 // Skeleton_Warrior => Dungeon
+12	1	30	193	224	-1 // Larva => Dungeon
+12	1	30	194	222	-1 // Larva => Dungeon
+12	1	30	194	221	-1 // Larva => Dungeon
+11	1	30	86	150	-1 // Ghost => Dungeon
+11	1	30	98	145	-1 // Ghost => Dungeon
+12	1	30	79	154	-1 // Larva => Dungeon
+12	1	30	78	189	-1 // Larva => Dungeon
+14	1	30	97	187	-1 // Skeleton_Warrior => Dungeon
+14	1	30	105	208	-1 // Skeleton_Warrior => Dungeon
+14	1	30	85	208	-1 // Skeleton_Warrior => Dungeon
+14	1	30	84	220	-1 // Skeleton_Warrior => Dungeon
+14	1	30	85	229	-1 // Skeleton_Warrior => Dungeon
+12	1	30	100	198	-1 // Larva => Dungeon
+12	1	30	95	192	-1 // Larva => Dungeon
+12	1	30	90	187	-1 // Larva => Dungeon
+14	1	30	68	227	-1 // Skeleton_Warrior => Dungeon
+14	1	30	61	238	-1 // Skeleton_Warrior => Dungeon
+14	1	30	73	245	-1 // Skeleton_Warrior => Dungeon
+12	1	30	73	241	-1 // Larva => Dungeon
+14	1	30	3	232	-1 // Skeleton_Warrior => Dungeon
+14	1	30	3	219	-1 // Skeleton_Warrior => Dungeon
+14	1	30	7	219	-1 // Skeleton_Warrior => Dungeon
+14	1	30	17	211	-1 // Skeleton_Warrior => Dungeon
+17	1	30	13	235	-1 // Cyclops => Dungeon
+17	1	30	27	236	-1 // Cyclops => Dungeon
+11	1	30	45	188	-1 // Ghost => Dungeon
+11	1	30	53	188	-1 // Ghost => Dungeon
+11	1	30	52	166	-1 // Ghost => Dungeon
+11	1	30	62	154	-1 // Ghost => Dungeon
+11	1	30	70	154	-1 // Ghost => Dungeon
+11	1	30	77	152	-1 // Ghost => Dungeon
+11	1	30	110	145	-1 // Ghost => Dungeon
+11	1	30	119	146	-1 // Ghost => Dungeon
+11	1	30	120	159	-1 // Ghost => Dungeon
+11	1	30	111	188	-1 // Ghost => Dungeon
+11	1	30	125	195	-1 // Ghost => Dungeon
+11	1	30	135	196	-1 // Ghost => Dungeon
+11	1	30	144	187	-1 // Ghost => Dungeon
+11	1	30	125	218	-1 // Ghost => Dungeon
+17	1	30	143	232	-1 // Cyclops => Dungeon
+17	1	30	50	211	-1 // Cyclops => Dungeon
+11	1	30	197	245	-1 // Ghost => Dungeon
+11	1	30	247	211	-1 // Ghost => Dungeon
+11	1	30	231	186	-1 // Ghost => Dungeon
+11	1	30	223	187	-1 // Ghost => Dungeon
+11	1	30	213	186	-1 // Ghost => Dungeon
+11	1	30	209	175	-1 // Ghost => Dungeon
+15	1	30	193	148	-1 // Skeleton_Archer => Dungeon
+15	1	30	188	145	-1 // Skeleton_Archer => Dungeon
+15	1	30	206	152	-1 // Skeleton_Archer => Dungeon
+15	1	30	212	151	-1 // Skeleton_Archer => Dungeon
+17	1	30	220	172	-1 // Cyclops => Dungeon
+17	1	30	247	168	-1 // Cyclops => Dungeon
+15	1	30	247	176	-1 // Skeleton_Archer => Dungeon
+17	1	30	52	222	-1 // Cyclops => Dungeon
+17	1	30	50	235	-1 // Cyclops => Dungeon
+17	1	30	38	234	-1 // Cyclops => Dungeon
+17	1	30	16	227	-1 // Cyclops => Dungeon
+17	1	30	25	220	-1 // Cyclops => Dungeon
+17	1	30	235	108	-1 // Cyclops => Dungeon
+17	1	30	228	105	-1 // Cyclops => Dungeon
+17	1	30	214	116	-1 // Cyclops => Dungeon
+11	1	30	183	128	-1 // Ghost => Dungeon
+15	1	30	175	127	-1 // Skeleton_Archer => Dungeon
+15	1	30	175	118	-1 // Skeleton_Archer => Dungeon
+15	1	30	183	123	-1 // Skeleton_Archer => Dungeon
+5	1	30	87	114	-1 // Hell_Hound => Dungeon
+5	1	30	65	127	-1 // Hell_Hound => Dungeon
+15	1	30	68	125	-1 // Skeleton_Archer => Dungeon
+15	1	30	80	97	-1 // Skeleton_Archer => Dungeon
+5	1	30	70	76	-1 // Hell_Hound => Dungeon
+13	1	30	168	96	-1 // Hell_Spider => Dungeon
+13	1	30	196	100	-1 // Hell_Spider => Dungeon
+16	1	30	240	77	-1 // Elike_Skeleton => Dungeon
+16	1	30	247	77	-1 // Elike_Skeleton => Dungeon
+16	1	30	248	20	-1 // Elike_Skeleton => Dungeon
+16	1	30	244	9	-1 // Elike_Skeleton => Dungeon
+16	1	30	229	11	-1 // Elike_Skeleton => Dungeon
+8	1	30	205	24	-1 // Poison_Bull => Dungeon
+16	1	30	155	32	-1 // Elike_Skeleton => Dungeon
+16	1	30	137	33	-1 // Elike_Skeleton => Dungeon
+16	1	30	122	29	-1 // Elike_Skeleton => Dungeon
+9	1	30	118	11	-1 // Thunder_Lich => Dungeon
+16	1	30	48	11	-1 // Elike_Skeleton => Dungeon
+9	1	30	38	23	-1 // Thunder_Lich => Dungeon
+9	1	30	160	10	-1 // Thunder_Lich => Dungeon
+9	1	30	194	18	-1 // Thunder_Lich => Dungeon
+9	1	30	213	12	-1 // Thunder_Lich => Dungeon
+9	1	30	221	14	-1 // Thunder_Lich => Dungeon
+9	1	30	243	16	-1 // Thunder_Lich => Dungeon
+9	1	30	233	66	-1 // Thunder_Lich => Dungeon
+8	1	30	39	112	-1 // Poison_Bull => Dungeon
+8	1	30	26	111	-1 // Poison_Bull => Dungeon
+8	1	30	15	113	-1 // Poison_Bull => Dungeon
+8	1	30	12	97	-1 // Poison_Bull => Dungeon
+8	1	30	44	56	-1 // Poison_Bull => Dungeon
+10	1	30	41	88	-1 // Dark_Knight => Dungeon
+10	1	30	19	120	-1 // Dark_Knight => Dungeon
+10	1	30	37	98	-1 // Dark_Knight => Dungeon
+9	1	30	30	105	-1 // Thunder_Lich => Dungeon
+9	1	30	27	53	-1 // Thunder_Lich => Dungeon
+9	1	30	10	68	-1 // Thunder_Lich => Dungeon
+9	1	30	33	90	-1 // Thunder_Lich => Dungeon
+9	1	30	12	121	-1 // Thunder_Lich => Dungeon
+18	1	30	43	111	-1 // Gorgon => Dungeon
+18	1	30	8	123	-1 // Gorgon => Dungeon
+18	1	30	7	56	-1 // Gorgon => Dungeon
+18	1	30	26	67	-1 // Gorgon => Dungeon
+end
+0
+229	2	0	183	30	3 // NPC_Malron => Devias
+231	0	0	141	140	1 // NPC_ThomsonCannel => Lorencia
+233	2	0	209	30	1 // NPC_SpiritofArchangel => Devias
+233	2	0	219	9	3 // NPC_SpiritofArchangel => Devias
+235	2	0	183	32	3 // NPC_PriestSevina => Devias
+236	2	0	226	66	1 // NPC_GoldenArcher => Devias
+240	2	0	218	63	2 // NPC_Valut_Guard => Devias
+241	2	0	215	45	1 // NPC_GuildMaster => Devias
+244	2	0	226	25	3 // NPC_Barmaid => Devias
+245	2	0	225	41	3 // NPC_Wizard => Devias
+246	2	0	186	47	3 // NPC_WeaponMerchant => Devias
+247	2	20	169	39	7 // NPC_CrossbowGuard => Devias
+247	2	20	169	45	7 // NPC_CrossbowGuard => Devias
+247	2	20	219	79	5 // NPC_CrossbowGuard => Devias
+247	2	20	224	79	5 // NPC_CrossbowGuard => Devias
+256	2	0	191	17	3 // NPC_Bahap => Devias
+257	2	0	219	76	3 // NPC_Buff Elf => Devias
+258	2	0	225	60	2 // NPC_Guarda1 => Devias
+371	2	0	212	63	2 // Guard_2 => Devias
+379	2	0	13	28	2 //  => Devias
+end
+1
+24	2	30	170	80	245	200	-1	30 // Worm => Devias
+23	2	30	170	80	245	200	-1	10 // Hommerd => Devias
+22	2	30	50	6	166	244	-1	40 // Ice_Monster => Devias
+23	2	30	50	6	166	244	-1	30 // Hommerd => Devias
+19	2	30	50	6	166	244	-1	40 // Yeti => Devias
+21	2	30	50	6	166	244	-1	30 // Assassin => Devias
+20	2	30	50	6	166	244	-1	20 // Elite_Yeti => Devias
+20	2	30	5	50	50	155	-1	20 // Elite_Yeti => Devias
+20	2	30	6	184	80	244	-1	10 // Elite_Yeti => Devias
+25	2	30	6	184	80	244	-1	3 // Ice_Queen => Devias
+end
+2
+25	2	30	74	239	-1 // Ice_Queen => Devias
+25	2	30	70	212	-1 // Ice_Queen => Devias
+25	2	30	45	189	-1 // Ice_Queen => Devias
+25	2	30	113	230	-1 // Ice_Queen => Devias
+25	2	30	94	203	-1 // Ice_Queen => Devias
+25	2	30	63	160	-1 // Ice_Queen => Devias
+20	2	30	203	244	-1 // Elite_Yeti => Devias
+20	2	30	194	241	-1 // Elite_Yeti => Devias
+20	2	30	203	232	-1 // Elite_Yeti => Devias
+20	2	30	209	224	-1 // Elite_Yeti => Devias
+20	2	30	186	224	-1 // Elite_Yeti => Devias
+20	2	30	200	171	-1 // Elite_Yeti => Devias
+20	2	30	207	158	-1 // Elite_Yeti => Devias
+20	2	30	221	177	-1 // Elite_Yeti => Devias
+20	2	30	213	193	-1 // Elite_Yeti => Devias
+20	2	30	196	218	-1 // Elite_Yeti => Devias
+20	2	30	230	200	-1 // Elite_Yeti => Devias
+20	2	30	221	160	-1 // Elite_Yeti => Devias
+20	2	30	205	149	-1 // Elite_Yeti => Devias
+20	2	30	184	166	-1 // Elite_Yeti => Devias
+20	2	30	212	170	-1 // Elite_Yeti => Devias
+25	2	30	116	210	-1 // Ice_Queen => Devias
+20	2	30	203	201	-1 // Elite_Yeti => Devias
+24	2	30	170	6	-1 // Worm => Devias
+24	2	30	161	58	-1 // Worm => Devias
+24	2	30	180	78	-1 // Worm => Devias
+20	2	30	190	146	-1 // Elite_Yeti => Devias
+25	2	30	51	227	-1 // Ice_Queen => Devias
+20	2	30	189	160	-1 // Elite_Yeti => Devias
+20	2	30	207	183	-1 // Elite_Yeti => Devias
+20	2	30	218	201	-1 // Elite_Yeti => Devias
+20	2	30	240	207	-1 // Elite_Yeti => Devias
+20	2	30	238	184	-1 // Elite_Yeti => Devias
+20	2	30	227	167	-1 // Elite_Yeti => Devias
+20	2	30	202	209	-1 // Elite_Yeti => Devias
+20	2	30	113	105	-1 // Elite_Yeti => Devias
+20	2	30	96	103	-1 // Elite_Yeti => Devias
+20	2	30	102	117	-1 // Elite_Yeti => Devias
+20	2	30	241	198	-1 // Elite_Yeti => Devias
+20	2	30	228	184	-1 // Elite_Yeti => Devias
+20	2	30	193	231	-1 // Elite_Yeti => Devias
+20	2	30	214	152	-1 // Elite_Yeti => Devias
+20	2	30	197	183	-1 // Elite_Yeti => Devias
+24	2	30	162	11	-1 // Worm => Devias
+24	2	30	244	80	-1 // Worm => Devias
+24	2	30	238	88	-1 // Worm => Devias
+24	2	30	229	83	-1 // Worm => Devias
+end
+0
+237	3	0	171	105	3 // NPC_Charon => Noria
+238	3	0	180	103	1 // NPC_ChaosGoblin => Noria
+240	3	0	172	96	3 // NPC_Valut_Guard => Noria
+242	3	0	173	125	1 // NPC_Elflala => Noria
+243	3	0	195	124	2 // NPC_CraftsMan => Noria
+257	3	0	167	118	1 // NPC_Buff Elf => Noria
+end
+1
+26	3	30	128	0	251	128	-1	45 // Goblin => Noria
+27	3	30	128	0	251	128	-1	55 // Chain_Scorpion => Noria
+28	3	30	0	0	128	128	-1	85 // Beetle_Monster => Noria
+29	3	30	0	0	128	128	-1	55 // Hunter => Noria
+30	3	30	0	128	251	245	-1	55 // Forest_Monster => Noria
+31	3	30	0	128	251	245	-1	55 // Agon => Noria
+32	3	30	128	128	251	245	-1	55 // Stone_Golem => Noria
+33	3	30	0	128	128	245	-1	55 // Elite_Goblin => Noria
+end
+//--------------------------------------------------------------------------------------------------
+// Spot Davias
+//--------------------------------------------------------------------------------------------------
+0
+end
+1
+end
+2
+end
+3
+22	2	5	32	11	41	43	0	10 // Ice_Monster => Devias
+21	2	5	32	11	41	43	0	10 // Assassin => Devias
+19	2	5	32	11	41	43	0	10 // Yeti => Devias
+23	2	5	32	11	41	43	0	10 // Hommerd => Devias
+end
+4
+end
+0
+end
+1
+end
+2
+end
+3
+20	2	5	232	212	241	219	0	30 // Elite_Yeti => Devias
+20	2	5	212	212	222	221	0	30 // Elite_Yeti => Devias
+end
+4
+end
+//--------------------------------------------------------------------------------------------------
+//
+//--------------------------------------------------------------------------------------------------
+2
+35	4	30	29	208	-1 // Death_Gorgon => Lost_Tower
+40	4	30	30	183	-1 // Death_Knight => Lost_Tower
+35	4	30	33	206	-1 // Death_Gorgon => Lost_Tower
+40	4	30	54	213	-1 // Death_Knight => Lost_Tower
+36	4	30	193	239	-1 // Shadow => Lost_Tower
+36	4	30	191	131	-1 // Shadow => Lost_Tower
+36	4	30	191	118	-1 // Shadow => Lost_Tower
+36	4	30	164	29	-1 // Shadow => Lost_Tower
+36	4	30	164	37	-1 // Shadow => Lost_Tower
+36	4	30	164	48	-1 // Shadow => Lost_Tower
+36	4	30	164	63	-1 // Shadow => Lost_Tower
+36	4	30	164	74	-1 // Shadow => Lost_Tower
+36	4	30	164	98	-1 // Shadow => Lost_Tower
+36	4	30	164	112	-1 // Shadow => Lost_Tower
+36	4	30	164	126	-1 // Shadow => Lost_Tower
+36	4	30	175	127	-1 // Shadow => Lost_Tower
+36	4	30	184	128	-1 // Shadow => Lost_Tower
+36	4	30	199	134	-1 // Shadow => Lost_Tower
+36	4	30	206	136	-1 // Shadow => Lost_Tower
+36	4	30	227	136	-1 // Shadow => Lost_Tower
+36	4	30	242	135	-1 // Shadow => Lost_Tower
+39	4	30	243	125	-1 // Poison_Shadow => Lost_Tower
+36	4	30	229	127	-1 // Shadow => Lost_Tower
+39	4	30	245	109	-1 // Poison_Shadow => Lost_Tower
+36	4	30	217	127	-1 // Shadow => Lost_Tower
+36	4	30	244	89	-1 // Shadow => Lost_Tower
+36	4	30	207	127	-1 // Shadow => Lost_Tower
+39	4	30	219	6	-1 // Poison_Shadow => Lost_Tower
+39	4	30	244	53	-1 // Poison_Shadow => Lost_Tower
+36	4	30	235	56	-1 // Shadow => Lost_Tower
+36	4	30	235	38	-1 // Shadow => Lost_Tower
+36	4	30	236	26	-1 // Shadow => Lost_Tower
+36	4	30	235	15	-1 // Shadow => Lost_Tower
+36	4	30	226	14	-1 // Shadow => Lost_Tower
+36	4	30	211	15	-1 // Shadow => Lost_Tower
+36	4	30	210	101	-1 // Shadow => Lost_Tower
+36	4	30	210	114	-1 // Shadow => Lost_Tower
+39	4	30	239	7	-1 // Poison_Shadow => Lost_Tower
+39	4	30	244	25	-1 // Poison_Shadow => Lost_Tower
+39	4	30	243	40	-1 // Poison_Shadow => Lost_Tower
+36	4	30	244	8	-1 // Shadow => Lost_Tower
+39	4	30	243	65	-1 // Poison_Shadow => Lost_Tower
+36	4	30	195	99	-1 // Shadow => Lost_Tower
+39	4	30	244	82	-1 // Poison_Shadow => Lost_Tower
+39	4	30	244	92	-1 // Poison_Shadow => Lost_Tower
+36	4	30	226	118	-1 // Shadow => Lost_Tower
+36	4	30	235	110	-1 // Shadow => Lost_Tower
+36	4	30	235	87	-1 // Shadow => Lost_Tower
+36	4	30	199	124	-1 // Shadow => Lost_Tower
+36	4	30	193	108	-1 // Shadow => Lost_Tower
+36	4	30	209	94	-1 // Shadow => Lost_Tower
+36	4	30	235	73	-1 // Shadow => Lost_Tower
+36	4	30	196	89	-1 // Shadow => Lost_Tower
+36	4	30	219	94	-1 // Shadow => Lost_Tower
+36	4	30	190	29	-1 // Shadow => Lost_Tower
+39	4	30	210	23	-1 // Poison_Shadow => Lost_Tower
+39	4	30	226	22	-1 // Poison_Shadow => Lost_Tower
+39	4	30	227	33	-1 // Poison_Shadow => Lost_Tower
+39	4	30	227	54	-1 // Poison_Shadow => Lost_Tower
+39	4	30	228	67	-1 // Poison_Shadow => Lost_Tower
+39	4	30	228	81	-1 // Poison_Shadow => Lost_Tower
+39	4	30	228	104	-1 // Poison_Shadow => Lost_Tower
+39	4	30	191	16	-1 // Poison_Shadow => Lost_Tower
+39	4	30	220	79	-1 // Poison_Shadow => Lost_Tower
+39	4	30	219	60	-1 // Poison_Shadow => Lost_Tower
+39	4	30	219	45	-1 // Poison_Shadow => Lost_Tower
+39	4	30	219	34	-1 // Poison_Shadow => Lost_Tower
+39	4	30	202	38	-1 // Poison_Shadow => Lost_Tower
+36	4	30	205	62	-1 // Shadow => Lost_Tower
+39	4	30	208	166	-1 // Poison_Shadow => Lost_Tower
+39	4	30	196	166	-1 // Poison_Shadow => Lost_Tower
+39	4	30	188	165	-1 // Poison_Shadow => Lost_Tower
+39	4	30	179	165	-1 // Poison_Shadow => Lost_Tower
+39	4	30	165	183	-1 // Poison_Shadow => Lost_Tower
+34	4	30	167	197	-1 // Cursed_Wizard => Lost_Tower
+39	4	30	167	211	-1 // Poison_Shadow => Lost_Tower
+34	4	30	192	203	-1 // Cursed_Wizard => Lost_Tower
+39	4	30	165	241	-1 // Poison_Shadow => Lost_Tower
+39	4	30	184	246	-1 // Poison_Shadow => Lost_Tower
+34	4	30	191	244	-1 // Cursed_Wizard => Lost_Tower
+39	4	30	200	245	-1 // Poison_Shadow => Lost_Tower
+39	4	30	214	245	-1 // Poison_Shadow => Lost_Tower
+39	4	30	228	245	-1 // Poison_Shadow => Lost_Tower
+39	4	30	245	246	-1 // Poison_Shadow => Lost_Tower
+34	4	30	235	237	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	224	235	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	206	237	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	200	228	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	209	212	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	225	196	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	209	190	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	198	192	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	187	184	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	193	173	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	172	177	-1 // Cursed_Wizard => Lost_Tower
+39	4	30	198	184	-1 // Poison_Shadow => Lost_Tower
+39	4	30	217	196	-1 // Poison_Shadow => Lost_Tower
+39	4	30	227	212	-1 // Poison_Shadow => Lost_Tower
+39	4	30	217	217	-1 // Poison_Shadow => Lost_Tower
+39	4	30	201	216	-1 // Poison_Shadow => Lost_Tower
+39	4	30	191	238	-1 // Poison_Shadow => Lost_Tower
+39	4	30	193	217	-1 // Poison_Shadow => Lost_Tower
+39	4	30	178	224	-1 // Poison_Shadow => Lost_Tower
+39	4	30	178	210	-1 // Poison_Shadow => Lost_Tower
+39	4	30	177	195	-1 // Poison_Shadow => Lost_Tower
+41	4	30	126	246	-1 // Death_Cow => Lost_Tower
+41	4	30	133	235	-1 // Death_Cow => Lost_Tower
+41	4	30	133	225	-1 // Death_Cow => Lost_Tower
+34	4	30	133	185	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	133	209	-1 // Death_Cow => Lost_Tower
+34	4	30	132	201	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	125	189	-1 // Death_Cow => Lost_Tower
+41	4	30	128	175	-1 // Death_Cow => Lost_Tower
+34	4	30	134	166	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	129	167	-1 // Death_Cow => Lost_Tower
+41	4	30	97	184	-1 // Death_Cow => Lost_Tower
+41	4	30	107	168	-1 // Death_Cow => Lost_Tower
+34	4	30	95	173	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	89	174	-1 // Death_Cow => Lost_Tower
+41	4	30	83	183	-1 // Death_Cow => Lost_Tower
+34	4	30	86	190	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	83	201	-1 // Death_Cow => Lost_Tower
+41	4	30	83	213	-1 // Death_Cow => Lost_Tower
+41	4	30	89	224	-1 // Death_Cow => Lost_Tower
+34	4	30	84	237	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	86	245	-1 // Death_Cow => Lost_Tower
+34	4	30	98	245	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	108	245	-1 // Death_Cow => Lost_Tower
+41	4	30	116	244	-1 // Death_Cow => Lost_Tower
+41	4	30	118	229	-1 // Death_Cow => Lost_Tower
+41	4	30	116	211	-1 // Death_Cow => Lost_Tower
+41	4	30	111	194	-1 // Death_Cow => Lost_Tower
+41	4	30	115	178	-1 // Death_Cow => Lost_Tower
+41	4	30	97	202	-1 // Death_Cow => Lost_Tower
+41	4	30	97	214	-1 // Death_Cow => Lost_Tower
+41	4	30	102	225	-1 // Death_Cow => Lost_Tower
+41	4	30	98	236	-1 // Death_Cow => Lost_Tower
+34	4	30	111	219	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	123	224	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	116	134	-1 // Death_Cow => Lost_Tower
+41	4	30	97	133	-1 // Death_Cow => Lost_Tower
+41	4	30	85	132	-1 // Death_Cow => Lost_Tower
+41	4	30	85	116	-1 // Death_Cow => Lost_Tower
+41	4	30	85	96	-1 // Death_Cow => Lost_Tower
+41	4	30	101	87	-1 // Death_Cow => Lost_Tower
+41	4	30	118	89	-1 // Death_Cow => Lost_Tower
+37	4	30	133	87	-1 // Devil => Lost_Tower
+41	4	30	116	113	-1 // Death_Cow => Lost_Tower
+41	4	30	133	115	-1 // Death_Cow => Lost_Tower
+37	4	30	104	136	-1 // Devil => Lost_Tower
+41	4	30	124	136	-1 // Death_Cow => Lost_Tower
+37	4	30	96	116	-1 // Devil => Lost_Tower
+37	4	30	94	100	-1 // Devil => Lost_Tower
+37	4	30	89	135	-1 // Devil => Lost_Tower
+37	4	30	133	98	-1 // Devil => Lost_Tower
+41	4	30	106	112	-1 // Death_Cow => Lost_Tower
+41	4	30	95	106	-1 // Death_Cow => Lost_Tower
+37	4	30	112	87	-1 // Devil => Lost_Tower
+37	4	30	133	109	-1 // Devil => Lost_Tower
+37	4	30	121	119	-1 // Devil => Lost_Tower
+37	4	30	123	130	-1 // Devil => Lost_Tower
+37	4	30	87	7	-1 // Devil => Lost_Tower
+37	4	30	97	6	-1 // Devil => Lost_Tower
+40	4	30	117	8	-1 // Death_Knight => Lost_Tower
+37	4	30	124	11	-1 // Devil => Lost_Tower
+37	4	30	133	26	-1 // Devil => Lost_Tower
+37	4	30	134	37	-1 // Devil => Lost_Tower
+37	4	30	134	49	-1 // Devil => Lost_Tower
+40	4	30	123	54	-1 // Death_Knight => Lost_Tower
+37	4	30	115	53	-1 // Devil => Lost_Tower
+37	4	30	98	54	-1 // Devil => Lost_Tower
+37	4	30	84	54	-1 // Devil => Lost_Tower
+37	4	30	93	41	-1 // Devil => Lost_Tower
+37	4	30	99	40	-1 // Devil => Lost_Tower
+37	4	30	101	29	-1 // Devil => Lost_Tower
+37	4	30	98	17	-1 // Devil => Lost_Tower
+37	4	30	112	16	-1 // Devil => Lost_Tower
+37	4	30	124	41	-1 // Devil => Lost_Tower
+37	4	30	111	39	-1 // Devil => Lost_Tower
+40	4	30	86	41	-1 // Death_Knight => Lost_Tower
+40	4	30	98	24	-1 // Death_Knight => Lost_Tower
+40	4	30	115	28	-1 // Death_Knight => Lost_Tower
+40	4	30	55	15	-1 // Death_Knight => Lost_Tower
+40	4	30	46	13	-1 // Death_Knight => Lost_Tower
+37	4	30	39	11	-1 // Devil => Lost_Tower
+40	4	30	22	17	-1 // Death_Knight => Lost_Tower
+37	4	30	14	24	-1 // Devil => Lost_Tower
+37	4	30	53	39	-1 // Devil => Lost_Tower
+40	4	30	10	41	-1 // Death_Knight => Lost_Tower
+37	4	30	7	52	-1 // Devil => Lost_Tower
+40	4	30	15	54	-1 // Death_Knight => Lost_Tower
+37	4	30	25	49	-1 // Devil => Lost_Tower
+40	4	30	38	48	-1 // Death_Knight => Lost_Tower
+40	4	30	48	48	-1 // Death_Knight => Lost_Tower
+40	4	30	41	57	-1 // Death_Knight => Lost_Tower
+34	4	30	123	201	-1 // Cursed_Wizard => Lost_Tower
+40	4	30	55	28	-1 // Death_Knight => Lost_Tower
+35	4	30	46	25	-1 // Death_Gorgon => Lost_Tower
+37	4	30	30	32	-1 // Devil => Lost_Tower
+35	4	30	23	40	-1 // Death_Gorgon => Lost_Tower
+40	4	30	22	30	-1 // Death_Knight => Lost_Tower
+40	4	30	39	38	-1 // Death_Knight => Lost_Tower
+40	4	30	6	98	-1 // Death_Knight => Lost_Tower
+40	4	30	33	86	-1 // Death_Knight => Lost_Tower
+40	4	30	46	86	-1 // Death_Knight => Lost_Tower
+40	4	30	55	87	-1 // Death_Knight => Lost_Tower
+40	4	30	53	97	-1 // Death_Knight => Lost_Tower
+35	4	30	42	97	-1 // Death_Gorgon => Lost_Tower
+40	4	30	35	98	-1 // Death_Knight => Lost_Tower
+40	4	30	25	98	-1 // Death_Knight => Lost_Tower
+35	4	30	15	127	-1 // Death_Gorgon => Lost_Tower
+40	4	30	8	107	-1 // Death_Knight => Lost_Tower
+40	4	30	53	116	-1 // Death_Knight => Lost_Tower
+40	4	30	41	121	-1 // Death_Knight => Lost_Tower
+34	4	30	115	167	-1 // Cursed_Wizard => Lost_Tower
+40	4	30	25	135	-1 // Death_Knight => Lost_Tower
+40	4	30	42	135	-1 // Death_Knight => Lost_Tower
+40	4	30	52	135	-1 // Death_Knight => Lost_Tower
+35	4	30	30	171	-1 // Death_Gorgon => Lost_Tower
+40	4	30	38	227	-1 // Death_Knight => Lost_Tower
+35	4	30	8	191	-1 // Death_Gorgon => Lost_Tower
+40	4	30	51	183	-1 // Death_Knight => Lost_Tower
+35	4	30	8	211	-1 // Death_Gorgon => Lost_Tower
+35	4	30	8	231	-1 // Death_Gorgon => Lost_Tower
+35	4	30	15	244	-1 // Death_Gorgon => Lost_Tower
+35	4	30	18	107	-1 // Death_Gorgon => Lost_Tower
+35	4	30	39	246	-1 // Death_Gorgon => Lost_Tower
+35	4	30	11	175	-1 // Death_Gorgon => Lost_Tower
+35	4	30	54	220	-1 // Death_Gorgon => Lost_Tower
+35	4	30	31	127	-1 // Death_Gorgon => Lost_Tower
+35	4	30	55	195	-1 // Death_Gorgon => Lost_Tower
+34	4	30	105	175	-1 // Cursed_Wizard => Lost_Tower
+35	4	30	55	174	-1 // Death_Gorgon => Lost_Tower
+38	4	30	31	212	-1 // Balrog => Lost_Tower
+35	4	30	30	233	-1 // Death_Gorgon => Lost_Tower
+35	4	30	21	216	-1 // Death_Gorgon => Lost_Tower
+35	4	30	38	212	-1 // Death_Gorgon => Lost_Tower
+35	4	30	29	200	-1 // Death_Gorgon => Lost_Tower
+40	4	30	24	189	-1 // Death_Knight => Lost_Tower
+40	4	30	48	167	-1 // Death_Knight => Lost_Tower
+40	4	30	41	167	-1 // Death_Knight => Lost_Tower
+35	4	30	38	234	-1 // Death_Gorgon => Lost_Tower
+37	4	30	38	201	-1 // Devil => Lost_Tower
+37	4	30	18	200	-1 // Devil => Lost_Tower
+37	4	30	13	191	-1 // Devil => Lost_Tower
+37	4	30	38	192	-1 // Devil => Lost_Tower
+34	4	30	215	174	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	245	168	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	235	214	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	165	223	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	127	239	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	125	180	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	113	189	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	98	231	-1 // Cursed_Wizard => Lost_Tower
+37	4	30	89	119	-1 // Devil => Lost_Tower
+37	4	30	86	100	-1 // Devil => Lost_Tower
+37	4	30	108	116	-1 // Devil => Lost_Tower
+37	4	30	126	108	-1 // Devil => Lost_Tower
+37	4	30	86	26	-1 // Devil => Lost_Tower
+37	4	30	111	26	-1 // Devil => Lost_Tower
+37	4	30	48	17	-1 // Devil => Lost_Tower
+37	4	30	13	9	-1 // Devil => Lost_Tower
+37	4	30	16	41	-1 // Devil => Lost_Tower
+37	4	30	38	53	-1 // Devil => Lost_Tower
+37	4	30	54	51	-1 // Devil => Lost_Tower
+37	4	30	45	32	-1 // Devil => Lost_Tower
+37	4	30	25	86	-1 // Devil => Lost_Tower
+37	4	30	52	92	-1 // Devil => Lost_Tower
+37	4	30	30	102	-1 // Devil => Lost_Tower
+35	4	30	34	108	-1 // Death_Gorgon => Lost_Tower
+35	4	30	53	111	-1 // Death_Gorgon => Lost_Tower
+35	4	30	45	137	-1 // Death_Gorgon => Lost_Tower
+35	4	30	11	96	-1 // Death_Gorgon => Lost_Tower
+35	4	30	43	170	-1 // Death_Gorgon => Lost_Tower
+35	4	30	8	220	-1 // Death_Gorgon => Lost_Tower
+35	4	30	27	247	-1 // Death_Gorgon => Lost_Tower
+35	4	30	54	232	-1 // Death_Gorgon => Lost_Tower
+35	4	30	24	225	-1 // Death_Gorgon => Lost_Tower
+36	4	30	164	16	-1 // Shadow => Lost_Tower
+36	4	30	164	87	-1 // Shadow => Lost_Tower
+36	4	30	200	104	-1 // Shadow => Lost_Tower
+36	4	30	205	87	-1 // Shadow => Lost_Tower
+36	4	30	219	68	-1 // Shadow => Lost_Tower
+36	4	30	211	64	-1 // Shadow => Lost_Tower
+36	4	30	209	52	-1 // Shadow => Lost_Tower
+36	4	30	210	41	-1 // Shadow => Lost_Tower
+36	4	30	210	32	-1 // Shadow => Lost_Tower
+36	4	30	194	23	-1 // Shadow => Lost_Tower
+36	4	30	204	15	-1 // Shadow => Lost_Tower
+36	4	30	236	44	-1 // Shadow => Lost_Tower
+36	4	30	235	98	-1 // Shadow => Lost_Tower
+36	4	30	222	109	-1 // Shadow => Lost_Tower
+36	4	30	218	87	-1 // Shadow => Lost_Tower
+36	4	30	228	91	-1 // Shadow => Lost_Tower
+36	4	30	244	15	-1 // Shadow => Lost_Tower
+36	4	30	228	7	-1 // Shadow => Lost_Tower
+36	4	30	202	25	-1 // Shadow => Lost_Tower
+39	4	30	226	166	-1 // Poison_Shadow => Lost_Tower
+39	4	30	239	167	-1 // Poison_Shadow => Lost_Tower
+39	4	30	227	175	-1 // Poison_Shadow => Lost_Tower
+39	4	30	239	174	-1 // Poison_Shadow => Lost_Tower
+39	4	30	245	179	-1 // Poison_Shadow => Lost_Tower
+39	4	30	245	189	-1 // Poison_Shadow => Lost_Tower
+39	4	30	245	200	-1 // Poison_Shadow => Lost_Tower
+39	4	30	246	212	-1 // Poison_Shadow => Lost_Tower
+39	4	30	245	224	-1 // Poison_Shadow => Lost_Tower
+39	4	30	237	226	-1 // Poison_Shadow => Lost_Tower
+39	4	30	236	220	-1 // Poison_Shadow => Lost_Tower
+39	4	30	238	208	-1 // Poison_Shadow => Lost_Tower
+39	4	30	237	201	-1 // Poison_Shadow => Lost_Tower
+39	4	30	232	196	-1 // Poison_Shadow => Lost_Tower
+39	4	30	238	184	-1 // Poison_Shadow => Lost_Tower
+39	4	30	224	185	-1 // Poison_Shadow => Lost_Tower
+39	4	30	216	183	-1 // Poison_Shadow => Lost_Tower
+39	4	30	207	178	-1 // Poison_Shadow => Lost_Tower
+39	4	30	196	176	-1 // Poison_Shadow => Lost_Tower
+39	4	30	187	192	-1 // Poison_Shadow => Lost_Tower
+39	4	30	185	201	-1 // Poison_Shadow => Lost_Tower
+39	4	30	187	209	-1 // Poison_Shadow => Lost_Tower
+39	4	30	185	220	-1 // Poison_Shadow => Lost_Tower
+39	4	30	175	217	-1 // Poison_Shadow => Lost_Tower
+39	4	30	176	245	-1 // Poison_Shadow => Lost_Tower
+39	4	30	206	244	-1 // Poison_Shadow => Lost_Tower
+39	4	30	215	209	-1 // Poison_Shadow => Lost_Tower
+39	4	30	184	173	-1 // Poison_Shadow => Lost_Tower
+39	4	30	172	188	-1 // Poison_Shadow => Lost_Tower
+39	4	30	173	171	-1 // Poison_Shadow => Lost_Tower
+39	4	30	206	200	-1 // Poison_Shadow => Lost_Tower
+39	4	30	218	229	-1 // Poison_Shadow => Lost_Tower
+34	4	30	112	235	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	83	220	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	90	239	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	133	215	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	88	206	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	121	235	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	104	183	-1 // Death_Cow => Lost_Tower
+41	4	30	86	109	-1 // Death_Cow => Lost_Tower
+41	4	30	96	86	-1 // Death_Cow => Lost_Tower
+41	4	30	128	86	-1 // Death_Cow => Lost_Tower
+41	4	30	122	101	-1 // Death_Cow => Lost_Tower
+41	4	30	101	100	-1 // Death_Cow => Lost_Tower
+41	4	30	86	125	-1 // Death_Cow => Lost_Tower
+41	4	30	132	124	-1 // Death_Cow => Lost_Tower
+37	4	30	110	100	-1 // Devil => Lost_Tower
+40	4	30	103	8	-1 // Death_Knight => Lost_Tower
+37	4	30	128	6	-1 // Devil => Lost_Tower
+40	4	30	127	34	-1 // Death_Knight => Lost_Tower
+40	4	30	130	48	-1 // Death_Knight => Lost_Tower
+40	4	30	105	55	-1 // Death_Knight => Lost_Tower
+40	4	30	84	16	-1 // Death_Knight => Lost_Tower
+40	4	30	124	24	-1 // Death_Knight => Lost_Tower
+35	4	30	14	15	-1 // Death_Gorgon => Lost_Tower
+35	4	30	13	33	-1 // Death_Gorgon => Lost_Tower
+35	4	30	30	39	-1 // Death_Gorgon => Lost_Tower
+35	4	30	55	8	-1 // Death_Gorgon => Lost_Tower
+35	4	30	44	41	-1 // Death_Gorgon => Lost_Tower
+35	4	30	8	25	-1 // Death_Gorgon => Lost_Tower
+35	4	30	37	21	-1 // Death_Gorgon => Lost_Tower
+35	4	30	29	24	-1 // Death_Gorgon => Lost_Tower
+35	4	30	19	97	-1 // Death_Gorgon => Lost_Tower
+35	4	30	42	109	-1 // Death_Gorgon => Lost_Tower
+35	4	30	22	121	-1 // Death_Gorgon => Lost_Tower
+35	4	30	5	122	-1 // Death_Gorgon => Lost_Tower
+35	4	30	5	132	-1 // Death_Gorgon => Lost_Tower
+35	4	30	14	137	-1 // Death_Gorgon => Lost_Tower
+35	4	30	38	184	-1 // Death_Gorgon => Lost_Tower
+35	4	30	36	174	-1 // Death_Gorgon => Lost_Tower
+35	4	30	23	174	-1 // Death_Gorgon => Lost_Tower
+35	4	30	18	168	-1 // Death_Gorgon => Lost_Tower
+35	4	30	7	184	-1 // Death_Gorgon => Lost_Tower
+35	4	30	8	200	-1 // Death_Gorgon => Lost_Tower
+35	4	30	19	208	-1 // Death_Gorgon => Lost_Tower
+35	4	30	50	241	-1 // Death_Gorgon => Lost_Tower
+35	4	30	54	205	-1 // Death_Gorgon => Lost_Tower
+40	4	30	46	208	-1 // Death_Knight => Lost_Tower
+40	4	30	18	183	-1 // Death_Knight => Lost_Tower
+40	4	30	14	224	-1 // Death_Knight => Lost_Tower
+40	4	30	7	240	-1 // Death_Knight => Lost_Tower
+40	4	30	48	232	-1 // Death_Knight => Lost_Tower
+40	4	30	48	215	-1 // Death_Knight => Lost_Tower
+40	4	30	49	191	-1 // Death_Knight => Lost_Tower
+40	4	30	48	174	-1 // Death_Knight => Lost_Tower
+38	4	30	28	212	-1 // Balrog => Lost_Tower
+40	4	30	23	239	-1 // Death_Knight => Lost_Tower
+35	4	30	23	195	-1 // Death_Gorgon => Lost_Tower
+35	4	30	31	191	-1 // Death_Gorgon => Lost_Tower
+35	4	30	25	167	-1 // Death_Gorgon => Lost_Tower
+40	4	30	11	168	-1 // Death_Knight => Lost_Tower
+40	4	30	4	177	-1 // Death_Knight => Lost_Tower
+40	4	30	47	247	-1 // Death_Knight => Lost_Tower
+34	4	30	104	232	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	102	217	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	103	205	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	103	197	-1 // Death_Cow => Lost_Tower
+41	4	30	97	196	-1 // Death_Cow => Lost_Tower
+34	4	30	101	188	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	110	206	-1 // Cursed_Wizard => Lost_Tower
+41	4	30	115	199	-1 // Death_Cow => Lost_Tower
+41	4	30	135	174	-1 // Death_Cow => Lost_Tower
+41	4	30	122	167	-1 // Death_Cow => Lost_Tower
+41	4	30	101	168	-1 // Death_Cow => Lost_Tower
+34	4	30	96	167	-1 // Cursed_Wizard => Lost_Tower
+37	4	30	26	108	-1 // Devil => Lost_Tower
+40	4	30	19	86	-1 // Death_Knight => Lost_Tower
+40	4	30	15	119	-1 // Death_Knight => Lost_Tower
+35	4	30	34	137	-1 // Death_Gorgon => Lost_Tower
+35	4	30	54	121	-1 // Death_Gorgon => Lost_Tower
+35	4	30	30	10	-1 // Death_Gorgon => Lost_Tower
+40	4	30	24	9	-1 // Death_Knight => Lost_Tower
+40	4	30	30	17	-1 // Death_Knight => Lost_Tower
+40	4	30	110	8	-1 // Death_Knight => Lost_Tower
+40	4	30	134	8	-1 // Death_Knight => Lost_Tower
+40	4	30	135	17	-1 // Death_Knight => Lost_Tower
+40	4	30	111	46	-1 // Death_Knight => Lost_Tower
+40	4	30	99	48	-1 // Death_Knight => Lost_Tower
+40	4	30	85	49	-1 // Death_Knight => Lost_Tower
+40	4	30	91	56	-1 // Death_Knight => Lost_Tower
+39	4	30	195	32	-1 // Poison_Shadow => Lost_Tower
+39	4	30	189	38	-1 // Poison_Shadow => Lost_Tower
+36	4	30	195	40	-1 // Shadow => Lost_Tower
+39	4	30	189	48	-1 // Poison_Shadow => Lost_Tower
+39	4	30	196	54	-1 // Poison_Shadow => Lost_Tower
+36	4	30	190	59	-1 // Shadow => Lost_Tower
+36	4	30	197	64	-1 // Shadow => Lost_Tower
+39	4	30	203	50	-1 // Poison_Shadow => Lost_Tower
+36	4	30	244	72	-1 // Shadow => Lost_Tower
+36	4	30	244	100	-1 // Shadow => Lost_Tower
+36	4	30	245	117	-1 // Shadow => Lost_Tower
+39	4	30	236	127	-1 // Poison_Shadow => Lost_Tower
+36	4	30	219	117	-1 // Shadow => Lost_Tower
+36	4	30	209	107	-1 // Shadow => Lost_Tower
+36	4	30	201	113	-1 // Shadow => Lost_Tower
+36	4	30	212	87	-1 // Shadow => Lost_Tower
+39	4	30	196	207	-1 // Poison_Shadow => Lost_Tower
+39	4	30	195	200	-1 // Poison_Shadow => Lost_Tower
+39	4	30	230	229	-1 // Poison_Shadow => Lost_Tower
+34	4	30	238	213	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	210	225	-1 // Cursed_Wizard => Lost_Tower
+34	4	30	215	236	-1 // Cursed_Wizard => Lost_Tower
+39	4	30	173	227	-1 // Poison_Shadow => Lost_Tower
+39	4	30	183	233	-1 // Poison_Shadow => Lost_Tower
+39	4	30	173	237	-1 // Poison_Shadow => Lost_Tower
+end
+1
+69	5	30	99	43	99	43	3	5 // Alquamos => PlaceEx
+69	5	30	112	14	112	14	3	8 // Alquamos => PlaceEx
+69	5	30	76	22	76	22	3	5 // Alquamos => PlaceEx
+69	5	30	78	37	78	37	3	8 // Alquamos => PlaceEx
+69	5	30	92	46	92	46	3	5 // Alquamos => PlaceEx
+69	5	30	70	18	70	18	3	8 // Alquamos => PlaceEx
+70	5	30	66	33	66	33	3	5 // Queen_Rainer => PlaceEx
+70	5	30	76	45	76	45	3	5 // Queen_Rainer => PlaceEx
+70	5	30	99	33	99	33	3	5 // Queen_Rainer => PlaceEx
+70	5	30	120	20	120	20	3	5 // Queen_Rainer => PlaceEx
+70	5	30	138	44	138	44	3	5 // Queen_Rainer => PlaceEx
+70	5	30	130	44	130	44	3	8 // Queen_Rainer => PlaceEx
+70	5	30	120	120	120	120	3	5 // Queen_Rainer => PlaceEx
+71	5	30	211	74	211	74	3	5 // Mega_Crust => PlaceEx
+71	5	30	220	85	220	85	3	5 // Mega_Crust => PlaceEx
+71	5	30	102	132	102	132	3	5 // Mega_Crust => PlaceEx
+71	5	30	150	53	150	53	3	5 // Mega_Crust => PlaceEx
+71	5	30	136	35	136	35	3	8 // Mega_Crust => PlaceEx
+334	5	30	138	24	138	24	3	8 // Death_Angel => PlaceEx
+334	5	30	115	14	115	14	3	5 // Death_Angel => PlaceEx
+334	5	30	90	15	90	15	3	8 // Death_Angel => PlaceEx
+70	5	30	90	34	90	34	3	5 // Queen_Rainer => PlaceEx
+70	5	30	136	44	136	44	3	5 // Queen_Rainer => PlaceEx
+70	5	30	90	54	90	54	3	5 // Queen_Rainer => PlaceEx
+70	5	30	70	42	70	42	3	8 // Queen_Rainer => PlaceEx
+70	5	30	60	25	60	25	3	5 // Queen_Rainer => PlaceEx
+87	5	30	16	44	16	44	3	8 // Spirit_Beast => PlaceEx
+87	5	30	28	18	28	18	3	5 // Spirit_Beast => PlaceEx
+87	5	30	50	10	50	10	3	8 // Spirit_Beast => PlaceEx
+87	5	30	40	24	40	24	3	5 // Spirit_Beast => PlaceEx
+88	5	30	36	34	36	34	3	9 // Spirit_Knight => PlaceEx
+88	5	30	30	30	30	30	3	9 // Spirit_Knight => PlaceEx
+88	5	30	21	25	21	25	3	5 // Spirit_Knight => PlaceEx
+88	5	30	8	23	8	23	3	5 // Spirit_Knight => PlaceEx
+89	5	30	10	27	30	10	3	5 // Spirit_Sorcerer => PlaceEx
+89	5	30	18	17	18	17	3	5 // Spirit_Sorcerer => PlaceEx
+89	5	30	181	17	181	17	3	5 // Spirit_Sorcerer => PlaceEx
+89	5	30	196	24	196	24	3	5 // Spirit_Sorcerer => PlaceEx
+335	5	30	210	20	210	20	3	5 // Necron => PlaceEx
+335	5	30	241	17	241	17	3	5 // Necron => PlaceEx
+335	5	30	241	47	240	47	3	5 // Necron => PlaceEx
+335	5	30	240	70	240	70	3	5 // Necron => PlaceEx
+335	5	30	240	110	240	110	3	5 // Necron => PlaceEx
+122	5	30	240	140	240	140	3	5 // Spirit_Beast => PlaceEx
+123	5	30	43	75	43	75	3	5 // Spirit_Knight => PlaceEx
+124	5	30	47	44	47	44	3	5 // Spirit_Sorcerer => PlaceEx
+337	5	30	51	54	51	54	3	5 // Schriker => PlaceEx
+337	5	30	49	110	49	110	3	5 // Schriker => PlaceEx
+337	5	30	32	86	32	86	3	5 // Schriker => PlaceEx
+337	5	30	60	100	60	100	3	5 // Schriker => PlaceEx
+337	5	30	240	200	240	200	3	5 // Schriker => PlaceEx
+22	5	30	242	233	240	233	3	5 // Ice_Monster => PlaceEx
+20	5	30	190	34	190	34	3	5 // Elite_Yeti => PlaceEx
+20	5	30	172	31	172	31	3	5 // Elite_Yeti => PlaceEx
+11	5	30	188	53	188	53	3	5 // Ghost => PlaceEx
+11	5	30	200	60	200	60	3	5 // Ghost => PlaceEx
+19	5	30	220	50	220	50	3	5 // Yeti => PlaceEx
+19	5	30	187	113	187	113	3	5 // Yeti => PlaceEx
+19	5	30	200	140	200	140	3	5 // Yeti => PlaceEx
+19	5	30	94	43	94	43	3	8 // Yeti => PlaceEx
+19	5	30	135	54	135	54	3	8 // Yeti => PlaceEx
+end
+0
+200	6	6	63	160	1 // Soccer_Ball => Stadium
+239	6	6	72	164	1 // NPC_StadiumGuard => Stadium
+259	0	0	131	138	3 // NPC_Lima => Lorencia
+end
+1
+87	6	5	11	109	27	118	-1	5 // Spirit_Beast => Stadium
+87	6	5	28	109	42	118	-1	5 // Spirit_Beast => Stadium
+87	6	5	43	109	58	117	-1	5 // Spirit_Beast => Stadium
+88	6	5	43	109	58	117	-1	5 // Spirit_Knight => Stadium
+88	6	5	27	109	42	118	-1	5 // Spirit_Knight => Stadium
+88	6	5	11	110	25	119	-1	5 // Spirit_Knight => Stadium
+89	6	5	11	110	25	119	-1	5 // Spirit_Sorcerer => Stadium
+89	6	5	26	110	40	118	-1	5 // Spirit_Sorcerer => Stadium
+89	6	5	41	110	59	118	-1	5 // Spirit_Sorcerer => Stadium
+87	6	5	61	109	65	131	-1	2 // Spirit_Beast => Stadium
+88	6	5	61	109	65	131	-1	2 // Spirit_Knight => Stadium
+89	6	5	61	109	65	131	-1	2 // Spirit_Sorcerer => Stadium
+122	6	5	80	91	98	116	-1	4 // Spirit_Beast => Stadium
+123	6	5	80	91	98	116	-1	4 // Spirit_Knight => Stadium
+124	6	5	80	91	98	116	-1	4 // Spirit_Sorcerer => Stadium
+141	6	5	55	26	68	36	-1	4 // Spirit_Beast => Stadium
+142	6	5	55	26	68	36	-1	4 // Spirit_Knight => Stadium
+143	6	5	55	26	68	36	-1	4 // Spirit_Sourcerer => Stadium
+69	6	5	12	24	26	32	-1	4 // Alquamos => Stadium
+70	6	5	12	24	26	32	-1	4 // Queen_Rainer => Stadium
+71	6	5	12	24	26	32	-1	4 // Mega_Crust => Stadium
+293	6	5	8	3	25	12	-1	8 // Poison_Golem => Stadium
+293	6	5	47	3	70	13	-1	8 // Poison_Golem => Stadium
+293	6	5	80	11	99	32	-1	8 // Poison_Golem => Stadium
+275	6	5	11	5	99	117	-1	2 // Kundum_Demon => Stadium
+end
+2
+267	6	2	62	102	-1 // Shadow_Of_Kundum => Stadium
+267	6	2	75	56	-1 // Shadow_Of_Kundum => Stadium
+267	6	2	39	19	-1 // Shadow_Of_Kundum => Stadium
+end
+//--------------------------------------------------------------------------------------------------
+// Spot Box Arena
+//--------------------------------------------------------------------------------------------------
+2
+30 6 30 16 113 -1
+30 6 30 16 113 -1
+30 6 30 16 113 -1
+30 6 30 16 113 -1
+30 6 30 16 113 -1
+30 6 30 17 109 -1
+30 6 30 17 109 -1
+30 6 30 17 109 -1
+30 6 30 17 109 -1
+30 6 30 17 109 -1
+30 6 30 17 109 -1
+30 6 30 18 117 -1
+30 6 30 18 117 -1
+30 6 30 18 117 -1
+30 6 30 18 117 -1
+30 6 30 18 117 -1
+30 6 30 17 114 -1
+30 6 30 17 114 -1
+30 6 30 17 114 -1
+30 6 30 17 114 -1
+30 6 30 17 114 -1
+31 6 30 28 114 -1
+31 6 30 28 114 -1
+31 6 30 28 114 -1
+31 6 30 28 114 -1
+31 6 30 28 114 -1
+40 6 5 37 113 -1
+40 6 5 37 113 -1
+40 6 5 37 113 -1
+40 6 5 37 113 -1
+40 6 5 37 113 -1
+40 6 5 37 113 -1
+40 6 5 38 110 -1
+40 6 5 38 110 -1
+40 6 5 38 110 -1
+40 6 5 38 110 -1
+40 6 5 38 110 -1
+40 6 5 38 110 -1
+40 6 5 38 110 -1
+40 6 5 38 110 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+40 6 5 42 113 -1
+41 6 5 53 114 -1
+41 6 5 53 114 -1
+41 6 5 53 114 -1
+41 6 5 53 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+41 6 5 50 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+48 6 5 62 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+45 6 5 70 114 -1
+49 6 5 90 113 -1
+49 6 5 90 113 -1
+49 6 5 90 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 81 113 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+40 6 5 62 102 -1
+50 6 5 69 96 -1
+50 6 5 69 96 -1
+50 6 5 69 96 -1
+50 6 5 69 96 -1
+50 6 5 69 96 -1
+50 6 5 69 96 -1
+50 6 5 69 96 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+51 6 5 68 93 -1
+59 6 5 57 92 -1
+59 6 5 57 92 -1
+59 6 5 57 92 -1
+59 6 5 57 92 -1
+59 6 5 57 92 -1
+59 6 5 57 92 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 68 74 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 47 82 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 46 77 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+40 6 5 48 90 -1
+69 6 5 62 56 -1
+69 6 5 62 56 -1
+69 6 5 62 56 -1
+69 6 5 62 56 -1
+69 6 5 62 56 -1
+69 6 5 62 56 -1
+69 6 5 62 56 -1
+69 6 5 62 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+69 6 5 68 56 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+71 6 5 62 29 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 37 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+40 6 5 42 27 -1
+//monstri arena noi
+60 6 30 48 38 -1
+60 6 30 48 38 -1
+60 6 30 48 38 -1
+60 6 30 48 38 -1
+60 6 30 48 38 -1
+62 6 30 45 39 -1
+62 6 30 45 39 -1
+62 6 30 45 39 -1
+62 6 30 45 39 -1
+62 6 30 45 39 -1
+62 6 30 45 39 -1
+62 6 30 45 39 -1
+
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+40 6 5 48 56 -1
+
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+62 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+60 6 5 30 56 -1
+
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+71 6 5 30 38 -1
+
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+51 6 5 30 74 -1
+
+90 6 5 30 91 -1 
+91 6 5 30 90 -1
+92 6 5 30 89 -1
+93 6 5 30 92 -1
+94 6 5 30 93 -1
+95 6 5 30 94 -1
+90 6 5 30 91 -1 
+91 6 5 30 90 -1
+92 6 5 30 89 -1
+93 6 5 30 92 -1
+94 6 5 30 93 -1
+95 6 5 30 94 -1
+90 6 5 30 91 -1 
+91 6 5 30 90 -1
+92 6 5 30 89 -1
+93 6 5 30 92 -1
+94 6 5 30 93 -1
+95 6 5 30 94 -1
+
+90 6 5 12 91 -1 
+91 6 5 12 91 -1
+92 6 5 12 91 -1
+93 6 5 12 91 -1
+94 6 5 12 91 -1
+95 6 5 12 91 -1
+90 6 5 12 91 -1 
+91 6 5 12 91 -1
+92 6 5 12 91 -1
+93 6 5 12 91 -1
+94 6 5 12 91 -1
+95 6 5 12 91 -1
+
+
+end
+4
+end
+//--------------------------------------------------------------------------------------------------
+//
+//--------------------------------------------------------------------------------------------------
+2
+48	7	30	236	177	-1 // Lizard_King => Atlans
+51	7	30	212	96	-1 // Great_Bahamut => Atlans
+45	7	30	21	41	-1 // Bahamut => Atlans
+45	7	30	23	33	-1 // Bahamut => Atlans
+45	7	30	31	31	-1 // Bahamut => Atlans
+45	7	30	39	23	-1 // Bahamut => Atlans
+45	7	30	41	11	-1 // Bahamut => Atlans
+45	7	30	21	48	-1 // Bahamut => Atlans
+45	7	30	47	41	-1 // Bahamut => Atlans
+45	7	30	39	63	-1 // Bahamut => Atlans
+45	7	30	72	42	-1 // Bahamut => Atlans
+45	7	30	23	56	-1 // Bahamut => Atlans
+45	7	30	23	64	-1 // Bahamut => Atlans
+45	7	30	35	70	-1 // Bahamut => Atlans
+45	7	30	29	75	-1 // Bahamut => Atlans
+45	7	30	62	21	-1 // Bahamut => Atlans
+45	7	30	78	19	-1 // Bahamut => Atlans
+45	7	30	67	36	-1 // Bahamut => Atlans
+45	7	30	24	86	-1 // Bahamut => Atlans
+45	7	30	48	57	-1 // Bahamut => Atlans
+45	7	30	45	70	-1 // Bahamut => Atlans
+45	7	30	19	125	-1 // Bahamut => Atlans
+45	7	30	49	8	-1 // Bahamut => Atlans
+45	7	30	46	20	-1 // Bahamut => Atlans
+45	7	30	39	35	-1 // Bahamut => Atlans
+45	7	30	37	50	-1 // Bahamut => Atlans
+45	7	30	20	75	-1 // Bahamut => Atlans
+45	7	30	63	44	-1 // Bahamut => Atlans
+45	7	30	68	52	-1 // Bahamut => Atlans
+45	7	30	49	64	-1 // Bahamut => Atlans
+45	7	30	29	52	-1 // Bahamut => Atlans
+46	7	30	46	21	-1 // Vepar => Atlans
+46	7	30	48	9	-1 // Vepar => Atlans
+46	7	30	50	65	-1 // Vepar => Atlans
+46	7	30	51	70	-1 // Vepar => Atlans
+46	7	30	80	33	-1 // Vepar => Atlans
+46	7	30	62	17	-1 // Vepar => Atlans
+46	7	30	61	11	-1 // Vepar => Atlans
+46	7	30	69	19	-1 // Vepar => Atlans
+46	7	30	75	15	-1 // Vepar => Atlans
+46	7	30	83	15	-1 // Vepar => Atlans
+46	7	30	84	21	-1 // Vepar => Atlans
+46	7	30	67	27	-1 // Vepar => Atlans
+46	7	30	59	34	-1 // Vepar => Atlans
+46	7	30	86	37	-1 // Vepar => Atlans
+46	7	30	78	44	-1 // Vepar => Atlans
+46	7	30	71	52	-1 // Vepar => Atlans
+46	7	30	65	59	-1 // Vepar => Atlans
+46	7	30	65	51	-1 // Vepar => Atlans
+46	7	30	55	44	-1 // Vepar => Atlans
+46	7	30	40	48	-1 // Vepar => Atlans
+46	7	30	31	53	-1 // Vepar => Atlans
+46	7	30	24	90	-1 // Vepar => Atlans
+46	7	30	21	100	-1 // Vepar => Atlans
+46	7	30	25	105	-1 // Vepar => Atlans
+46	7	30	30	110	-1 // Vepar => Atlans
+46	7	30	21	118	-1 // Vepar => Atlans
+46	7	30	38	117	-1 // Vepar => Atlans
+46	7	30	141	11	-1 // Vepar => Atlans
+46	7	30	127	17	-1 // Vepar => Atlans
+46	7	30	114	26	-1 // Vepar => Atlans
+46	7	30	107	18	-1 // Vepar => Atlans
+46	7	30	104	13	-1 // Vepar => Atlans
+46	7	30	115	12	-1 // Vepar => Atlans
+46	7	30	89	62	-1 // Vepar => Atlans
+46	7	30	75	76	-1 // Vepar => Atlans
+46	7	30	69	87	-1 // Vepar => Atlans
+46	7	30	50	93	-1 // Vepar => Atlans
+46	7	30	23	72	-1 // Vepar => Atlans
+46	7	30	78	23	-1 // Vepar => Atlans
+46	7	30	70	38	-1 // Vepar => Atlans
+46	7	30	55	25	-1 // Vepar => Atlans
+46	7	30	30	122	-1 // Vepar => Atlans
+46	7	30	17	126	-1 // Vepar => Atlans
+46	7	30	122	29	-1 // Vepar => Atlans
+46	7	30	108	40	-1 // Vepar => Atlans
+48	7	30	66	222	-1 // Lizard_King => Atlans
+48	7	30	63	218	-1 // Lizard_King => Atlans
+48	7	30	57	225	-1 // Lizard_King => Atlans
+48	7	30	171	162	-1 // Lizard_King => Atlans
+48	7	30	175	169	-1 // Lizard_King => Atlans
+48	7	30	178	174	-1 // Lizard_King => Atlans
+48	7	30	173	179	-1 // Lizard_King => Atlans
+48	7	30	171	187	-1 // Lizard_King => Atlans
+48	7	30	165	193	-1 // Lizard_King => Atlans
+48	7	30	159	198	-1 // Lizard_King => Atlans
+48	7	30	152	201	-1 // Lizard_King => Atlans
+48	7	30	144	201	-1 // Lizard_King => Atlans
+48	7	30	137	205	-1 // Lizard_King => Atlans
+48	7	30	124	206	-1 // Lizard_King => Atlans
+48	7	30	115	210	-1 // Lizard_King => Atlans
+48	7	30	104	211	-1 // Lizard_King => Atlans
+48	7	30	94	210	-1 // Lizard_King => Atlans
+48	7	30	87	214	-1 // Lizard_King => Atlans
+48	7	30	76	215	-1 // Lizard_King => Atlans
+48	7	30	47	224	-1 // Lizard_King => Atlans
+48	7	30	46	217	-1 // Lizard_King => Atlans
+48	7	30	29	226	-1 // Lizard_King => Atlans
+48	7	30	22	213	-1 // Lizard_King => Atlans
+48	7	30	24	204	-1 // Lizard_King => Atlans
+48	7	30	34	200	-1 // Lizard_King => Atlans
+48	7	30	35	209	-1 // Lizard_King => Atlans
+48	7	30	40	210	-1 // Lizard_King => Atlans
+48	7	30	45	205	-1 // Lizard_King => Atlans
+48	7	30	47	211	-1 // Lizard_King => Atlans
+48	7	30	37	232	-1 // Lizard_King => Atlans
+48	7	30	226	52	-1 // Lizard_King => Atlans
+48	7	30	22	230	-1 // Lizard_King => Atlans
+48	7	30	41	224	-1 // Lizard_King => Atlans
+48	7	30	82	215	-1 // Lizard_King => Atlans
+48	7	30	167	156	-1 // Lizard_King => Atlans
+48	7	30	177	146	-1 // Lizard_King => Atlans
+52	7	30	156	156	-1 // Silver_Valyrie => Atlans
+52	7	30	162	149	-1 // Silver_Valyrie => Atlans
+52	7	30	152	169	-1 // Silver_Valyrie => Atlans
+52	7	30	72	128	-1 // Silver_Valyrie => Atlans
+52	7	30	70	138	-1 // Silver_Valyrie => Atlans
+52	7	30	61	147	-1 // Silver_Valyrie => Atlans
+52	7	30	49	158	-1 // Silver_Valyrie => Atlans
+52	7	30	33	169	-1 // Silver_Valyrie => Atlans
+52	7	30	22	173	-1 // Silver_Valyrie => Atlans
+52	7	30	55	181	-1 // Silver_Valyrie => Atlans
+52	7	30	67	186	-1 // Silver_Valyrie => Atlans
+52	7	30	73	180	-1 // Silver_Valyrie => Atlans
+52	7	30	89	184	-1 // Silver_Valyrie => Atlans
+52	7	30	101	183	-1 // Silver_Valyrie => Atlans
+52	7	30	111	183	-1 // Silver_Valyrie => Atlans
+52	7	30	122	178	-1 // Silver_Valyrie => Atlans
+52	7	30	129	171	-1 // Silver_Valyrie => Atlans
+52	7	30	138	167	-1 // Silver_Valyrie => Atlans
+52	7	30	147	164	-1 // Silver_Valyrie => Atlans
+52	7	30	170	145	-1 // Silver_Valyrie => Atlans
+52	7	30	163	138	-1 // Silver_Valyrie => Atlans
+52	7	30	53	220	-1 // Silver_Valyrie => Atlans
+52	7	30	41	222	-1 // Silver_Valyrie => Atlans
+52	7	30	29	231	-1 // Silver_Valyrie => Atlans
+52	7	30	22	232	-1 // Silver_Valyrie => Atlans
+52	7	30	27	209	-1 // Silver_Valyrie => Atlans
+52	7	30	36	205	-1 // Silver_Valyrie => Atlans
+52	7	30	109	211	-1 // Silver_Valyrie => Atlans
+52	7	30	131	207	-1 // Silver_Valyrie => Atlans
+52	7	30	155	196	-1 // Silver_Valyrie => Atlans
+52	7	30	167	154	-1 // Silver_Valyrie => Atlans
+52	7	30	177	19	-1 // Silver_Valyrie => Atlans
+52	7	30	118	167	-1 // Silver_Valyrie => Atlans
+52	7	30	111	175	-1 // Silver_Valyrie => Atlans
+52	7	30	63	178	-1 // Silver_Valyrie => Atlans
+52	7	30	162	141	-1 // Silver_Valyrie => Atlans
+52	7	30	138	176	-1 // Silver_Valyrie => Atlans
+47	7	30	41	109	-1 // Valkyrie => Atlans
+47	7	30	49	100	-1 // Valkyrie => Atlans
+47	7	30	54	89	-1 // Valkyrie => Atlans
+47	7	30	62	87	-1 // Valkyrie => Atlans
+47	7	30	71	82	-1 // Valkyrie => Atlans
+47	7	30	79	70	-1 // Valkyrie => Atlans
+47	7	30	85	64	-1 // Valkyrie => Atlans
+47	7	30	94	60	-1 // Valkyrie => Atlans
+47	7	30	101	50	-1 // Valkyrie => Atlans
+47	7	30	106	48	-1 // Valkyrie => Atlans
+47	7	30	112	45	-1 // Valkyrie => Atlans
+47	7	30	109	38	-1 // Valkyrie => Atlans
+47	7	30	118	37	-1 // Valkyrie => Atlans
+47	7	30	122	29	-1 // Valkyrie => Atlans
+47	7	30	119	20	-1 // Valkyrie => Atlans
+47	7	30	124	14	-1 // Valkyrie => Atlans
+47	7	30	133	14	-1 // Valkyrie => Atlans
+47	7	30	150	14	-1 // Valkyrie => Atlans
+47	7	30	161	11	-1 // Valkyrie => Atlans
+47	7	30	166	16	-1 // Valkyrie => Atlans
+47	7	30	171	18	-1 // Valkyrie => Atlans
+47	7	30	182	14	-1 // Valkyrie => Atlans
+47	7	30	190	24	-1 // Valkyrie => Atlans
+47	7	30	196	27	-1 // Valkyrie => Atlans
+47	7	30	200	17	-1 // Valkyrie => Atlans
+47	7	30	208	9	-1 // Valkyrie => Atlans
+47	7	30	218	47	-1 // Valkyrie => Atlans
+47	7	30	222	14	-1 // Valkyrie => Atlans
+47	7	30	117	74	-1 // Valkyrie => Atlans
+47	7	30	139	61	-1 // Valkyrie => Atlans
+47	7	30	152	61	-1 // Valkyrie => Atlans
+47	7	30	172	55	-1 // Valkyrie => Atlans
+47	7	30	189	56	-1 // Valkyrie => Atlans
+47	7	30	226	46	-1 // Valkyrie => Atlans
+47	7	30	240	11	-1 // Valkyrie => Atlans
+47	7	30	227	16	-1 // Valkyrie => Atlans
+47	7	30	152	22	-1 // Valkyrie => Atlans
+47	7	30	142	15	-1 // Valkyrie => Atlans
+47	7	30	128	22	-1 // Valkyrie => Atlans
+47	7	30	116	9	-1 // Valkyrie => Atlans
+47	7	30	113	27	-1 // Valkyrie => Atlans
+47	7	30	33	108	-1 // Valkyrie => Atlans
+47	7	30	35	118	-1 // Valkyrie => Atlans
+51	7	30	228	16	-1 // Great_Bahamut => Atlans
+51	7	30	237	17	-1 // Great_Bahamut => Atlans
+51	7	30	237	26	-1 // Great_Bahamut => Atlans
+51	7	30	238	40	-1 // Great_Bahamut => Atlans
+51	7	30	235	48	-1 // Great_Bahamut => Atlans
+51	7	30	251	51	-1 // Great_Bahamut => Atlans
+51	7	30	206	55	-1 // Great_Bahamut => Atlans
+51	7	30	200	49	-1 // Great_Bahamut => Atlans
+51	7	30	193	52	-1 // Great_Bahamut => Atlans
+51	7	30	184	52	-1 // Great_Bahamut => Atlans
+51	7	30	178	58	-1 // Great_Bahamut => Atlans
+51	7	30	170	61	-1 // Great_Bahamut => Atlans
+51	7	30	156	59	-1 // Great_Bahamut => Atlans
+51	7	30	144	63	-1 // Great_Bahamut => Atlans
+51	7	30	133	61	-1 // Great_Bahamut => Atlans
+51	7	30	133	70	-1 // Great_Bahamut => Atlans
+51	7	30	125	78	-1 // Great_Bahamut => Atlans
+51	7	30	118	85	-1 // Great_Bahamut => Atlans
+51	7	30	124	90	-1 // Great_Bahamut => Atlans
+51	7	30	116	98	-1 // Great_Bahamut => Atlans
+51	7	30	106	101	-1 // Great_Bahamut => Atlans
+51	7	30	99	108	-1 // Great_Bahamut => Atlans
+51	7	30	91	115	-1 // Great_Bahamut => Atlans
+51	7	30	81	123	-1 // Great_Bahamut => Atlans
+51	7	30	126	167	-1 // Great_Bahamut => Atlans
+51	7	30	111	174	-1 // Great_Bahamut => Atlans
+51	7	30	90	177	-1 // Great_Bahamut => Atlans
+51	7	30	76	180	-1 // Great_Bahamut => Atlans
+51	7	30	62	178	-1 // Great_Bahamut => Atlans
+51	7	30	42	178	-1 // Great_Bahamut => Atlans
+51	7	30	27	161	-1 // Great_Bahamut => Atlans
+51	7	30	42	152	-1 // Great_Bahamut => Atlans
+51	7	30	19	159	-1 // Great_Bahamut => Atlans
+51	7	30	62	140	-1 // Great_Bahamut => Atlans
+51	7	30	70	133	-1 // Great_Bahamut => Atlans
+51	7	30	168	54	-1 // Great_Bahamut => Atlans
+51	7	30	7	52	-1 // Great_Bahamut => Atlans
+51	7	30	225	45	-1 // Great_Bahamut => Atlans
+51	7	30	207	9	-1 // Great_Bahamut => Atlans
+51	7	30	154	69	-1 // Great_Bahamut => Atlans
+51	7	30	111	82	-1 // Great_Bahamut => Atlans
+51	7	30	81	116	-1 // Great_Bahamut => Atlans
+51	7	30	72	125	-1 // Great_Bahamut => Atlans
+51	7	30	122	66	-1 // Great_Bahamut => Atlans
+49	7	30	19	230	-1 // Hydra => Atlans
+49	7	30	24	227	-1 // Hydra => Atlans
+51	7	30	219	56	-1 // Great_Bahamut => Atlans
+51	7	30	215	65	-1 // Great_Bahamut => Atlans
+51	7	30	232	55	-1 // Great_Bahamut => Atlans
+51	7	30	231	64	-1 // Great_Bahamut => Atlans
+51	7	30	238	71	-1 // Great_Bahamut => Atlans
+51	7	30	229	74	-1 // Great_Bahamut => Atlans
+51	7	30	217	75	-1 // Great_Bahamut => Atlans
+51	7	30	225	81	-1 // Great_Bahamut => Atlans
+51	7	30	215	86	-1 // Great_Bahamut => Atlans
+51	7	30	223	89	-1 // Great_Bahamut => Atlans
+51	7	30	218	101	-1 // Great_Bahamut => Atlans
+51	7	30	232	95	-1 // Great_Bahamut => Atlans
+52	7	30	223	70	-1 // Silver_Valyrie => Atlans
+52	7	30	211	59	-1 // Silver_Valyrie => Atlans
+52	7	30	232	86	-1 // Silver_Valyrie => Atlans
+52	7	30	208	104	-1 // Silver_Valyrie => Atlans
+52	7	30	235	106	-1 // Silver_Valyrie => Atlans
+52	7	30	224	108	-1 // Silver_Valyrie => Atlans
+48	7	30	219	124	-1 // Lizard_King => Atlans
+51	7	30	225	117	-1 // Great_Bahamut => Atlans
+48	7	30	227	123	-1 // Lizard_King => Atlans
+48	7	30	219	133	-1 // Lizard_King => Atlans
+48	7	30	226	134	-1 // Lizard_King => Atlans
+52	7	30	224	142	-1 // Silver_Valyrie => Atlans
+48	7	30	226	154	-1 // Lizard_King => Atlans
+48	7	30	221	150	-1 // Lizard_King => Atlans
+48	7	30	220	168	-1 // Lizard_King => Atlans
+48	7	30	232	166	-1 // Lizard_King => Atlans
+48	7	30	231	176	-1 // Lizard_King => Atlans
+48	7	30	217	197	-1 // Lizard_King => Atlans
+48	7	30	215	182	-1 // Lizard_King => Atlans
+49	7	30	211	192	-1 // Hydra => Atlans
+49	7	30	229	203	-1 // Hydra => Atlans
+52	7	30	208	183	-1 // Silver_Valyrie => Atlans
+52	7	30	215	174	-1 // Silver_Valyrie => Atlans
+48	7	30	222	190	-1 // Lizard_King => Atlans
+48	7	30	229	190	-1 // Lizard_King => Atlans
+52	7	30	230	181	-1 // Silver_Valyrie => Atlans
+52	7	30	226	161	-1 // Silver_Valyrie => Atlans
+52	7	30	208	198	-1 // Silver_Valyrie => Atlans
+48	7	30	232	206	-1 // Lizard_King => Atlans
+48	7	30	231	196	-1 // Lizard_King => Atlans
+48	7	30	223	202	-1 // Lizard_King => Atlans
+48	7	30	224	184	-1 // Lizard_King => Atlans
+48	7	30	230	171	-1 // Lizard_King => Atlans
+48	7	30	221	158	-1 // Lizard_King => Atlans
+48	7	30	233	124	-1 // Lizard_King => Atlans
+48	7	30	232	102	-1 // Lizard_King => Atlans
+52	7	30	200	103	-1 // Silver_Valyrie => Atlans
+52	7	30	192	101	-1 // Silver_Valyrie => Atlans
+52	7	30	179	92	-1 // Silver_Valyrie => Atlans
+52	7	30	187	94	-1 // Silver_Valyrie => Atlans
+52	7	30	177	101	-1 // Silver_Valyrie => Atlans
+52	7	30	166	117	-1 // Silver_Valyrie => Atlans
+52	7	30	159	112	-1 // Silver_Valyrie => Atlans
+52	7	30	156	122	-1 // Silver_Valyrie => Atlans
+52	7	30	173	109	-1 // Silver_Valyrie => Atlans
+52	7	30	167	107	-1 // Silver_Valyrie => Atlans
+52	7	30	150	120	-1 // Silver_Valyrie => Atlans
+52	7	30	142	125	-1 // Silver_Valyrie => Atlans
+51	7	30	136	129	-1 // Great_Bahamut => Atlans
+52	7	30	129	130	-1 // Silver_Valyrie => Atlans
+52	7	30	117	130	-1 // Silver_Valyrie => Atlans
+52	7	30	121	135	-1 // Silver_Valyrie => Atlans
+52	7	30	144	109	-1 // Silver_Valyrie => Atlans
+52	7	30	122	144	-1 // Silver_Valyrie => Atlans
+52	7	30	112	137	-1 // Silver_Valyrie => Atlans
+52	7	30	101	147	-1 // Silver_Valyrie => Atlans
+52	7	30	97	142	-1 // Silver_Valyrie => Atlans
+52	7	30	144	132	-1 // Silver_Valyrie => Atlans
+52	7	30	93	136	-1 // Silver_Valyrie => Atlans
+52	7	30	90	148	-1 // Silver_Valyrie => Atlans
+52	7	30	124	125	-1 // Silver_Valyrie => Atlans
+52	7	30	87	132	-1 // Silver_Valyrie => Atlans
+52	7	30	86	140	-1 // Silver_Valyrie => Atlans
+52	7	30	78	145	-1 // Silver_Valyrie => Atlans
+52	7	30	79	136	-1 // Silver_Valyrie => Atlans
+52	7	30	67	147	-1 // Silver_Valyrie => Atlans
+52	7	30	71	140	-1 // Silver_Valyrie => Atlans
+52	7	30	105	137	-1 // Silver_Valyrie => Atlans
+51	7	30	83	155	-1 // Great_Bahamut => Atlans
+52	7	30	81	164	-1 // Silver_Valyrie => Atlans
+52	7	30	70	168	-1 // Silver_Valyrie => Atlans
+52	7	30	76	174	-1 // Silver_Valyrie => Atlans
+52	7	30	85	185	-1 // Silver_Valyrie => Atlans
+52	7	30	87	175	-1 // Silver_Valyrie => Atlans
+51	7	30	65	187	-1 // Great_Bahamut => Atlans
+51	7	30	64	159	-1 // Great_Bahamut => Atlans
+51	7	30	186	99	-1 // Great_Bahamut => Atlans
+51	7	30	185	90	-1 // Great_Bahamut => Atlans
+51	7	30	147	114	-1 // Great_Bahamut => Atlans
+51	7	30	84	170	-1 // Great_Bahamut => Atlans
+48	7	30	15	234	-1 // Lizard_King => Atlans
+48	7	30	20	237	-1 // Lizard_King => Atlans
+48	7	30	34	237	-1 // Lizard_King => Atlans
+48	7	30	47	231	-1 // Lizard_King => Atlans
+48	7	30	54	232	-1 // Lizard_King => Atlans
+48	7	30	20	218	-1 // Lizard_King => Atlans
+48	7	30	34	176	-1 // Lizard_King => Atlans
+end
+2
+61	8	30	7	205	-1 // Vim_Knight => Tarkan
+61	8	30	5	214	-1 // Vim_Knight => Tarkan
+58	8	30	8	219	-1 // Tantallos => Tarkan
+61	8	30	6	228	-1 // Vim_Knight => Tarkan
+59	8	30	11	241	-1 // Zaikan => Tarkan
+58	8	30	18	238	-1 // Tantallos => Tarkan
+62	8	30	146	53	-1 // Mutant => Tarkan
+61	8	30	72	167	-1 // Vim_Knight => Tarkan
+61	8	30	83	176	-1 // Vim_Knight => Tarkan
+61	8	30	63	173	-1 // Vim_Knight => Tarkan
+62	8	30	148	43	-1 // Mutant => Tarkan
+62	8	30	155	40	-1 // Mutant => Tarkan
+62	8	30	134	57	-1 // Mutant => Tarkan
+62	8	30	151	34	-1 // Mutant => Tarkan
+62	8	30	149	28	-1 // Mutant => Tarkan
+62	8	30	141	74	-1 // Mutant => Tarkan
+62	8	30	142	68	-1 // Mutant => Tarkan
+61	8	30	11	234	-1 // Vim_Knight => Tarkan
+62	8	30	141	24	-1 // Mutant => Tarkan
+62	8	30	137	20	-1 // Mutant => Tarkan
+62	8	30	132	15	-1 // Mutant => Tarkan
+60	8	30	148	66	-1 // Bloody_Wolf => Tarkan
+62	8	30	134	82	-1 // Mutant => Tarkan
+62	8	30	135	89	-1 // Mutant => Tarkan
+62	8	30	136	96	-1 // Mutant => Tarkan
+62	8	30	148	91	-1 // Mutant => Tarkan
+62	8	30	157	89	-1 // Mutant => Tarkan
+62	8	30	158	80	-1 // Mutant => Tarkan
+62	8	30	154	73	-1 // Mutant => Tarkan
+62	8	30	162	101	-1 // Mutant => Tarkan
+62	8	30	161	110	-1 // Mutant => Tarkan
+62	8	30	171	116	-1 // Mutant => Tarkan
+62	8	30	180	112	-1 // Mutant => Tarkan
+62	8	30	190	112	-1 // Mutant => Tarkan
+62	8	30	197	108	-1 // Mutant => Tarkan
+62	8	30	205	105	-1 // Mutant => Tarkan
+62	8	30	186	120	-1 // Mutant => Tarkan
+60	8	30	181	123	-1 // Bloody_Wolf => Tarkan
+62	8	30	173	129	-1 // Mutant => Tarkan
+62	8	30	169	136	-1 // Mutant => Tarkan
+62	8	30	162	141	-1 // Mutant => Tarkan
+62	8	30	159	148	-1 // Mutant => Tarkan
+62	8	30	151	155	-1 // Mutant => Tarkan
+62	8	30	152	147	-1 // Mutant => Tarkan
+62	8	30	152	133	-1 // Mutant => Tarkan
+62	8	30	162	129	-1 // Mutant => Tarkan
+62	8	30	152	125	-1 // Mutant => Tarkan
+62	8	30	152	116	-1 // Mutant => Tarkan
+62	8	30	171	106	-1 // Mutant => Tarkan
+62	8	30	151	101	-1 // Mutant => Tarkan
+62	8	30	142	100	-1 // Mutant => Tarkan
+62	8	30	140	37	-1 // Mutant => Tarkan
+62	8	30	133	65	-1 // Mutant => Tarkan
+60	8	30	134	72	-1 // Bloody_Wolf => Tarkan
+60	8	30	128	74	-1 // Bloody_Wolf => Tarkan
+57	8	30	123	73	-1 // Iron_Wheel => Tarkan
+60	8	30	115	86	-1 // Bloody_Wolf => Tarkan
+60	8	30	121	87	-1 // Bloody_Wolf => Tarkan
+60	8	30	128	98	-1 // Bloody_Wolf => Tarkan
+60	8	30	121	99	-1 // Bloody_Wolf => Tarkan
+60	8	30	108	95	-1 // Bloody_Wolf => Tarkan
+60	8	30	104	87	-1 // Bloody_Wolf => Tarkan
+60	8	30	107	80	-1 // Bloody_Wolf => Tarkan
+60	8	30	109	64	-1 // Bloody_Wolf => Tarkan
+60	8	30	108	55	-1 // Bloody_Wolf => Tarkan
+60	8	30	118	42	-1 // Bloody_Wolf => Tarkan
+60	8	30	126	42	-1 // Bloody_Wolf => Tarkan
+60	8	30	133	44	-1 // Bloody_Wolf => Tarkan
+60	8	30	125	26	-1 // Bloody_Wolf => Tarkan
+60	8	30	113	34	-1 // Bloody_Wolf => Tarkan
+60	8	30	105	33	-1 // Bloody_Wolf => Tarkan
+60	8	30	108	43	-1 // Bloody_Wolf => Tarkan
+60	8	30	103	49	-1 // Bloody_Wolf => Tarkan
+60	8	30	97	46	-1 // Bloody_Wolf => Tarkan
+60	8	30	88	41	-1 // Bloody_Wolf => Tarkan
+60	8	30	95	26	-1 // Bloody_Wolf => Tarkan
+60	8	30	96	36	-1 // Bloody_Wolf => Tarkan
+60	8	30	96	56	-1 // Bloody_Wolf => Tarkan
+60	8	30	102	61	-1 // Bloody_Wolf => Tarkan
+60	8	30	104	70	-1 // Bloody_Wolf => Tarkan
+60	8	30	96	78	-1 // Bloody_Wolf => Tarkan
+60	8	30	97	66	-1 // Bloody_Wolf => Tarkan
+57	8	30	81	63	-1 // Iron_Wheel => Tarkan
+57	8	30	70	57	-1 // Iron_Wheel => Tarkan
+57	8	30	65	64	-1 // Iron_Wheel => Tarkan
+57	8	30	64	71	-1 // Iron_Wheel => Tarkan
+57	8	30	56	75	-1 // Iron_Wheel => Tarkan
+57	8	30	46	71	-1 // Iron_Wheel => Tarkan
+57	8	30	38	71	-1 // Iron_Wheel => Tarkan
+57	8	30	35	62	-1 // Iron_Wheel => Tarkan
+57	8	30	27	75	-1 // Iron_Wheel => Tarkan
+57	8	30	34	78	-1 // Iron_Wheel => Tarkan
+57	8	30	25	83	-1 // Iron_Wheel => Tarkan
+57	8	30	21	92	-1 // Iron_Wheel => Tarkan
+58	8	30	38	87	-1 // Tantallos => Tarkan
+57	8	30	38	98	-1 // Iron_Wheel => Tarkan
+57	8	30	48	99	-1 // Iron_Wheel => Tarkan
+57	8	30	55	100	-1 // Iron_Wheel => Tarkan
+57	8	30	62	91	-1 // Iron_Wheel => Tarkan
+57	8	30	70	92	-1 // Iron_Wheel => Tarkan
+57	8	30	79	89	-1 // Iron_Wheel => Tarkan
+57	8	30	85	91	-1 // Iron_Wheel => Tarkan
+60	8	30	91	86	-1 // Bloody_Wolf => Tarkan
+57	8	30	89	71	-1 // Iron_Wheel => Tarkan
+57	8	30	90	50	-1 // Iron_Wheel => Tarkan
+58	8	30	69	120	-1 // Tantallos => Tarkan
+58	8	30	61	121	-1 // Tantallos => Tarkan
+58	8	30	54	120	-1 // Tantallos => Tarkan
+58	8	30	43	121	-1 // Tantallos => Tarkan
+58	8	30	35	121	-1 // Tantallos => Tarkan
+58	8	30	24	120	-1 // Tantallos => Tarkan
+58	8	30	18	127	-1 // Tantallos => Tarkan
+58	8	30	25	127	-1 // Tantallos => Tarkan
+58	8	30	32	132	-1 // Tantallos => Tarkan
+58	8	30	29	98	-1 // Tantallos => Tarkan
+58	8	30	42	134	-1 // Tantallos => Tarkan
+58	8	30	35	141	-1 // Tantallos => Tarkan
+58	8	30	26	149	-1 // Tantallos => Tarkan
+58	8	30	26	160	-1 // Tantallos => Tarkan
+58	8	30	33	157	-1 // Tantallos => Tarkan
+58	8	30	40	150	-1 // Tantallos => Tarkan
+58	8	30	52	138	-1 // Tantallos => Tarkan
+58	8	30	61	134	-1 // Tantallos => Tarkan
+60	8	30	74	81	-1 // Bloody_Wolf => Tarkan
+58	8	30	75	133	-1 // Tantallos => Tarkan
+58	8	30	81	126	-1 // Tantallos => Tarkan
+58	8	30	87	120	-1 // Tantallos => Tarkan
+58	8	30	77	118	-1 // Tantallos => Tarkan
+58	8	30	96	123	-1 // Tantallos => Tarkan
+58	8	30	107	119	-1 // Tantallos => Tarkan
+58	8	30	112	124	-1 // Tantallos => Tarkan
+58	8	30	119	139	-1 // Tantallos => Tarkan
+58	8	30	107	139	-1 // Tantallos => Tarkan
+58	8	30	105	130	-1 // Tantallos => Tarkan
+58	8	30	107	149	-1 // Tantallos => Tarkan
+58	8	30	86	131	-1 // Tantallos => Tarkan
+61	8	30	73	125	-1 // Vim_Knight => Tarkan
+58	8	30	76	145	-1 // Tantallos => Tarkan
+58	8	30	69	139	-1 // Tantallos => Tarkan
+58	8	30	60	143	-1 // Tantallos => Tarkan
+58	8	30	52	157	-1 // Tantallos => Tarkan
+58	8	30	52	165	-1 // Tantallos => Tarkan
+58	8	30	45	175	-1 // Tantallos => Tarkan
+58	8	30	33	168	-1 // Tantallos => Tarkan
+58	8	30	35	175	-1 // Tantallos => Tarkan
+58	8	30	42	164	-1 // Tantallos => Tarkan
+58	8	30	64	164	-1 // Tantallos => Tarkan
+61	8	30	131	178	-1 // Vim_Knight => Tarkan
+58	8	30	79	156	-1 // Tantallos => Tarkan
+58	8	30	93	137	-1 // Tantallos => Tarkan
+58	8	30	115	154	-1 // Tantallos => Tarkan
+58	8	30	124	152	-1 // Tantallos => Tarkan
+58	8	30	129	141	-1 // Tantallos => Tarkan
+58	8	30	125	129	-1 // Tantallos => Tarkan
+58	8	30	124	161	-1 // Tantallos => Tarkan
+58	8	30	115	168	-1 // Tantallos => Tarkan
+58	8	30	120	177	-1 // Tantallos => Tarkan
+61	8	30	127	171	-1 // Vim_Knight => Tarkan
+61	8	30	127	188	-1 // Vim_Knight => Tarkan
+61	8	30	121	196	-1 // Vim_Knight => Tarkan
+61	8	30	123	208	-1 // Vim_Knight => Tarkan
+61	8	30	121	217	-1 // Vim_Knight => Tarkan
+61	8	30	106	225	-1 // Vim_Knight => Tarkan
+61	8	30	109	217	-1 // Vim_Knight => Tarkan
+61	8	30	102	212	-1 // Vim_Knight => Tarkan
+61	8	30	98	207	-1 // Vim_Knight => Tarkan
+61	8	30	88	208	-1 // Vim_Knight => Tarkan
+61	8	30	80	207	-1 // Vim_Knight => Tarkan
+61	8	30	78	198	-1 // Vim_Knight => Tarkan
+61	8	30	88	189	-1 // Vim_Knight => Tarkan
+61	8	30	83	185	-1 // Vim_Knight => Tarkan
+58	8	30	98	193	-1 // Tantallos => Tarkan
+61	8	30	73	179	-1 // Vim_Knight => Tarkan
+58	8	30	71	184	-1 // Tantallos => Tarkan
+61	8	30	161	188	-1 // Vim_Knight => Tarkan
+61	8	30	114	209	-1 // Vim_Knight => Tarkan
+61	8	30	153	187	-1 // Vim_Knight => Tarkan
+61	8	30	166	190	-1 // Vim_Knight => Tarkan
+61	8	30	159	195	-1 // Vim_Knight => Tarkan
+61	8	30	172	195	-1 // Vim_Knight => Tarkan
+61	8	30	179	194	-1 // Vim_Knight => Tarkan
+61	8	30	183	201	-1 // Vim_Knight => Tarkan
+61	8	30	177	207	-1 // Vim_Knight => Tarkan
+58	8	30	176	214	-1 // Tantallos => Tarkan
+61	8	30	173	221	-1 // Vim_Knight => Tarkan
+58	8	30	160	203	-1 // Tantallos => Tarkan
+63	8	30	161	225	-1 // DeathVim_Knight => Tarkan
+61	8	30	161	218	-1 // Vim_Knight => Tarkan
+61	8	30	157	214	-1 // Vim_Knight => Tarkan
+61	8	30	153	209	-1 // Vim_Knight => Tarkan
+61	8	30	150	203	-1 // Vim_Knight => Tarkan
+61	8	30	167	225	-1 // Vim_Knight => Tarkan
+61	8	30	93	150	-1 // Vim_Knight => Tarkan
+61	8	30	169	204	-1 // Vim_Knight => Tarkan
+61	8	30	44	213	-1 // Vim_Knight => Tarkan
+61	8	30	39	210	-1 // Vim_Knight => Tarkan
+61	8	30	31	207	-1 // Vim_Knight => Tarkan
+58	8	30	24	212	-1 // Tantallos => Tarkan
+58	8	30	27	229	-1 // Tantallos => Tarkan
+61	8	30	31	236	-1 // Vim_Knight => Tarkan
+61	8	30	29	245	-1 // Vim_Knight => Tarkan
+58	8	30	36	225	-1 // Tantallos => Tarkan
+58	8	30	42	244	-1 // Tantallos => Tarkan
+61	8	30	50	241	-1 // Vim_Knight => Tarkan
+61	8	30	50	230	-1 // Vim_Knight => Tarkan
+61	8	30	43	222	-1 // Vim_Knight => Tarkan
+61	8	30	29	220	-1 // Vim_Knight => Tarkan
+61	8	30	15	218	-1 // Vim_Knight => Tarkan
+61	8	30	19	205	-1 // Vim_Knight => Tarkan
+61	8	30	11	246	-1 // Vim_Knight => Tarkan
+61	8	30	6	240	-1 // Vim_Knight => Tarkan
+61	8	30	157	224	-1 // Vim_Knight => Tarkan
+61	8	30	85	141	-1 // Vim_Knight => Tarkan
+58	8	30	22	244	-1 // Tantallos => Tarkan
+58	8	30	52	204	-1 // Tantallos => Tarkan
+58	8	30	165	219	-1 // Tantallos => Tarkan
+57	8	30	114	78	-1 // Iron_Wheel => Tarkan
+end
+1
+17	9	30	119	80	150	115	-1	35 // Cyclops => DevilSquare
+15	9	30	119	80	150	115	-1	35 // Skeleton_Archer => DevilSquare
+10	9	30	121	152	151	184	-1	35 // Dark_Knight => DevilSquare
+39	9	30	121	152	151	184	-1	35 // Poison_Shadow => DevilSquare
+41	9	30	49	138	79	173	-1	35 // Death_Cow => DevilSquare
+37	9	30	49	138	79	173	-1	35 // Devil => DevilSquare
+64	9	30	53	74	83	109	-1	35 // Orc_Archer => DevilSquare
+65	9	30	53	74	83	109	-1	35 // Elite_Orc => DevilSquare
+294	32	30	120	80	150	115	-1	35 // Axe_Warrior => Devil_Square
+60	32	30	120	80	150	115	-1	35 // Bloody_Wolf => Devil_Square
+290	32	30	122	152	151	184	-1	35 // Lizard_Warrior => Devil_Square
+57	32	30	122	152	151	184	-1	35 // Iron_Wheel => Devil_Square
+end
+2
+77	10	30	34	238	-1 // Dark_Phoenix => Icarus
+70	10	30	66	68	-1 // Queen_Rainer => Icarus
+70	10	30	85	88	-1 // Queen_Rainer => Icarus
+70	10	30	80	76	-1 // Queen_Rainer => Icarus
+73	10	30	70	78	-1 // Drakan => Icarus
+73	10	30	45	72	-1 // Drakan => Icarus
+70	10	30	60	84	-1 // Queen_Rainer => Icarus
+72	10	30	41	113	-1 // Phantom_Knight => Icarus
+72	10	30	42	135	-1 // Phantom_Knight => Icarus
+74	10	30	29	104	-1 // Alpha_Crust => Icarus
+74	10	30	38	103	-1 // Alpha_Crust => Icarus
+74	10	30	35	94	-1 // Alpha_Crust => Icarus
+74	10	30	32	87	-1 // Alpha_Crust => Icarus
+73	10	30	35	69	-1 // Drakan => Icarus
+73	10	30	26	74	-1 // Drakan => Icarus
+73	10	30	36	79	-1 // Drakan => Icarus
+74	10	30	39	85	-1 // Alpha_Crust => Icarus
+72	10	30	51	126	-1 // Phantom_Knight => Icarus
+71	10	30	88	70	-1 // Mega_Crust => Icarus
+72	10	30	53	138	-1 // Phantom_Knight => Icarus
+73	10	30	55	73	-1 // Drakan => Icarus
+72	10	30	44	148	-1 // Phantom_Knight => Icarus
+72	10	30	33	119	-1 // Phantom_Knight => Icarus
+74	10	30	33	111	-1 // Alpha_Crust => Icarus
+71	10	30	84	47	-1 // Mega_Crust => Icarus
+71	10	30	79	33	-1 // Mega_Crust => Icarus
+71	10	30	58	42	-1 // Mega_Crust => Icarus
+70	10	30	89	38	-1 // Queen_Rainer => Icarus
+71	10	30	70	43	-1 // Mega_Crust => Icarus
+71	10	30	64	30	-1 // Mega_Crust => Icarus
+71	10	30	53	27	-1 // Mega_Crust => Icarus
+70	10	30	91	59	-1 // Queen_Rainer => Icarus
+72	10	30	41	157	-1 // Phantom_Knight => Icarus
+69	10	30	21	39	-1 // Alquamos => Icarus
+69	10	30	44	27	-1 // Alquamos => Icarus
+69	10	30	12	27	-1 // Alquamos => Icarus
+69	10	30	13	38	-1 // Alquamos => Icarus
+69	10	30	48	40	-1 // Alquamos => Icarus
+72	10	30	42	122	-1 // Phantom_Knight => Icarus
+69	10	30	28	28	-1 // Alquamos => Icarus
+71	10	30	93	47	-1 // Mega_Crust => Icarus
+72	10	30	53	150	-1 // Phantom_Knight => Icarus
+75	10	30	50	162	-1 // Giant_Drakan => Icarus
+75	10	30	52	174	-1 // Giant_Drakan => Icarus
+75	10	30	55	181	-1 // Giant_Drakan => Icarus
+75	10	30	44	212	-1 // Giant_Drakan => Icarus
+72	10	30	38	216	-1 // Phantom_Knight => Icarus
+75	10	30	47	189	-1 // Giant_Drakan => Icarus
+75	10	30	59	190	-1 // Giant_Drakan => Icarus
+75	10	30	48	200	-1 // Giant_Drakan => Icarus
+75	10	30	57	200	-1 // Giant_Drakan => Icarus
+75	10	30	27	220	-1 // Giant_Drakan => Icarus
+69	10	30	66	37	-1 // Alquamos => Icarus
+69	10	30	80	41	-1 // Alquamos => Icarus
+75	10	30	43	238	-1 // Giant_Drakan => Icarus
+75	10	30	25	231	-1 // Giant_Drakan => Icarus
+72	10	30	44	221	-1 // Phantom_Knight => Icarus
+69	10	30	40	34	-1 // Alquamos => Icarus
+69	10	30	31	37	-1 // Alquamos => Icarus
+69	10	30	18	31	-1 // Alquamos => Icarus
+71	10	30	57	34	-1 // Mega_Crust => Icarus
+71	10	30	71	33	-1 // Mega_Crust => Icarus
+72	10	30	36	226	-1 // Phantom_Knight => Icarus
+75	10	30	48	228	-1 // Giant_Drakan => Icarus
+end
+4
+232	11	0	10	9	1 // NPC_Archangel => Blood_Castle_1
+232	12	0	10	9	1 // NPC_Archangel => Blood_Castle_2
+232	13	0	10	9	1 // NPC_Archangel => Blood_Castle_3
+232	14	0	10	9	1 // NPC_Archangel => Blood_Castle_4
+232	15	0	10	9	1 // NPC_Archangel => Blood_Castle_5
+232	16	0	10	9	1 // NPC_Archangel => Blood_Castle_6
+232	17	0	10	9	1 // NPC_Archangel => Blood_Castle_7
+132	11	0	14	95	0 // Gate2 => Blood_Castle_1
+132	12	0	14	95	0 // Gate2 => Blood_Castle_2
+132	13	0	14	95	0 // Gate2 => Blood_Castle_3
+132	14	0	14	95	0 // Gate2 => Blood_Castle_4
+132	15	0	14	95	0 // Gate2 => Blood_Castle_5
+132	16	0	14	95	0 // Gate2 => Blood_Castle_6
+132	17	0	14	95	0 // Gate2 => Blood_Castle_7
+131	11	0	14	75	0 // Gate1 => Blood_Castle_1
+131	12	0	14	75	0 // Gate1 => Blood_Castle_2
+131	13	0	14	75	0 // Gate1 => Blood_Castle_3
+131	14	0	14	75	0 // Gate1 => Blood_Castle_4
+131	15	0	14	75	0 // Gate1 => Blood_Castle_5
+131	16	0	14	75	0 // Gate1 => Blood_Castle_6
+131	17	0	14	75	0 // Gate1 => Blood_Castle_7
+end
+4
+85	11	30	13	45	0 // Orc_Archer => Blood_Castle_1
+88	11	30	13	78	0 // Spirit_Knight => Blood_Castle_1
+86	11	30	15	46	0 // Elite_Orc => Blood_Castle_1
+88	11	30	14	83	0 // Spirit_Knight => Blood_Castle_1
+88	11	30	14	78	0 // Spirit_Knight => Blood_Castle_1
+86	11	30	15	63	0 // Elite_Orc => Blood_Castle_1
+87	11	30	13	69	0 // Spirit_Beast => Blood_Castle_1
+84	11	30	14	34	0 // Orc_Warrior => Blood_Castle_1
+86	11	30	15	53	0 // Elite_Orc => Blood_Castle_1
+85	11	30	13	23	0 // Orc_Archer => Blood_Castle_1
+85	11	30	15	43	0 // Orc_Archer => Blood_Castle_1
+84	11	30	14	38	0 // Orc_Warrior => Blood_Castle_1
+86	11	30	13	65	0 // Elite_Orc => Blood_Castle_1
+88	11	30	15	78	0 // Spirit_Knight => Blood_Castle_1
+86	11	30	13	67	0 // Elite_Orc => Blood_Castle_1
+87	11	30	14	61	0 // Spirit_Beast => Blood_Castle_1
+88	11	30	16	80	0 // Spirit_Knight => Blood_Castle_1
+86	11	30	15	59	0 // Elite_Orc => Blood_Castle_1
+86	11	30	13	59	0 // Elite_Orc => Blood_Castle_1
+86	11	30	15	55	0 // Elite_Orc => Blood_Castle_1
+85	11	30	15	39	0 // Orc_Archer => Blood_Castle_1
+84	11	30	13	35	0 // Orc_Warrior => Blood_Castle_1
+86	11	30	13	62	0 // Elite_Orc => Blood_Castle_1
+87	11	30	13	55	0 // Spirit_Beast => Blood_Castle_1
+85	11	30	15	37	0 // Orc_Archer => Blood_Castle_1
+84	11	30	13	28	0 // Orc_Warrior => Blood_Castle_1
+85	11	30	13	29	0 // Orc_Archer => Blood_Castle_1
+85	11	30	15	28	0 // Orc_Archer => Blood_Castle_1
+85	11	30	13	25	0 // Orc_Archer => Blood_Castle_1
+85	11	30	13	21	0 // Orc_Archer => Blood_Castle_1
+85	11	30	14	22	0 // Orc_Archer => Blood_Castle_1
+85	11	30	15	21	0 // Orc_Archer => Blood_Castle_1
+85	11	30	13	31	0 // Orc_Archer => Blood_Castle_1
+85	11	30	15	30	0 // Orc_Archer => Blood_Castle_1
+85	11	30	15	33	0 // Orc_Archer => Blood_Castle_1
+87	11	30	14	58	0 // Spirit_Beast => Blood_Castle_1
+84	11	30	15	35	0 // Orc_Warrior => Blood_Castle_1
+84	11	30	14	33	0 // Orc_Warrior => Blood_Castle_1
+84	11	30	15	41	0 // Orc_Warrior => Blood_Castle_1
+84	11	30	14	42	0 // Orc_Warrior => Blood_Castle_1
+85	11	30	14	21	0 // Orc_Archer => Blood_Castle_1
+84	11	30	15	25	0 // Orc_Warrior => Blood_Castle_1
+84	11	30	15	23	0 // Orc_Warrior => Blood_Castle_1
+84	11	30	13	26	0 // Orc_Warrior => Blood_Castle_1
+86	11	30	13	41	0 // Elite_Orc => Blood_Castle_1
+86	11	30	15	69	0 // Elite_Orc => Blood_Castle_1
+84	11	30	13	37	0 // Orc_Warrior => Blood_Castle_1
+85	11	30	13	43	0 // Orc_Archer => Blood_Castle_1
+86	11	30	13	50	0 // Elite_Orc => Blood_Castle_1
+86	11	30	15	48	0 // Elite_Orc => Blood_Castle_1
+86	11	30	13	46	0 // Elite_Orc => Blood_Castle_1
+88	11	30	15	62	0 // Spirit_Knight => Blood_Castle_1
+87	11	30	14	52	0 // Spirit_Beast => Blood_Castle_1
+87	11	30	15	50	0 // Spirit_Beast => Blood_Castle_1
+87	11	30	15	66	0 // Spirit_Beast => Blood_Castle_1
+89	11	30	16	87	0 // Spirit_Sorcerer => Blood_Castle_1
+89	11	30	12	81	0 // Spirit_Sorcerer => Blood_Castle_1
+88	11	30	17	83	0 // Spirit_Knight => Blood_Castle_1
+88	11	30	14	90	0 // Spirit_Knight => Blood_Castle_1
+88	11	30	11	83	0 // Spirit_Knight => Blood_Castle_1
+89	11	30	13	88	0 // Spirit_Sorcerer => Blood_Castle_1
+89	11	30	13	85	0 // Spirit_Sorcerer => Blood_Castle_1
+89	11	30	19	85	0 // Spirit_Sorcerer => Blood_Castle_1
+89	11	30	13	93	0 // Spirit_Sorcerer => Blood_Castle_1
+88	11	30	15	94	0 // Spirit_Knight => Blood_Castle_1
+84	11	30	14	40	0 // Orc_Warrior => Blood_Castle_1
+89	11	30	14	80	0 // Spirit_Sorcerer => Blood_Castle_1
+89	11	30	18	81	0 // Spirit_Sorcerer => Blood_Castle_1
+84	11	30	13	39	0 // Orc_Warrior => Blood_Castle_1
+88	11	30	20	82	0 // Spirit_Knight => Blood_Castle_1
+88	11	30	20	88	0 // Spirit_Knight => Blood_Castle_1
+84	11	30	14	27	0 // Orc_Warrior => Blood_Castle_1
+84	11	30	14	24	0 // Orc_Warrior => Blood_Castle_1
+84	11	30	14	32	0 // Orc_Warrior => Blood_Castle_1
+86	11	30	14	44	0 // Elite_Orc => Blood_Castle_1
+86	11	30	15	51	0 // Elite_Orc => Blood_Castle_1
+86	11	30	14	49	0 // Elite_Orc => Blood_Castle_1
+87	11	30	14	56	0 // Spirit_Beast => Blood_Castle_1
+86	11	30	15	57	0 // Elite_Orc => Blood_Castle_1
+86	11	30	14	64	0 // Elite_Orc => Blood_Castle_1
+86	11	30	14	67	0 // Elite_Orc => Blood_Castle_1
+87	11	30	14	70	0 // Spirit_Beast => Blood_Castle_1
+86	11	30	13	53	0 // Elite_Orc => Blood_Castle_1
+84	11	30	15	45	0 // Orc_Warrior => Blood_Castle_1
+88	11	30	14	54	0 // Spirit_Knight => Blood_Castle_1
+88	11	30	14	36	0 // Spirit_Knight => Blood_Castle_1
+88	11	30	15	68	0 // Spirit_Knight => Blood_Castle_1
+87	11	30	13	48	0 // Spirit_Beast => Blood_Castle_1
+88	11	30	14	47	0 // Spirit_Knight => Blood_Castle_1
+87	11	30	13	63	0 // Spirit_Beast => Blood_Castle_1
+86	11	30	15	65	0 // Elite_Orc => Blood_Castle_1
+86	11	30	15	60	0 // Elite_Orc => Blood_Castle_1
+86	11	30	13	57	0 // Elite_Orc => Blood_Castle_1
+84	11	30	15	31	0 // Orc_Warrior => Blood_Castle_1
+85	11	30	15	26	0 // Orc_Archer => Blood_Castle_1
+91	12	30	13	45	1 // Orc_Archer => Blood_Castle_2
+94	12	30	13	78	1 // Spirit_Knight => Blood_Castle_2
+92	12	30	15	46	1 // Elite_Orc => Blood_Castle_2
+94	12	30	14	83	1 // Spirit_Knight => Blood_Castle_2
+94	12	30	14	78	1 // Spirit_Knight => Blood_Castle_2
+92	12	30	15	63	1 // Elite_Orc => Blood_Castle_2
+93	12	30	13	69	1 // Spirit_Beast => Blood_Castle_2
+90	12	30	14	34	1 // Orc_Warrior => Blood_Castle_2
+92	12	30	15	53	1 // Elite_Orc => Blood_Castle_2
+91	12	30	13	23	1 // Orc_Archer => Blood_Castle_2
+91	12	30	15	43	1 // Orc_Archer => Blood_Castle_2
+90	12	30	14	38	1 // Orc_Warrior => Blood_Castle_2
+92	12	30	13	65	1 // Elite_Orc => Blood_Castle_2
+94	12	30	15	78	1 // Spirit_Knight => Blood_Castle_2
+92	12	30	13	67	1 // Elite_Orc => Blood_Castle_2
+93	12	30	14	61	1 // Spirit_Beast => Blood_Castle_2
+94	12	30	16	80	1 // Spirit_Knight => Blood_Castle_2
+92	12	30	15	59	1 // Elite_Orc => Blood_Castle_2
+92	12	30	13	59	1 // Elite_Orc => Blood_Castle_2
+92	12	30	15	55	1 // Elite_Orc => Blood_Castle_2
+91	12	30	15	39	1 // Orc_Archer => Blood_Castle_2
+90	12	30	13	35	1 // Orc_Warrior => Blood_Castle_2
+92	12	30	13	62	1 // Elite_Orc => Blood_Castle_2
+93	12	30	13	55	1 // Spirit_Beast => Blood_Castle_2
+91	12	30	15	37	1 // Orc_Archer => Blood_Castle_2
+90	12	30	13	28	1 // Orc_Warrior => Blood_Castle_2
+91	12	30	13	29	1 // Orc_Archer => Blood_Castle_2
+91	12	30	15	28	1 // Orc_Archer => Blood_Castle_2
+91	12	30	13	25	1 // Orc_Archer => Blood_Castle_2
+91	12	30	13	21	1 // Orc_Archer => Blood_Castle_2
+91	12	30	14	22	1 // Orc_Archer => Blood_Castle_2
+91	12	30	15	21	1 // Orc_Archer => Blood_Castle_2
+91	12	30	13	31	1 // Orc_Archer => Blood_Castle_2
+91	12	30	15	30	1 // Orc_Archer => Blood_Castle_2
+91	12	30	15	33	1 // Orc_Archer => Blood_Castle_2
+93	12	30	14	58	1 // Spirit_Beast => Blood_Castle_2
+90	12	30	15	35	1 // Orc_Warrior => Blood_Castle_2
+90	12	30	14	33	1 // Orc_Warrior => Blood_Castle_2
+90	12	30	15	41	1 // Orc_Warrior => Blood_Castle_2
+90	12	30	14	42	1 // Orc_Warrior => Blood_Castle_2
+91	12	30	14	21	1 // Orc_Archer => Blood_Castle_2
+90	12	30	15	25	1 // Orc_Warrior => Blood_Castle_2
+90	12	30	15	23	1 // Orc_Warrior => Blood_Castle_2
+90	12	30	13	26	1 // Orc_Warrior => Blood_Castle_2
+92	12	30	13	41	1 // Elite_Orc => Blood_Castle_2
+92	12	30	15	69	1 // Elite_Orc => Blood_Castle_2
+90	12	30	13	37	1 // Orc_Warrior => Blood_Castle_2
+91	12	30	13	43	1 // Orc_Archer => Blood_Castle_2
+92	12	30	13	50	1 // Elite_Orc => Blood_Castle_2
+92	12	30	15	48	1 // Elite_Orc => Blood_Castle_2
+92	12	30	13	46	1 // Elite_Orc => Blood_Castle_2
+94	12	30	15	62	1 // Spirit_Knight => Blood_Castle_2
+93	12	30	14	52	1 // Spirit_Beast => Blood_Castle_2
+93	12	30	15	50	1 // Spirit_Beast => Blood_Castle_2
+93	12	30	15	66	1 // Spirit_Beast => Blood_Castle_2
+95	12	30	16	87	1 // Spirit_Sorcerer => Blood_Castle_2
+95	12	30	12	81	1 // Spirit_Sorcerer => Blood_Castle_2
+94	12	30	17	83	1 // Spirit_Knight => Blood_Castle_2
+94	12	30	14	90	1 // Spirit_Knight => Blood_Castle_2
+94	12	30	11	83	1 // Spirit_Knight => Blood_Castle_2
+95	12	30	13	88	1 // Spirit_Sorcerer => Blood_Castle_2
+95	12	30	13	85	1 // Spirit_Sorcerer => Blood_Castle_2
+95	12	30	19	85	1 // Spirit_Sorcerer => Blood_Castle_2
+95	12	30	13	93	1 // Spirit_Sorcerer => Blood_Castle_2
+94	12	30	15	94	1 // Spirit_Knight => Blood_Castle_2
+90	12	30	14	40	1 // Orc_Warrior => Blood_Castle_2
+95	12	30	14	80	1 // Spirit_Sorcerer => Blood_Castle_2
+95	12	30	18	81	1 // Spirit_Sorcerer => Blood_Castle_2
+90	12	30	13	39	1 // Orc_Warrior => Blood_Castle_2
+94	12	30	20	82	1 // Spirit_Knight => Blood_Castle_2
+94	12	30	20	88	1 // Spirit_Knight => Blood_Castle_2
+90	12	30	14	27	1 // Orc_Warrior => Blood_Castle_2
+90	12	30	14	24	1 // Orc_Warrior => Blood_Castle_2
+90	12	30	14	32	1 // Orc_Warrior => Blood_Castle_2
+92	12	30	14	44	1 // Elite_Orc => Blood_Castle_2
+92	12	30	15	51	1 // Elite_Orc => Blood_Castle_2
+92	12	30	14	49	1 // Elite_Orc => Blood_Castle_2
+93	12	30	14	56	1 // Spirit_Beast => Blood_Castle_2
+92	12	30	15	57	1 // Elite_Orc => Blood_Castle_2
+92	12	30	14	64	1 // Elite_Orc => Blood_Castle_2
+92	12	30	14	67	1 // Elite_Orc => Blood_Castle_2
+93	12	30	14	70	1 // Spirit_Beast => Blood_Castle_2
+92	12	30	13	53	1 // Elite_Orc => Blood_Castle_2
+90	12	30	15	45	1 // Orc_Warrior => Blood_Castle_2
+94	12	30	14	54	1 // Spirit_Knight => Blood_Castle_2
+94	12	30	14	36	1 // Spirit_Knight => Blood_Castle_2
+94	12	30	15	68	1 // Spirit_Knight => Blood_Castle_2
+93	12	30	13	48	1 // Spirit_Beast => Blood_Castle_2
+94	12	30	14	47	1 // Spirit_Knight => Blood_Castle_2
+93	12	30	13	63	1 // Spirit_Beast => Blood_Castle_2
+92	12	30	15	65	1 // Elite_Orc => Blood_Castle_2
+92	12	30	15	60	1 // Elite_Orc => Blood_Castle_2
+92	12	30	13	57	1 // Elite_Orc => Blood_Castle_2
+90	12	30	15	31	1 // Orc_Warrior => Blood_Castle_2
+91	12	30	15	26	1 // Orc_Archer => Blood_Castle_2
+97	13	30	13	45	2 // Orc_Archer => Blood_Castle_3
+111	13	30	13	78	2 // Spirit_Knight => Blood_Castle_3
+98	13	30	15	46	2 // Elite_Orc => Blood_Castle_3
+111	13	30	14	83	2 // Spirit_Knight => Blood_Castle_3
+111	13	30	14	78	2 // Spirit_Knight => Blood_Castle_3
+98	13	30	15	63	2 // Elite_Orc => Blood_Castle_3
+99	13	30	13	69	2 // Spirit_Beast => Blood_Castle_3
+96	13	30	14	34	2 // Orc_Warrior => Blood_Castle_3
+98	13	30	15	53	2 // Elite_Orc => Blood_Castle_3
+97	13	30	13	23	2 // Orc_Archer => Blood_Castle_3
+97	13	30	15	43	2 // Orc_Archer => Blood_Castle_3
+96	13	30	14	38	2 // Orc_Warrior => Blood_Castle_3
+98	13	30	13	65	2 // Elite_Orc => Blood_Castle_3
+111	13	30	15	78	2 // Spirit_Knight => Blood_Castle_3
+98	13	30	13	67	2 // Elite_Orc => Blood_Castle_3
+99	13	30	14	61	2 // Spirit_Beast => Blood_Castle_3
+111	13	30	16	80	2 // Spirit_Knight => Blood_Castle_3
+98	13	30	15	59	2 // Elite_Orc => Blood_Castle_3
+98	13	30	13	59	2 // Elite_Orc => Blood_Castle_3
+98	13	30	15	55	2 // Elite_Orc => Blood_Castle_3
+97	13	30	15	39	2 // Orc_Archer => Blood_Castle_3
+96	13	30	13	35	2 // Orc_Warrior => Blood_Castle_3
+98	13	30	13	62	2 // Elite_Orc => Blood_Castle_3
+99	13	30	13	55	2 // Spirit_Beast => Blood_Castle_3
+97	13	30	15	37	2 // Orc_Archer => Blood_Castle_3
+96	13	30	13	28	2 // Orc_Warrior => Blood_Castle_3
+97	13	30	13	29	2 // Orc_Archer => Blood_Castle_3
+97	13	30	15	28	2 // Orc_Archer => Blood_Castle_3
+97	13	30	13	25	2 // Orc_Archer => Blood_Castle_3
+97	13	30	13	21	2 // Orc_Archer => Blood_Castle_3
+97	13	30	14	22	2 // Orc_Archer => Blood_Castle_3
+97	13	30	15	21	2 // Orc_Archer => Blood_Castle_3
+97	13	30	13	31	2 // Orc_Archer => Blood_Castle_3
+97	13	30	15	30	2 // Orc_Archer => Blood_Castle_3
+97	13	30	15	33	2 // Orc_Archer => Blood_Castle_3
+99	13	30	14	58	2 // Spirit_Beast => Blood_Castle_3
+96	13	30	15	35	2 // Orc_Warrior => Blood_Castle_3
+96	13	30	14	33	2 // Orc_Warrior => Blood_Castle_3
+96	13	30	15	41	2 // Orc_Warrior => Blood_Castle_3
+96	13	30	14	42	2 // Orc_Warrior => Blood_Castle_3
+97	13	30	14	21	2 // Orc_Archer => Blood_Castle_3
+96	13	30	15	25	2 // Orc_Warrior => Blood_Castle_3
+96	13	30	15	23	2 // Orc_Warrior => Blood_Castle_3
+96	13	30	13	26	2 // Orc_Warrior => Blood_Castle_3
+98	13	30	13	41	2 // Elite_Orc => Blood_Castle_3
+98	13	30	15	69	2 // Elite_Orc => Blood_Castle_3
+96	13	30	13	37	2 // Orc_Warrior => Blood_Castle_3
+97	13	30	13	43	2 // Orc_Archer => Blood_Castle_3
+98	13	30	13	50	2 // Elite_Orc => Blood_Castle_3
+98	13	30	15	48	2 // Elite_Orc => Blood_Castle_3
+98	13	30	13	46	2 // Elite_Orc => Blood_Castle_3
+111	13	30	15	62	2 // Spirit_Knight => Blood_Castle_3
+99	13	30	14	52	2 // Spirit_Beast => Blood_Castle_3
+99	13	30	15	50	2 // Spirit_Beast => Blood_Castle_3
+99	13	30	15	66	2 // Spirit_Beast => Blood_Castle_3
+112	13	30	16	87	2 // Spirit_Sorcerer => Blood_Castle_3
+112	13	30	12	81	2 // Spirit_Sorcerer => Blood_Castle_3
+111	13	30	17	83	2 // Spirit_Knight => Blood_Castle_3
+111	13	30	14	90	2 // Spirit_Knight => Blood_Castle_3
+111	13	30	11	83	2 // Spirit_Knight => Blood_Castle_3
+112	13	30	13	88	2 // Spirit_Sorcerer => Blood_Castle_3
+112	13	30	13	85	2 // Spirit_Sorcerer => Blood_Castle_3
+112	13	30	19	85	2 // Spirit_Sorcerer => Blood_Castle_3
+112	13	30	13	93	2 // Spirit_Sorcerer => Blood_Castle_3
+111	13	30	15	94	2 // Spirit_Knight => Blood_Castle_3
+96	13	30	14	40	2 // Orc_Warrior => Blood_Castle_3
+112	13	30	14	80	2 // Spirit_Sorcerer => Blood_Castle_3
+112	13	30	18	81	2 // Spirit_Sorcerer => Blood_Castle_3
+96	13	30	13	39	2 // Orc_Warrior => Blood_Castle_3
+111	13	30	20	82	2 // Spirit_Knight => Blood_Castle_3
+111	13	30	20	88	2 // Spirit_Knight => Blood_Castle_3
+96	13	30	14	27	2 // Orc_Warrior => Blood_Castle_3
+96	13	30	14	24	2 // Orc_Warrior => Blood_Castle_3
+96	13	30	14	32	2 // Orc_Warrior => Blood_Castle_3
+98	13	30	14	44	2 // Elite_Orc => Blood_Castle_3
+98	13	30	15	51	2 // Elite_Orc => Blood_Castle_3
+98	13	30	14	49	2 // Elite_Orc => Blood_Castle_3
+99	13	30	14	56	2 // Spirit_Beast => Blood_Castle_3
+98	13	30	15	57	2 // Elite_Orc => Blood_Castle_3
+98	13	30	14	64	2 // Elite_Orc => Blood_Castle_3
+98	13	30	14	67	2 // Elite_Orc => Blood_Castle_3
+99	13	30	14	70	2 // Spirit_Beast => Blood_Castle_3
+98	13	30	13	53	2 // Elite_Orc => Blood_Castle_3
+96	13	30	15	45	2 // Orc_Warrior => Blood_Castle_3
+111	13	30	14	54	2 // Spirit_Knight => Blood_Castle_3
+111	13	30	14	36	2 // Spirit_Knight => Blood_Castle_3
+111	13	30	15	68	2 // Spirit_Knight => Blood_Castle_3
+99	13	30	13	48	2 // Spirit_Beast => Blood_Castle_3
+111	13	30	14	47	2 // Spirit_Knight => Blood_Castle_3
+99	13	30	13	63	2 // Spirit_Beast => Blood_Castle_3
+98	13	30	15	65	2 // Elite_Orc => Blood_Castle_3
+98	13	30	15	60	2 // Elite_Orc => Blood_Castle_3
+98	13	30	13	57	2 // Elite_Orc => Blood_Castle_3
+96	13	30	15	31	2 // Orc_Warrior => Blood_Castle_3
+97	13	30	15	26	2 // Orc_Archer => Blood_Castle_3
+114	14	30	13	45	3 // Orc_Archer => Blood_Castle_4
+117	14	30	13	78	3 // Spirit_Knight => Blood_Castle_4
+115	14	30	15	46	3 // Elite_Orc => Blood_Castle_4
+117	14	30	14	83	3 // Spirit_Knight => Blood_Castle_4
+117	14	30	14	78	3 // Spirit_Knight => Blood_Castle_4
+115	14	30	15	63	3 // Elite_Orc => Blood_Castle_4
+116	14	30	13	69	3 // Spirit_Beast => Blood_Castle_4
+113	14	30	14	34	3 // Orc_Warrior => Blood_Castle_4
+115	14	30	15	53	3 // Elite_Orc => Blood_Castle_4
+114	14	30	13	23	3 // Orc_Archer => Blood_Castle_4
+114	14	30	15	43	3 // Orc_Archer => Blood_Castle_4
+113	14	30	14	38	3 // Orc_Warrior => Blood_Castle_4
+115	14	30	13	65	3 // Elite_Orc => Blood_Castle_4
+117	14	30	15	78	3 // Spirit_Knight => Blood_Castle_4
+115	14	30	13	67	3 // Elite_Orc => Blood_Castle_4
+116	14	30	14	61	3 // Spirit_Beast => Blood_Castle_4
+117	14	30	16	80	3 // Spirit_Knight => Blood_Castle_4
+115	14	30	15	59	3 // Elite_Orc => Blood_Castle_4
+115	14	30	13	59	3 // Elite_Orc => Blood_Castle_4
+115	14	30	15	55	3 // Elite_Orc => Blood_Castle_4
+114	14	30	15	39	3 // Orc_Archer => Blood_Castle_4
+113	14	30	13	35	3 // Orc_Warrior => Blood_Castle_4
+115	14	30	13	62	3 // Elite_Orc => Blood_Castle_4
+116	14	30	13	55	3 // Spirit_Beast => Blood_Castle_4
+114	14	30	15	37	3 // Orc_Archer => Blood_Castle_4
+113	14	30	13	28	3 // Orc_Warrior => Blood_Castle_4
+114	14	30	13	29	3 // Orc_Archer => Blood_Castle_4
+114	14	30	15	28	3 // Orc_Archer => Blood_Castle_4
+114	14	30	13	25	3 // Orc_Archer => Blood_Castle_4
+114	14	30	13	21	3 // Orc_Archer => Blood_Castle_4
+114	14	30	14	22	3 // Orc_Archer => Blood_Castle_4
+114	14	30	15	21	3 // Orc_Archer => Blood_Castle_4
+114	14	30	13	31	3 // Orc_Archer => Blood_Castle_4
+114	14	30	15	30	3 // Orc_Archer => Blood_Castle_4
+114	14	30	15	33	3 // Orc_Archer => Blood_Castle_4
+116	14	30	14	58	3 // Spirit_Beast => Blood_Castle_4
+113	14	30	15	35	3 // Orc_Warrior => Blood_Castle_4
+113	14	30	14	33	3 // Orc_Warrior => Blood_Castle_4
+113	14	30	15	41	3 // Orc_Warrior => Blood_Castle_4
+113	14	30	14	42	3 // Orc_Warrior => Blood_Castle_4
+114	14	30	14	21	3 // Orc_Archer => Blood_Castle_4
+113	14	30	15	25	3 // Orc_Warrior => Blood_Castle_4
+113	14	30	15	23	3 // Orc_Warrior => Blood_Castle_4
+113	14	30	13	26	3 // Orc_Warrior => Blood_Castle_4
+115	14	30	13	41	3 // Elite_Orc => Blood_Castle_4
+115	14	30	15	69	3 // Elite_Orc => Blood_Castle_4
+113	14	30	13	37	3 // Orc_Warrior => Blood_Castle_4
+114	14	30	13	43	3 // Orc_Archer => Blood_Castle_4
+115	14	30	13	50	3 // Elite_Orc => Blood_Castle_4
+115	14	30	15	48	3 // Elite_Orc => Blood_Castle_4
+115	14	30	13	46	3 // Elite_Orc => Blood_Castle_4
+117	14	30	15	62	3 // Spirit_Knight => Blood_Castle_4
+116	14	30	14	52	3 // Spirit_Beast => Blood_Castle_4
+116	14	30	15	50	3 // Spirit_Beast => Blood_Castle_4
+116	14	30	15	66	3 // Spirit_Beast => Blood_Castle_4
+118	14	30	16	87	3 // Spirit_Sorcerer => Blood_Castle_4
+118	14	30	12	81	3 // Spirit_Sorcerer => Blood_Castle_4
+117	14	30	17	83	3 // Spirit_Knight => Blood_Castle_4
+117	14	30	14	90	3 // Spirit_Knight => Blood_Castle_4
+117	14	30	11	83	3 // Spirit_Knight => Blood_Castle_4
+118	14	30	13	88	3 // Spirit_Sorcerer => Blood_Castle_4
+118	14	30	13	85	3 // Spirit_Sorcerer => Blood_Castle_4
+118	14	30	19	85	3 // Spirit_Sorcerer => Blood_Castle_4
+118	14	30	13	93	3 // Spirit_Sorcerer => Blood_Castle_4
+117	14	30	15	94	3 // Spirit_Knight => Blood_Castle_4
+113	14	30	14	40	3 // Orc_Warrior => Blood_Castle_4
+118	14	30	14	80	3 // Spirit_Sorcerer => Blood_Castle_4
+118	14	30	18	81	3 // Spirit_Sorcerer => Blood_Castle_4
+113	14	30	13	39	3 // Orc_Warrior => Blood_Castle_4
+117	14	30	20	82	3 // Spirit_Knight => Blood_Castle_4
+117	14	30	20	88	3 // Spirit_Knight => Blood_Castle_4
+113	14	30	14	27	3 // Orc_Warrior => Blood_Castle_4
+113	14	30	14	24	3 // Orc_Warrior => Blood_Castle_4
+113	14	30	14	32	3 // Orc_Warrior => Blood_Castle_4
+115	14	30	14	44	3 // Elite_Orc => Blood_Castle_4
+115	14	30	15	51	3 // Elite_Orc => Blood_Castle_4
+115	14	30	14	49	3 // Elite_Orc => Blood_Castle_4
+116	14	30	14	56	3 // Spirit_Beast => Blood_Castle_4
+115	14	30	15	57	3 // Elite_Orc => Blood_Castle_4
+115	14	30	14	64	3 // Elite_Orc => Blood_Castle_4
+115	14	30	14	67	3 // Elite_Orc => Blood_Castle_4
+116	14	30	14	70	3 // Spirit_Beast => Blood_Castle_4
+115	14	30	13	53	3 // Elite_Orc => Blood_Castle_4
+113	14	30	15	45	3 // Orc_Warrior => Blood_Castle_4
+117	14	30	14	54	3 // Spirit_Knight => Blood_Castle_4
+117	14	30	14	36	3 // Spirit_Knight => Blood_Castle_4
+117	14	30	15	68	3 // Spirit_Knight => Blood_Castle_4
+116	14	30	13	48	3 // Spirit_Beast => Blood_Castle_4
+117	14	30	14	47	3 // Spirit_Knight => Blood_Castle_4
+116	14	30	13	63	3 // Spirit_Beast => Blood_Castle_4
+115	14	30	15	65	3 // Elite_Orc => Blood_Castle_4
+115	14	30	15	60	3 // Elite_Orc => Blood_Castle_4
+115	14	30	13	57	3 // Elite_Orc => Blood_Castle_4
+113	14	30	15	31	3 // Orc_Warrior => Blood_Castle_4
+114	14	30	15	26	3 // Orc_Archer => Blood_Castle_4
+120	15	30	13	45	4 // Orc_Archer => Blood_Castle_5
+123	15	30	13	78	4 // Spirit_Knight => Blood_Castle_5
+121	15	30	15	46	4 // Elite_Orc => Blood_Castle_5
+123	15	30	14	83	4 // Spirit_Knight => Blood_Castle_5
+123	15	30	14	78	4 // Spirit_Knight => Blood_Castle_5
+121	15	30	15	63	4 // Elite_Orc => Blood_Castle_5
+122	15	30	13	69	4 // Spirit_Beast => Blood_Castle_5
+119	15	30	14	34	4 // Orc_Warrior => Blood_Castle_5
+121	15	30	15	53	4 // Elite_Orc => Blood_Castle_5
+120	15	30	13	23	4 // Orc_Archer => Blood_Castle_5
+120	15	30	15	43	4 // Orc_Archer => Blood_Castle_5
+119	15	30	14	38	4 // Orc_Warrior => Blood_Castle_5
+121	15	30	13	65	4 // Elite_Orc => Blood_Castle_5
+123	15	30	15	78	4 // Spirit_Knight => Blood_Castle_5
+121	15	30	13	67	4 // Elite_Orc => Blood_Castle_5
+122	15	30	14	61	4 // Spirit_Beast => Blood_Castle_5
+123	15	30	16	80	4 // Spirit_Knight => Blood_Castle_5
+121	15	30	15	59	4 // Elite_Orc => Blood_Castle_5
+121	15	30	13	59	4 // Elite_Orc => Blood_Castle_5
+121	15	30	15	55	4 // Elite_Orc => Blood_Castle_5
+120	15	30	15	39	4 // Orc_Archer => Blood_Castle_5
+119	15	30	13	35	4 // Orc_Warrior => Blood_Castle_5
+121	15	30	13	62	4 // Elite_Orc => Blood_Castle_5
+122	15	30	13	55	4 // Spirit_Beast => Blood_Castle_5
+120	15	30	15	37	4 // Orc_Archer => Blood_Castle_5
+119	15	30	13	28	4 // Orc_Warrior => Blood_Castle_5
+120	15	30	13	29	4 // Orc_Archer => Blood_Castle_5
+120	15	30	15	28	4 // Orc_Archer => Blood_Castle_5
+120	15	30	13	25	4 // Orc_Archer => Blood_Castle_5
+120	15	30	13	21	4 // Orc_Archer => Blood_Castle_5
+120	15	30	14	22	4 // Orc_Archer => Blood_Castle_5
+120	15	30	15	21	4 // Orc_Archer => Blood_Castle_5
+120	15	30	13	31	4 // Orc_Archer => Blood_Castle_5
+120	15	30	15	30	4 // Orc_Archer => Blood_Castle_5
+120	15	30	15	33	4 // Orc_Archer => Blood_Castle_5
+122	15	30	14	58	4 // Spirit_Beast => Blood_Castle_5
+119	15	30	15	35	4 // Orc_Warrior => Blood_Castle_5
+119	15	30	14	33	4 // Orc_Warrior => Blood_Castle_5
+119	15	30	15	41	4 // Orc_Warrior => Blood_Castle_5
+119	15	30	14	42	4 // Orc_Warrior => Blood_Castle_5
+120	15	30	14	21	4 // Orc_Archer => Blood_Castle_5
+119	15	30	15	25	4 // Orc_Warrior => Blood_Castle_5
+119	15	30	15	23	4 // Orc_Warrior => Blood_Castle_5
+119	15	30	13	26	4 // Orc_Warrior => Blood_Castle_5
+121	15	30	13	41	4 // Elite_Orc => Blood_Castle_5
+121	15	30	15	69	4 // Elite_Orc => Blood_Castle_5
+119	15	30	13	37	4 // Orc_Warrior => Blood_Castle_5
+120	15	30	13	43	4 // Orc_Archer => Blood_Castle_5
+121	15	30	13	50	4 // Elite_Orc => Blood_Castle_5
+121	15	30	15	48	4 // Elite_Orc => Blood_Castle_5
+121	15	30	13	46	4 // Elite_Orc => Blood_Castle_5
+123	15	30	15	62	4 // Spirit_Knight => Blood_Castle_5
+122	15	30	14	52	4 // Spirit_Beast => Blood_Castle_5
+122	15	30	15	50	4 // Spirit_Beast => Blood_Castle_5
+122	15	30	15	66	4 // Spirit_Beast => Blood_Castle_5
+124	15	30	16	87	4 // Spirit_Sorcerer => Blood_Castle_5
+124	15	30	12	81	4 // Spirit_Sorcerer => Blood_Castle_5
+123	15	30	17	83	4 // Spirit_Knight => Blood_Castle_5
+123	15	30	14	90	4 // Spirit_Knight => Blood_Castle_5
+123	15	30	11	83	4 // Spirit_Knight => Blood_Castle_5
+124	15	30	13	88	4 // Spirit_Sorcerer => Blood_Castle_5
+124	15	30	13	85	4 // Spirit_Sorcerer => Blood_Castle_5
+124	15	30	19	85	4 // Spirit_Sorcerer => Blood_Castle_5
+124	15	30	13	93	4 // Spirit_Sorcerer => Blood_Castle_5
+123	15	30	15	94	4 // Spirit_Knight => Blood_Castle_5
+119	15	30	14	40	4 // Orc_Warrior => Blood_Castle_5
+124	15	30	14	80	4 // Spirit_Sorcerer => Blood_Castle_5
+124	15	30	18	81	4 // Spirit_Sorcerer => Blood_Castle_5
+119	15	30	13	39	4 // Orc_Warrior => Blood_Castle_5
+123	15	30	20	82	4 // Spirit_Knight => Blood_Castle_5
+123	15	30	20	88	4 // Spirit_Knight => Blood_Castle_5
+119	15	30	14	27	4 // Orc_Warrior => Blood_Castle_5
+119	15	30	14	24	4 // Orc_Warrior => Blood_Castle_5
+119	15	30	14	32	4 // Orc_Warrior => Blood_Castle_5
+121	15	30	14	44	4 // Elite_Orc => Blood_Castle_5
+121	15	30	15	51	4 // Elite_Orc => Blood_Castle_5
+121	15	30	14	49	4 // Elite_Orc => Blood_Castle_5
+122	15	30	14	56	4 // Spirit_Beast => Blood_Castle_5
+121	15	30	15	57	4 // Elite_Orc => Blood_Castle_5
+121	15	30	14	64	4 // Elite_Orc => Blood_Castle_5
+121	15	30	14	67	4 // Elite_Orc => Blood_Castle_5
+122	15	30	14	70	4 // Spirit_Beast => Blood_Castle_5
+121	15	30	13	53	4 // Elite_Orc => Blood_Castle_5
+119	15	30	15	45	4 // Orc_Warrior => Blood_Castle_5
+123	15	30	14	54	4 // Spirit_Knight => Blood_Castle_5
+123	15	30	14	36	4 // Spirit_Knight => Blood_Castle_5
+123	15	30	15	68	4 // Spirit_Knight => Blood_Castle_5
+122	15	30	13	48	4 // Spirit_Beast => Blood_Castle_5
+123	15	30	14	47	4 // Spirit_Knight => Blood_Castle_5
+122	15	30	13	63	4 // Spirit_Beast => Blood_Castle_5
+121	15	30	15	65	4 // Elite_Orc => Blood_Castle_5
+121	15	30	15	60	4 // Elite_Orc => Blood_Castle_5
+121	15	30	13	57	4 // Elite_Orc => Blood_Castle_5
+119	15	30	15	31	4 // Orc_Warrior => Blood_Castle_5
+120	15	30	15	26	4 // Orc_Archer => Blood_Castle_5
+126	16	30	13	45	5 // Orc_Archer => Blood_Castle_6
+129	16	30	13	78	5 // Spirit_Knight => Blood_Castle_6
+127	16	30	15	46	5 // Elite_Orc => Blood_Castle_6
+129	16	30	14	83	5 // Spirit_Knight => Blood_Castle_6
+129	16	30	14	78	5 // Spirit_Knight => Blood_Castle_6
+127	16	30	15	63	5 // Elite_Orc => Blood_Castle_6
+128	16	30	13	69	5 // Spirit_Beast => Blood_Castle_6
+125	16	30	14	34	5 // Orc_Warrior => Blood_Castle_6
+127	16	30	15	53	5 // Elite_Orc => Blood_Castle_6
+126	16	30	13	23	5 // Orc_Archer => Blood_Castle_6
+126	16	30	15	43	5 // Orc_Archer => Blood_Castle_6
+125	16	30	14	38	5 // Orc_Warrior => Blood_Castle_6
+127	16	30	13	65	5 // Elite_Orc => Blood_Castle_6
+129	16	30	15	78	5 // Spirit_Knight => Blood_Castle_6
+127	16	30	13	67	5 // Elite_Orc => Blood_Castle_6
+128	16	30	14	61	5 // Spirit_Beast => Blood_Castle_6
+129	16	30	16	80	5 // Spirit_Knight => Blood_Castle_6
+127	16	30	15	59	5 // Elite_Orc => Blood_Castle_6
+127	16	30	13	59	5 // Elite_Orc => Blood_Castle_6
+127	16	30	15	55	5 // Elite_Orc => Blood_Castle_6
+126	16	30	15	39	5 // Orc_Archer => Blood_Castle_6
+125	16	30	13	35	5 // Orc_Warrior => Blood_Castle_6
+127	16	30	13	62	5 // Elite_Orc => Blood_Castle_6
+128	16	30	13	55	5 // Spirit_Beast => Blood_Castle_6
+126	16	30	15	37	5 // Orc_Archer => Blood_Castle_6
+125	16	30	13	28	5 // Orc_Warrior => Blood_Castle_6
+126	16	30	13	29	5 // Orc_Archer => Blood_Castle_6
+126	16	30	15	28	5 // Orc_Archer => Blood_Castle_6
+126	16	30	13	25	5 // Orc_Archer => Blood_Castle_6
+126	16	30	13	21	5 // Orc_Archer => Blood_Castle_6
+126	16	30	14	22	5 // Orc_Archer => Blood_Castle_6
+126	16	30	15	21	5 // Orc_Archer => Blood_Castle_6
+126	16	30	13	31	5 // Orc_Archer => Blood_Castle_6
+126	16	30	15	30	5 // Orc_Archer => Blood_Castle_6
+126	16	30	15	33	5 // Orc_Archer => Blood_Castle_6
+128	16	30	14	58	5 // Spirit_Beast => Blood_Castle_6
+125	16	30	15	35	5 // Orc_Warrior => Blood_Castle_6
+125	16	30	14	33	5 // Orc_Warrior => Blood_Castle_6
+125	16	30	15	41	5 // Orc_Warrior => Blood_Castle_6
+125	16	30	14	42	5 // Orc_Warrior => Blood_Castle_6
+126	16	30	14	21	5 // Orc_Archer => Blood_Castle_6
+125	16	30	15	25	5 // Orc_Warrior => Blood_Castle_6
+125	16	30	15	23	5 // Orc_Warrior => Blood_Castle_6
+125	16	30	13	26	5 // Orc_Warrior => Blood_Castle_6
+127	16	30	13	41	5 // Elite_Orc => Blood_Castle_6
+127	16	30	15	69	5 // Elite_Orc => Blood_Castle_6
+125	16	30	13	37	5 // Orc_Warrior => Blood_Castle_6
+126	16	30	13	43	5 // Orc_Archer => Blood_Castle_6
+127	16	30	13	50	5 // Elite_Orc => Blood_Castle_6
+127	16	30	15	48	5 // Elite_Orc => Blood_Castle_6
+127	16	30	13	46	5 // Elite_Orc => Blood_Castle_6
+129	16	30	15	62	5 // Spirit_Knight => Blood_Castle_6
+128	16	30	14	52	5 // Spirit_Beast => Blood_Castle_6
+128	16	30	15	50	5 // Spirit_Beast => Blood_Castle_6
+128	16	30	15	66	5 // Spirit_Beast => Blood_Castle_6
+130	16	30	16	87	5 // Spirit_Sorcerer => Blood_Castle_6
+130	16	30	12	81	5 // Spirit_Sorcerer => Blood_Castle_6
+129	16	30	17	83	5 // Spirit_Knight => Blood_Castle_6
+129	16	30	14	90	5 // Spirit_Knight => Blood_Castle_6
+129	16	30	11	83	5 // Spirit_Knight => Blood_Castle_6
+130	16	30	13	88	5 // Spirit_Sorcerer => Blood_Castle_6
+130	16	30	13	85	5 // Spirit_Sorcerer => Blood_Castle_6
+130	16	30	19	85	5 // Spirit_Sorcerer => Blood_Castle_6
+130	16	30	13	93	5 // Spirit_Sorcerer => Blood_Castle_6
+129	16	30	15	94	5 // Spirit_Knight => Blood_Castle_6
+125	16	30	14	40	5 // Orc_Warrior => Blood_Castle_6
+130	16	30	14	80	5 // Spirit_Sorcerer => Blood_Castle_6
+130	16	30	18	81	5 // Spirit_Sorcerer => Blood_Castle_6
+125	16	30	13	39	5 // Orc_Warrior => Blood_Castle_6
+129	16	30	20	82	5 // Spirit_Knight => Blood_Castle_6
+129	16	30	20	88	5 // Spirit_Knight => Blood_Castle_6
+125	16	30	14	27	5 // Orc_Warrior => Blood_Castle_6
+125	16	30	14	24	5 // Orc_Warrior => Blood_Castle_6
+125	16	30	14	32	5 // Orc_Warrior => Blood_Castle_6
+127	16	30	14	44	5 // Elite_Orc => Blood_Castle_6
+127	16	30	15	51	5 // Elite_Orc => Blood_Castle_6
+127	16	30	14	49	5 // Elite_Orc => Blood_Castle_6
+128	16	30	14	56	5 // Spirit_Beast => Blood_Castle_6
+127	16	30	15	57	5 // Elite_Orc => Blood_Castle_6
+127	16	30	14	64	5 // Elite_Orc => Blood_Castle_6
+127	16	30	14	67	5 // Elite_Orc => Blood_Castle_6
+128	16	30	14	70	5 // Spirit_Beast => Blood_Castle_6
+127	16	30	13	53	5 // Elite_Orc => Blood_Castle_6
+125	16	30	15	45	5 // Orc_Warrior => Blood_Castle_6
+129	16	30	14	54	5 // Spirit_Knight => Blood_Castle_6
+129	16	30	14	36	5 // Spirit_Knight => Blood_Castle_6
+129	16	30	15	68	5 // Spirit_Knight => Blood_Castle_6
+128	16	30	13	48	5 // Spirit_Beast => Blood_Castle_6
+129	16	30	14	47	5 // Spirit_Knight => Blood_Castle_6
+128	16	30	13	63	5 // Spirit_Beast => Blood_Castle_6
+127	16	30	15	65	5 // Elite_Orc => Blood_Castle_6
+127	16	30	15	60	5 // Elite_Orc => Blood_Castle_6
+127	16	30	13	57	5 // Elite_Orc => Blood_Castle_6
+125	16	30	15	31	5 // Orc_Warrior => Blood_Castle_6
+126	16	30	15	26	5 // Orc_Archer => Blood_Castle_6
+139	17	30	13	45	6 // Orc_Archer => Blood_Castle_7
+142	17	30	13	78	6 // Spirit_Knight => Blood_Castle_7
+140	17	30	15	46	6 // Spirit_Soldier => Blood_Castle_7
+142	17	30	14	83	6 // Spirit_Knight => Blood_Castle_7
+142	17	30	14	78	6 // Spirit_Knight => Blood_Castle_7
+140	17	30	15	63	6 // Spirit_Soldier => Blood_Castle_7
+141	17	30	13	69	6 // Spirit_Beast => Blood_Castle_7
+138	17	30	14	34	6 // King_Orc => Blood_Castle_7
+140	17	30	15	53	6 // Spirit_Soldier => Blood_Castle_7
+139	17	30	13	23	6 // Orc_Archer => Blood_Castle_7
+139	17	30	15	43	6 // Orc_Archer => Blood_Castle_7
+138	17	30	14	38	6 // King_Orc => Blood_Castle_7
+140	17	30	13	65	6 // Spirit_Soldier => Blood_Castle_7
+142	17	30	15	78	6 // Spirit_Knight => Blood_Castle_7
+140	17	30	13	67	6 // Spirit_Soldier => Blood_Castle_7
+141	17	30	14	61	6 // Spirit_Beast => Blood_Castle_7
+142	17	30	16	80	6 // Spirit_Knight => Blood_Castle_7
+140	17	30	15	59	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	13	59	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	15	55	6 // Spirit_Soldier => Blood_Castle_7
+139	17	30	15	39	6 // Orc_Archer => Blood_Castle_7
+138	17	30	13	35	6 // King_Orc => Blood_Castle_7
+140	17	30	13	62	6 // Spirit_Soldier => Blood_Castle_7
+141	17	30	13	55	6 // Spirit_Beast => Blood_Castle_7
+139	17	30	15	37	6 // Orc_Archer => Blood_Castle_7
+138	17	30	13	28	6 // King_Orc => Blood_Castle_7
+139	17	30	13	29	6 // Orc_Archer => Blood_Castle_7
+139	17	30	15	28	6 // Orc_Archer => Blood_Castle_7
+139	17	30	13	25	6 // Orc_Archer => Blood_Castle_7
+139	17	30	13	21	6 // Orc_Archer => Blood_Castle_7
+139	17	30	14	22	6 // Orc_Archer => Blood_Castle_7
+139	17	30	15	21	6 // Orc_Archer => Blood_Castle_7
+139	17	30	13	31	6 // Orc_Archer => Blood_Castle_7
+139	17	30	15	30	6 // Orc_Archer => Blood_Castle_7
+139	17	30	15	33	6 // Orc_Archer => Blood_Castle_7
+141	17	30	14	58	6 // Spirit_Beast => Blood_Castle_7
+138	17	30	15	35	6 // King_Orc => Blood_Castle_7
+138	17	30	14	33	6 // King_Orc => Blood_Castle_7
+138	17	30	15	41	6 // King_Orc => Blood_Castle_7
+138	17	30	14	42	6 // King_Orc => Blood_Castle_7
+139	17	30	14	21	6 // Orc_Archer => Blood_Castle_7
+138	17	30	15	25	6 // King_Orc => Blood_Castle_7
+138	17	30	15	23	6 // King_Orc => Blood_Castle_7
+138	17	30	13	26	6 // King_Orc => Blood_Castle_7
+140	17	30	13	41	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	15	69	6 // Spirit_Soldier => Blood_Castle_7
+138	17	30	13	37	6 // King_Orc => Blood_Castle_7
+139	17	30	13	43	6 // Orc_Archer => Blood_Castle_7
+140	17	30	13	50	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	15	48	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	13	46	6 // Spirit_Soldier => Blood_Castle_7
+142	17	30	15	62	6 // Spirit_Knight => Blood_Castle_7
+141	17	30	14	52	6 // Spirit_Beast => Blood_Castle_7
+141	17	30	15	50	6 // Spirit_Beast => Blood_Castle_7
+141	17	30	15	66	6 // Spirit_Beast => Blood_Castle_7
+143	17	30	16	87	6 // Spirit_Sourcerer => Blood_Castle_7
+143	17	30	12	81	6 // Spirit_Sourcerer => Blood_Castle_7
+142	17	30	17	83	6 // Spirit_Knight => Blood_Castle_7
+142	17	30	14	90	6 // Spirit_Knight => Blood_Castle_7
+142	17	30	11	83	6 // Spirit_Knight => Blood_Castle_7
+143	17	30	13	88	6 // Spirit_Sourcerer => Blood_Castle_7
+143	17	30	13	85	6 // Spirit_Sourcerer => Blood_Castle_7
+143	17	30	19	85	6 // Spirit_Sourcerer => Blood_Castle_7
+143	17	30	13	93	6 // Spirit_Sourcerer => Blood_Castle_7
+142	17	30	15	94	6 // Spirit_Knight => Blood_Castle_7
+138	17	30	14	40	6 // King_Orc => Blood_Castle_7
+143	17	30	14	80	6 // Spirit_Sourcerer => Blood_Castle_7
+143	17	30	18	81	6 // Spirit_Sourcerer => Blood_Castle_7
+138	17	30	13	39	6 // King_Orc => Blood_Castle_7
+142	17	30	20	82	6 // Spirit_Knight => Blood_Castle_7
+142	17	30	20	88	6 // Spirit_Knight => Blood_Castle_7
+138	17	30	14	27	6 // King_Orc => Blood_Castle_7
+138	17	30	14	24	6 // King_Orc => Blood_Castle_7
+138	17	30	14	32	6 // King_Orc => Blood_Castle_7
+140	17	30	14	44	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	15	51	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	14	49	6 // Spirit_Soldier => Blood_Castle_7
+141	17	30	14	56	6 // Spirit_Beast => Blood_Castle_7
+140	17	30	15	57	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	14	64	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	14	67	6 // Spirit_Soldier => Blood_Castle_7
+141	17	30	14	70	6 // Spirit_Beast => Blood_Castle_7
+140	17	30	13	53	6 // Spirit_Soldier => Blood_Castle_7
+138	17	30	15	45	6 // King_Orc => Blood_Castle_7
+142	17	30	14	54	6 // Spirit_Knight => Blood_Castle_7
+142	17	30	14	36	6 // Spirit_Knight => Blood_Castle_7
+142	17	30	15	68	6 // Spirit_Knight => Blood_Castle_7
+141	17	30	13	48	6 // Spirit_Beast => Blood_Castle_7
+142	17	30	14	47	6 // Spirit_Knight => Blood_Castle_7
+141	17	30	13	63	6 // Spirit_Beast => Blood_Castle_7
+140	17	30	15	65	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	15	60	6 // Spirit_Soldier => Blood_Castle_7
+140	17	30	13	57	6 // Spirit_Soldier => Blood_Castle_7
+138	17	30	15	31	6 // King_Orc => Blood_Castle_7
+139	17	30	15	26	6 // Orc_Archer => Blood_Castle_7
+end
+4
+162	18	30	26	105	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	26	98	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	28	90	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	27	86	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	28	82	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	26	79	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	34	78	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	33	81	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	39	78	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	26	77	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	38	80	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	43	77	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	38	86	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	43	84	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	41	82	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	27	94	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	32	91	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	29	84	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	42	90	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	44	87	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	30	78	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	38	92	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	40	98	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	29	101	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	33	103	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	38	89	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	42	105	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	42	99	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	35	105	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	29	93	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	28	97	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	26	84	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	28	79	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	25	82	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	29	76	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	33	76	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	35	79	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	31	80	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	41	79	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	38	76	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	36	81	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	39	82	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	41	86	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	42	94	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	35	92	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	34	90	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	38	101	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	30	105	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	26	102	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	28	100	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	38	106	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	35	102	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	42	102	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	43	96	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	30	88	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	25	91	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	29	91	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	30	98	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	41	93	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	41	89	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	43	91	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	39	95	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	32	101	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	29	103	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	33	105	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	25	97	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	24	94	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	27	88	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	32	94	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	32	89	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	36	92	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	37	89	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	40	91	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	38	99	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	40	101	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	43	81	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	36	76	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	42	75	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	26	75	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	24	80	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	30	82	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	24	89	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	24	86	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	24	101	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	37	104	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	41	96	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	39	87	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	41	76	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	38	84	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	38	96	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	30	95	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	32	78	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	29	86	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	27	104	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	40	104	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	44	102	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	43	98	0 // Chaos_Castle_1 => Chaos_Castle_1
+162	18	30	39	93	0 // Chaos_Castle_1 => Chaos_Castle_1
+163	18	30	41	84	0 // Chaos_Castle_1 => Chaos_Castle_1
+164	19	30	26	105	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	26	98	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	28	90	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	27	86	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	28	82	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	26	79	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	34	78	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	33	81	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	39	78	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	26	77	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	38	80	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	43	77	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	38	86	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	43	84	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	41	82	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	27	94	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	32	91	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	29	84	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	42	90	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	44	87	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	30	78	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	38	92	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	40	98	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	29	101	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	33	103	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	38	89	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	42	105	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	42	99	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	35	105	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	29	93	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	28	97	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	26	84	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	28	79	1 // Chaos_Castle_2 => Chaos_Castle_2
+164	19	30	25	82	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	29	76	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	33	76	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	35	79	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	31	80	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	41	79	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	38	76	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	36	81	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	39	82	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	41	86	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	42	94	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	35	92	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	34	90	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	38	101	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	30	105	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	26	102	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	28	100	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	38	106	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	35	102	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	42	102	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	43	96	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	30	88	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	25	91	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	29	91	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	30	98	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	41	93	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	41	89	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	43	91	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	39	95	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	32	101	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	29	103	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	33	105	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	25	97	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	24	94	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	27	88	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	32	94	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	32	89	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	36	92	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	37	89	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	40	91	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	38	99	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	40	101	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	43	81	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	36	76	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	42	75	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	26	75	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	24	80	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	30	82	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	24	89	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	24	86	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	24	101	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	37	104	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	41	96	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	39	87	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	41	76	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	38	84	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	38	96	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	30	95	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	32	78	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	29	86	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	27	104	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	40	104	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	44	102	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	43	98	1 // Chaos_Castle_1 => Chaos_Castle_2
+164	19	30	39	93	1 // Chaos_Castle_2 => Chaos_Castle_2
+165	19	30	41	84	1 // Chaos_Castle_1 => Chaos_Castle_2
+166	20	30	26	105	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	26	98	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	28	90	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	27	86	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	28	82	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	26	79	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	34	78	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	33	81	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	39	78	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	26	77	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	38	80	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	43	77	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	38	86	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	43	84	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	41	82	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	27	94	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	32	91	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	29	84	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	42	90	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	44	87	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	30	78	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	38	92	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	40	98	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	29	101	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	33	103	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	38	89	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	42	105	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	42	99	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	35	105	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	29	93	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	28	97	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	26	84	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	28	79	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	25	82	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	29	76	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	33	76	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	35	79	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	31	80	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	41	79	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	38	76	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	36	81	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	39	82	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	41	86	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	42	94	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	35	92	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	34	90	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	38	101	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	30	105	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	26	102	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	28	100	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	38	106	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	35	102	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	42	102	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	43	96	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	30	88	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	25	91	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	29	91	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	30	98	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	41	93	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	41	89	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	43	91	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	39	95	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	32	101	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	29	103	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	33	105	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	25	97	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	24	94	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	27	88	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	32	94	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	32	89	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	36	92	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	37	89	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	40	91	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	38	99	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	40	101	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	43	81	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	36	76	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	42	75	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	26	75	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	24	80	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	30	82	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	24	89	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	24	86	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	24	101	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	37	104	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	41	96	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	39	87	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	41	76	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	38	84	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	38	96	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	30	95	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	32	78	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	29	86	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	27	104	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	40	104	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	44	102	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	43	98	2 // Chaos_Castle_2 => Chaos_Castle_3
+166	20	30	39	93	2 // Chaos_Castle_2 => Chaos_Castle_3
+167	20	30	41	84	2 // Chaos_Castle_2 => Chaos_Castle_3
+168	21	30	26	105	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	26	98	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	28	90	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	27	86	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	28	82	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	26	79	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	34	78	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	33	81	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	39	78	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	26	77	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	38	80	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	43	77	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	38	86	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	43	84	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	41	82	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	27	94	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	32	91	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	29	84	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	42	90	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	44	87	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	30	78	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	38	92	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	40	98	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	29	101	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	33	103	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	38	89	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	42	105	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	42	99	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	35	105	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	29	93	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	28	97	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	26	84	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	28	79	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	25	82	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	29	76	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	33	76	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	35	79	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	31	80	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	41	79	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	38	76	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	36	81	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	39	82	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	41	86	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	42	94	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	35	92	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	34	90	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	38	101	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	30	105	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	26	102	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	28	100	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	38	106	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	35	102	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	42	102	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	43	96	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	30	88	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	25	91	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	29	91	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	30	98	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	41	93	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	41	89	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	43	91	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	39	95	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	32	101	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	29	103	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	33	105	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	25	97	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	24	94	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	27	88	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	32	94	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	32	89	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	36	92	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	37	89	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	40	91	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	38	99	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	40	101	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	43	81	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	36	76	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	42	75	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	26	75	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	24	80	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	30	82	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	24	89	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	24	86	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	24	101	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	37	104	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	41	96	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	39	87	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	41	76	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	38	84	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	38	96	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	30	95	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	32	78	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	29	86	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	27	104	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	40	104	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	44	102	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	43	98	3 // Chaos_Castle_3 => Chaos_Castle_4
+168	21	30	39	93	3 // Chaos_Castle_3 => Chaos_Castle_4
+169	21	30	41	84	3 // Chaos_Castle_3 => Chaos_Castle_4
+170	22	30	26	105	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	26	98	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	28	90	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	27	86	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	28	82	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	26	79	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	34	78	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	33	81	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	39	78	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	26	77	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	38	80	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	43	77	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	38	86	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	43	84	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	41	82	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	27	94	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	32	91	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	29	84	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	42	90	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	44	87	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	30	78	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	38	92	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	40	98	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	29	101	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	33	103	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	38	89	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	42	105	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	42	99	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	35	105	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	29	93	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	28	97	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	26	84	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	28	79	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	25	82	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	29	76	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	33	76	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	35	79	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	31	80	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	41	79	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	38	76	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	36	81	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	39	82	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	41	86	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	42	94	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	35	92	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	34	90	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	38	101	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	30	105	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	26	102	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	28	100	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	38	106	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	35	102	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	42	102	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	43	96	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	30	88	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	25	91	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	29	91	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	30	98	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	41	93	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	41	89	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	43	91	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	39	95	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	32	101	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	29	103	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	33	105	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	25	97	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	24	94	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	27	88	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	32	94	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	32	89	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	36	92	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	37	89	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	40	91	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	38	99	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	40	101	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	43	81	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	36	76	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	42	75	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	26	75	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	24	80	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	30	82	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	24	89	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	24	86	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	24	101	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	37	104	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	41	96	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	39	87	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	41	76	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	38	84	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	38	96	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	30	95	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	32	78	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	29	86	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	27	104	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	40	104	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	44	102	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	43	98	4 // Chaos_Castle_4 => Chaos_Castle_5
+170	22	30	39	93	4 // Chaos_Castle_4 => Chaos_Castle_5
+171	22	30	41	84	4 // Chaos_Castle_4 => Chaos_Castle_5
+172	23	30	26	105	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	26	98	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	28	90	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	27	86	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	28	82	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	26	79	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	34	78	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	33	81	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	39	78	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	26	77	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	38	80	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	43	77	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	38	86	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	43	84	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	41	82	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	27	94	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	32	91	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	29	84	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	42	90	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	44	87	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	30	78	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	38	92	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	40	98	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	29	101	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	33	103	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	38	89	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	42	105	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	42	99	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	35	105	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	29	93	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	28	97	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	26	84	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	28	79	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	25	82	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	29	76	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	33	76	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	35	79	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	31	80	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	41	79	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	38	76	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	36	81	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	39	82	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	41	86	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	42	94	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	35	92	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	34	90	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	38	101	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	30	105	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	26	102	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	28	100	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	38	106	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	35	102	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	42	102	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	43	96	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	30	88	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	25	91	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	29	91	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	30	98	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	41	93	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	41	89	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	43	91	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	39	95	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	32	101	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	29	103	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	33	105	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	25	97	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	24	94	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	27	88	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	32	94	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	32	89	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	36	92	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	37	89	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	40	91	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	38	99	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	40	101	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	43	81	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	36	76	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	42	75	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	26	75	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	24	80	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	30	82	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	24	89	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	24	86	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	24	101	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	37	104	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	41	96	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	39	87	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	41	76	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	38	84	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	38	96	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	30	95	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	32	78	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	29	86	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	27	104	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	40	104	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	44	102	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	43	98	5 // Chaos_Castle_5 => Chaos_Castle_6
+172	23	30	39	93	5 // Chaos_Castle_5 => Chaos_Castle_6
+173	23	30	41	84	5 // Chaos_Castle_5 => Chaos_Castle_6
+end
+0
+259	29	0	7	19	2 // NPC_Lima => Kalima_6
+end
+2
+271	29	30	30	75	-1 // Aegis => Kalima_6
+271	29	30	35	21	-1 // Aegis => Kalima_6
+271	29	30	28	17	-1 // Aegis => Kalima_6
+271	29	30	36	11	-1 // Aegis => Kalima_6
+271	29	30	51	11	-1 // Aegis => Kalima_6
+271	29	30	42	12	-1 // Aegis => Kalima_6
+271	29	30	45	22	-1 // Aegis => Kalima_6
+271	29	30	52	24	-1 // Aegis => Kalima_6
+271	29	30	53	17	-1 // Aegis => Kalima_6
+271	29	30	60	9	-1 // Aegis => Kalima_6
+272	29	30	67	22	-1 // Lord_Centurion => Kalima_6
+271	29	30	60	22	-1 // Aegis => Kalima_6
+272	29	30	69	9	-1 // Lord_Centurion => Kalima_6
+272	29	30	74	14	-1 // Lord_Centurion => Kalima_6
+272	29	30	82	8	-1 // Lord_Centurion => Kalima_6
+272	29	30	81	19	-1 // Lord_Centurion => Kalima_6
+272	29	30	86	13	-1 // Lord_Centurion => Kalima_6
+272	29	30	92	6	-1 // Lord_Centurion => Kalima_6
+272	29	30	96	16	-1 // Lord_Centurion => Kalima_6
+272	29	30	99	9	-1 // Lord_Centurion => Kalima_6
+272	29	30	109	19	-1 // Lord_Centurion => Kalima_6
+270	29	30	110	9	-1 // Bloody_Soldier => Kalima_6
+270	29	30	118	17	-1 // Bloody_Soldier => Kalima_6
+270	29	30	110	35	-1 // Bloody_Soldier => Kalima_6
+270	29	30	121	27	-1 // Bloody_Soldier => Kalima_6
+270	29	30	119	35	-1 // Bloody_Soldier => Kalima_6
+270	29	30	114	44	-1 // Bloody_Soldier => Kalima_6
+268	29	30	120	50	-1 // Death_Angel => Kalima_6
+268	29	30	105	54	-1 // Death_Angel => Kalima_6
+268	29	30	119	57	-1 // Death_Angel => Kalima_6
+268	29	30	110	65	-1 // Death_Angel => Kalima_6
+268	29	30	121	67	-1 // Death_Angel => Kalima_6
+270	29	30	108	28	-1 // Bloody_Soldier => Kalima_6
+268	29	30	111	72	-1 // Death_Angel => Kalima_6
+268	29	30	105	86	-1 // Death_Angel => Kalima_6
+273	29	30	118	84	-1 // Necron => Kalima_6
+268	29	30	118	95	-1 // Death_Angel => Kalima_6
+273	29	30	104	101	-1 // Necron => Kalima_6
+273	29	30	115	106	-1 // Necron => Kalima_6
+273	29	30	93	96	-1 // Necron => Kalima_6
+273	29	30	93	84	-1 // Necron => Kalima_6
+273	29	30	82	85	-1 // Necron => Kalima_6
+273	29	30	82	77	-1 // Necron => Kalima_6
+273	29	30	74	76	-1 // Necron => Kalima_6
+269	29	30	87	90	-1 // Death_Centurion => Kalima_6
+269	29	30	68	77	-1 // Death_Centurion => Kalima_6
+269	29	30	63	72	-1 // Death_Centurion => Kalima_6
+269	29	30	58	78	-1 // Death_Centurion => Kalima_6
+268	29	30	120	75	-1 // Death_Angel => Kalima_6
+269	29	30	57	71	-1 // Death_Centurion => Kalima_6
+274	29	30	32	50	-1 // Schriker => Kalima_6
+274	29	30	42	51	-1 // Schriker => Kalima_6
+274	29	30	38	58	-1 // Schriker => Kalima_6
+274	29	30	29	65	-1 // Schriker => Kalima_6
+274	29	30	46	66	-1 // Schriker => Kalima_6
+274	29	30	42	97	-1 // Schriker => Kalima_6
+274	29	30	37	109	-1 // Schriker => Kalima_6
+274	29	30	47	107	-1 // Schriker => Kalima_6
+274	29	30	53	93	-1 // Schriker => Kalima_6
+274	29	30	35	87	-1 // Schriker => Kalima_6
+274	29	30	32	77	-1 // Schriker => Kalima_6
+274	29	30	41	78	-1 // Schriker => Kalima_6
+274	29	30	37	67	-1 // Schriker => Kalima_6
+274	29	30	46	86	-1 // Schriker => Kalima_6
+274	29	30	23	85	-1 // Schriker => Kalima_6
+274	29	30	23	70	-1 // Schriker => Kalima_6
+338	29	30	26	76	-1 // Kundum_Demon => Kalima_6
+end
+0
+259	36	0	7	19	2 // NPC_Lima => Kalima_7
+end
+2
+331	36	30	30	75	-1 // Aegis => Kalima_7
+331	36	30	35	21	-1 // Aegis => Kalima_7
+331	36	30	28	17	-1 // Aegis => Kalima_7
+331	36	30	36	11	-1 // Aegis => Kalima_7
+331	36	30	51	11	-1 // Aegis => Kalima_7
+331	36	30	42	12	-1 // Aegis => Kalima_7
+331	36	30	45	22	-1 // Aegis => Kalima_7
+331	36	30	52	24	-1 // Aegis => Kalima_7
+331	36	30	53	17	-1 // Aegis => Kalima_7
+331	36	30	60	9	-1 // Aegis => Kalima_7
+332	36	30	67	22	-1 // Lord_Centurion => Kalima_7
+331	36	30	60	22	-1 // Aegis => Kalima_7
+332	36	30	69	9	-1 // Lord_Centurion => Kalima_7
+332	36	30	74	14	-1 // Lord_Centurion => Kalima_7
+332	36	30	82	8	-1 // Lord_Centurion => Kalima_7
+332	36	30	81	19	-1 // Lord_Centurion => Kalima_7
+332	36	30	86	13	-1 // Lord_Centurion => Kalima_7
+332	36	30	92	6	-1 // Lord_Centurion => Kalima_7
+332	36	30	96	16	-1 // Lord_Centurion => Kalima_7
+332	36	30	99	9	-1 // Lord_Centurion => Kalima_7
+332	36	30	109	19	-1 // Lord_Centurion => Kalima_7
+333	36	30	110	9	-1 // Bloody_Soldier => Kalima_7
+333	36	30	118	17	-1 // Bloody_Soldier => Kalima_7
+333	36	30	110	35	-1 // Bloody_Soldier => Kalima_7
+333	36	30	121	27	-1 // Bloody_Soldier => Kalima_7
+333	36	30	119	35	-1 // Bloody_Soldier => Kalima_7
+333	36	30	114	44	-1 // Bloody_Soldier => Kalima_7
+334	36	30	120	50	-1 // Death_Angel => Kalima_7
+334	36	30	105	54	-1 // Death_Angel => Kalima_7
+334	36	30	119	57	-1 // Death_Angel => Kalima_7
+334	36	30	110	65	-1 // Death_Angel => Kalima_7
+334	36	30	121	67	-1 // Death_Angel => Kalima_7
+333	36	30	108	28	-1 // Bloody_Soldier => Kalima_7
+334	36	30	111	72	-1 // Death_Angel => Kalima_7
+334	36	30	105	86	-1 // Death_Angel => Kalima_7
+335	36	30	118	84	-1 // Necron => Kalima_7
+334	36	30	118	95	-1 // Death_Angel => Kalima_7
+335	36	30	104	101	-1 // Necron => Kalima_7
+335	36	30	115	106	-1 // Necron => Kalima_7
+335	36	30	93	96	-1 // Necron => Kalima_7
+335	36	30	93	84	-1 // Necron => Kalima_7
+335	36	30	82	85	-1 // Necron => Kalima_7
+335	36	30	82	77	-1 // Necron => Kalima_7
+335	36	30	74	76	-1 // Necron => Kalima_7
+336	36	30	87	90	-1 // Death_Centurion => Kalima_7
+336	36	30	68	77	-1 // Death_Centurion => Kalima_7
+336	36	30	63	72	-1 // Death_Centurion => Kalima_7
+336	36	30	58	78	-1 // Death_Centurion => Kalima_7
+334	36	30	120	75	-1 // Death_Angel => Kalima_7
+336	36	30	57	71	-1 // Death_Centurion => Kalima_7
+337	36	30	32	50	-1 // Schriker => Kalima_7
+337	36	30	42	51	-1 // Schriker => Kalima_7
+337	36	30	38	58	-1 // Schriker => Kalima_7
+337	36	30	29	65	-1 // Schriker => Kalima_7
+337	36	30	46	66	-1 // Schriker => Kalima_7
+337	36	30	42	97	-1 // Schriker => Kalima_7
+337	36	30	37	109	-1 // Schriker => Kalima_7
+337	36	30	47	107	-1 // Schriker => Kalima_7
+337	36	30	53	93	-1 // Schriker => Kalima_7
+337	36	30	35	87	-1 // Schriker => Kalima_7
+337	36	30	32	77	-1 // Schriker => Kalima_7
+337	36	30	41	78	-1 // Schriker => Kalima_7
+337	36	30	37	67	-1 // Schriker => Kalima_7
+337	36	30	46	86	-1 // Schriker => Kalima_7
+337	36	30	23	85	-1 // Schriker => Kalima_7
+337	36	30	23	70	-1 // Schriker => Kalima_7
+275	36	30	26	76	-1 // Kundum_Demon => Kalima_7
+end
+0
+369	33	0	78	13	2 // Osbon => Aida
+370	33	0	84	14	1 // Jebiden => Aida
+end
+2
+304	33	30	106	49	-1 // Witch_Queen => Aida
+304	33	30	120	97	-1 // Witch_Queen => Aida
+304	33	30	125	82	-1 // Witch_Queen => Aida
+304	33	30	137	125	-1 // Witch_Queen => Aida
+304	33	30	141	76	-1 // Witch_Queen => Aida
+305	33	30	81	80	-1 // Blue_Golem => Aida
+305	33	30	83	121	-1 // Blue_Golem => Aida
+305	33	30	88	62	-1 // Blue_Golem => Aida
+305	33	30	92	45	-1 // Blue_Golem => Aida
+305	33	30	92	86	-1 // Blue_Golem => Aida
+305	33	30	94	158	-1 // Blue_Golem => Aida
+305	33	30	94	158	-1 // Blue_Golem => Aida
+305	33	30	95	150	-1 // Blue_Golem => Aida
+305	33	30	102	175	-1 // Blue_Golem => Aida
+305	33	30	104	42	-1 // Blue_Golem => Aida
+305	33	30	104	160	-1 // Blue_Golem => Aida
+305	33	30	111	94	-1 // Blue_Golem => Aida
+305	33	30	113	79	-1 // Blue_Golem => Aida
+305	33	30	113	155	-1 // Blue_Golem => Aida
+305	33	30	114	67	-1 // Blue_Golem => Aida
+305	33	30	115	143	-1 // Blue_Golem => Aida
+305	33	30	116	86	-1 // Blue_Golem => Aida
+305	33	30	116	114	-1 // Blue_Golem => Aida
+305	33	30	125	112	-1 // Blue_Golem => Aida
+305	33	30	126	73	-1 // Blue_Golem => Aida
+305	33	30	131	94	-1 // Blue_Golem => Aida
+305	33	30	133	79	-1 // Blue_Golem => Aida
+305	33	30	133	133	-1 // Blue_Golem => Aida
+305	33	30	134	106	-1 // Blue_Golem => Aida
+305	33	30	136	66	-1 // Blue_Golem => Aida
+305	33	30	146	72	-1 // Blue_Golem => Aida
+305	33	30	148	93	-1 // Blue_Golem => Aida
+305	33	30	157	166	-1 // Blue_Golem => Aida
+305	33	30	167	127	-1 // Blue_Golem => Aida
+305	33	30	168	140	-1 // Blue_Golem => Aida
+305	33	30	168	168	-1 // Blue_Golem => Aida
+305	33	30	169	174	-1 // Blue_Golem => Aida
+305	33	30	180	40	-1 // Blue_Golem => Aida
+305	33	30	185	147	-1 // Blue_Golem => Aida
+305	33	30	194	19	-1 // Blue_Golem => Aida
+305	33	30	197	148	-1 // Blue_Golem => Aida
+305	33	30	208	168	-1 // Blue_Golem => Aida
+305	33	30	235	101	-1 // Blue_Golem => Aida
+306	33	30	85	145	-1 // Death_Rider => Aida
+306	33	30	88	126	-1 // Death_Rider => Aida
+306	33	30	89	109	-1 // Death_Rider => Aida
+306	33	30	93	173	-1 // Death_Rider => Aida
+306	33	30	100	58	-1 // Death_Rider => Aida
+306	33	30	119	56	-1 // Death_Rider => Aida
+306	33	30	126	156	-1 // Death_Rider => Aida
+306	33	30	126	156	-1 // Death_Rider => Aida
+306	33	30	136	144	-1 // Death_Rider => Aida
+306	33	30	145	87	-1 // Death_Rider => Aida
+306	33	30	149	112	-1 // Death_Rider => Aida
+306	33	30	161	117	-1 // Death_Rider => Aida
+306	33	30	167	152	-1 // Death_Rider => Aida
+306	33	30	169	82	-1 // Death_Rider => Aida
+306	33	30	176	124	-1 // Death_Rider => Aida
+306	33	30	186	89	-1 // Death_Rider => Aida
+306	33	30	188	133	-1 // Death_Rider => Aida
+306	33	30	189	179	-1 // Death_Rider => Aida
+306	33	30	190	144	-1 // Death_Rider => Aida
+306	33	30	191	138	-1 // Death_Rider => Aida
+306	33	30	196	146	-1 // Death_Rider => Aida
+306	33	30	200	177	-1 // Death_Rider => Aida
+306	33	30	201	154	-1 // Death_Rider => Aida
+306	33	30	207	54	-1 // Death_Rider => Aida
+306	33	30	209	75	-1 // Death_Rider => Aida
+306	33	30	216	35	-1 // Death_Rider => Aida
+306	33	30	221	60	-1 // Death_Rider => Aida
+306	33	30	223	158	-1 // Death_Rider => Aida
+306	33	30	227	52	-1 // Death_Rider => Aida
+306	33	30	230	12	-1 // Death_Rider => Aida
+306	33	30	232	31	-1 // Death_Rider => Aida
+306	33	30	233	61	-1 // Death_Rider => Aida
+306	33	30	234	71	-1 // Death_Rider => Aida
+306	33	30	234	80	-1 // Death_Rider => Aida
+306	33	30	234	146	-1 // Death_Rider => Aida
+306	33	30	235	90	-1 // Death_Rider => Aida
+307	33	30	86	171	-1 // Fores_tOrc => Aida
+307	33	30	126	20	-1 // Fores_tOrc => Aida
+307	33	30	126	26	-1 // Fores_tOrc => Aida
+307	33	30	148	10	-1 // Fores_tOrc => Aida
+307	33	30	148	19	-1 // Fores_tOrc => Aida
+307	33	30	149	35	-1 // Fores_tOrc => Aida
+307	33	30	157	16	-1 // Fores_tOrc => Aida
+307	33	30	158	46	-1 // Fores_tOrc => Aida
+307	33	30	165	77	-1 // Fores_tOrc => Aida
+307	33	30	166	57	-1 // Fores_tOrc => Aida
+307	33	30	172	11	-1 // Fores_tOrc => Aida
+307	33	30	176	60	-1 // Fores_tOrc => Aida
+307	33	30	183	96	-1 // Fores_tOrc => Aida
+307	33	30	187	17	-1 // Fores_tOrc => Aida
+307	33	30	189	55	-1 // Fores_tOrc => Aida
+307	33	30	190	40	-1 // Fores_tOrc => Aida
+307	33	30	190	79	-1 // Fores_tOrc => Aida
+307	33	30	194	33	-1 // Fores_tOrc => Aida
+307	33	30	196	45	-1 // Fores_tOrc => Aida
+307	33	30	199	108	-1 // Fores_tOrc => Aida
+307	33	30	210	122	-1 // Fores_tOrc => Aida
+307	33	30	212	62	-1 // Fores_tOrc => Aida
+307	33	30	213	82	-1 // Fores_tOrc => Aida
+307	33	30	213	137	-1 // Fores_tOrc => Aida
+307	33	30	214	10	-1 // Fores_tOrc => Aida
+307	33	30	215	162	-1 // Fores_tOrc => Aida
+307	33	30	225	149	-1 // Fores_tOrc => Aida
+307	33	30	226	67	-1 // Fores_tOrc => Aida
+307	33	30	226	140	-1 // Fores_tOrc => Aida
+307	33	30	232	43	-1 // Fores_tOrc => Aida
+307	33	30	233	125	-1 // Fores_tOrc => Aida
+307	33	30	234	111	-1 // Fores_tOrc => Aida
+307	33	30	234	155	-1 // Fores_tOrc => Aida
+307	33	30	236	135	-1 // Fores_tOrc => Aida
+308	33	30	103	16	-1 // Death_Tree => Aida
+308	33	30	113	8	-1 // Death_Tree => Aida
+308	33	30	118	16	-1 // Death_Tree => Aida
+308	33	30	136	23	-1 // Death_Tree => Aida
+308	33	30	137	13	-1 // Death_Tree => Aida
+308	33	30	150	46	-1 // Death_Tree => Aida
+308	33	30	157	23	-1 // Death_Tree => Aida
+308	33	30	158	10	-1 // Death_Tree => Aida
+308	33	30	162	70	-1 // Death_Tree => Aida
+308	33	30	164	18	-1 // Death_Tree => Aida
+308	33	30	166	48	-1 // Death_Tree => Aida
+308	33	30	174	23	-1 // Death_Tree => Aida
+308	33	30	177	16	-1 // Death_Tree => Aida
+308	33	30	189	38	-1 // Death_Tree => Aida
+308	33	30	189	95	-1 // Death_Tree => Aida
+308	33	30	195	26	-1 // Death_Tree => Aida
+308	33	30	196	99	-1 // Death_Tree => Aida
+308	33	30	200	71	-1 // Death_Tree => Aida
+308	33	30	204	12	-1 // Death_Tree => Aida
+308	33	30	205	31	-1 // Death_Tree => Aida
+308	33	30	206	91	-1 // Death_Tree => Aida
+308	33	30	211	30	-1 // Death_Tree => Aida
+308	33	30	214	114	-1 // Death_Tree => Aida
+308	33	30	219	91	-1 // Death_Tree => Aida
+308	33	30	222	75	-1 // Death_Tree => Aida
+308	33	30	223	130	-1 // Death_Tree => Aida
+308	33	30	224	14	-1 // Death_Tree => Aida
+308	33	30	228	111	-1 // Death_Tree => Aida
+309	33	30	108	147	-1 // Hell_Maine => Aida
+309	33	30	112	47	-1 // Hell_Maine => Aida
+309	33	30	123	103	-1 // Hell_Maine => Aida
+end
+0
+259	37	0	39	217	2 // NPC_Lima => Kantru
+240	37	0	32	213	2 // NPC_Valut_Guard => Kantru
+367	38	0	141	191	2 // Equipment => Kantru_2
+368	39	0	77	177	2 // Elpis => Kantru_3
+end
+2
+352	37	30	207	187	-1 // Iron_Rider => Kantru
+350	37	30	188	11	-1 // Berserk => Kantru
+351	37	30	188	218	-1 // Sprinter_Wolf => Kantru
+350	37	30	151	11	-1 // Berserk => Kantru
+351	37	30	159	232	-1 // Sprinter_Wolf => Kantru
+350	37	30	154	41	-1 // Berserk => Kantru
+351	37	30	36	234	-1 // Sprinter_Wolf => Kantru
+351	37	30	42	235	-1 // Sprinter_Wolf => Kantru
+351	37	30	118	232	-1 // Sprinter_Wolf => Kantru
+351	37	30	55	228	-1 // Sprinter_Wolf => Kantru
+351	37	30	75	231	-1 // Sprinter_Wolf => Kantru
+351	37	30	69	238	-1 // Sprinter_Wolf => Kantru
+351	37	30	174	196	-1 // Sprinter_Wolf => Kantru
+351	37	30	94	234	-1 // Sprinter_Wolf => Kantru
+351	37	30	100	240	-1 // Sprinter_Wolf => Kantru
+351	37	30	114	239	-1 // Sprinter_Wolf => Kantru
+351	37	30	135	223	-1 // Sprinter_Wolf => Kantru
+351	37	30	143	239	-1 // Sprinter_Wolf => Kantru
+351	37	30	151	206	-1 // Sprinter_Wolf => Kantru
+351	37	30	155	196	-1 // Sprinter_Wolf => Kantru
+351	37	30	180	225	-1 // Sprinter_Wolf => Kantru
+351	37	30	172	215	-1 // Sprinter_Wolf => Kantru
+352	37	30	187	205	-1 // Iron_Rider => Kantru
+352	37	30	172	205	-1 // Iron_Rider => Kantru
+352	37	30	207	195	-1 // Iron_Rider => Kantru
+352	37	30	198	179	-1 // Iron_Rider => Kantru
+352	37	30	180	164	-1 // Iron_Rider => Kantru
+352	37	30	174	170	-1 // Iron_Rider => Kantru
+352	37	30	185	148	-1 // Iron_Rider => Kantru
+352	37	30	165	157	-1 // Iron_Rider => Kantru
+352	37	30	165	165	-1 // Iron_Rider => Kantru
+352	37	30	175	150	-1 // Iron_Rider => Kantru
+352	37	30	214	143	-1 // Iron_Rider => Kantru
+352	37	30	217	145	-1 // Iron_Rider => Kantru
+352	37	30	204	137	-1 // Iron_Rider => Kantru
+352	37	30	195	156	-1 // Iron_Rider => Kantru
+352	37	30	195	148	-1 // Iron_Rider => Kantru
+352	37	30	236	135	-1 // Iron_Rider => Kantru
+352	37	30	223	132	-1 // Iron_Rider => Kantru
+352	37	30	212	125	-1 // Iron_Rider => Kantru
+352	37	30	222	113	-1 // Iron_Rider => Kantru
+353	37	30	217	141	-1 // Satyros => Kantru
+353	37	30	226	154	-1 // Satyros => Kantru
+353	37	30	218	164	-1 // Satyros => Kantru
+353	37	30	213	165	-1 // Satyros => Kantru
+353	37	30	195	152	-1 // Satyros => Kantru
+353	37	30	193	181	-1 // Satyros => Kantru
+353	37	30	166	162	-1 // Satyros => Kantru
+353	37	30	182	150	-1 // Satyros => Kantru
+353	37	30	233	123	-1 // Satyros => Kantru
+353	37	30	234	132	-1 // Satyros => Kantru
+353	37	30	236	91	-1 // Satyros => Kantru
+353	37	30	231	96	-1 // Satyros => Kantru
+353	37	30	234	101	-1 // Satyros => Kantru
+353	37	30	220	155	-1 // Satyros => Kantru
+353	37	30	178	168	-1 // Satyros => Kantru
+353	37	30	225	86	-1 // Satyros => Kantru
+353	37	30	224	82	-1 // Satyros => Kantru
+353	37	30	230	82	-1 // Satyros => Kantru
+353	37	30	229	58	-1 // Satyros => Kantru
+353	37	30	226	68	-1 // Satyros => Kantru
+353	37	30	206	38	-1 // Satyros => Kantru
+354	37	30	204	35	-1 // Blade_Hunter => Kantru
+353	37	30	213	44	-1 // Satyros => Kantru
+353	37	30	214	35	-1 // Satyros => Kantru
+353	37	30	215	37	-1 // Satyros => Kantru
+353	37	30	224	43	-1 // Satyros => Kantru
+354	37	30	221	47	-1 // Blade_Hunter => Kantru
+354	37	30	207	40	-1 // Blade_Hunter => Kantru
+354	37	30	189	14	-1 // Blade_Hunter => Kantru
+354	37	30	187	7	-1 // Blade_Hunter => Kantru
+350	37	30	150	56	-1 // Berserk => Kantru
+354	37	30	175	10	-1 // Blade_Hunter => Kantru
+350	37	30	158	57	-1 // Berserk => Kantru
+355	37	30	176	41	-1 // Kentauros => Kantru
+350	37	30	165	50	-1 // Berserk => Kantru
+355	37	30	181	15	-1 // Kentauros => Kantru
+355	37	30	153	15	-1 // Kentauros => Kantru
+354	37	30	148	19	-1 // Blade_Hunter => Kantru
+354	37	30	155	18	-1 // Blade_Hunter => Kantru
+350	37	30	92	34	-1 // Berserk => Kantru
+354	37	30	164	22	-1 // Blade_Hunter => Kantru
+355	37	30	163	33	-1 // Kentauros => Kantru
+355	37	30	181	27	-1 // Kentauros => Kantru
+354	37	30	165	40	-1 // Blade_Hunter => Kantru
+354	37	30	167	43	-1 // Blade_Hunter => Kantru
+354	37	30	152	59	-1 // Blade_Hunter => Kantru
+354	37	30	156	59	-1 // Blade_Hunter => Kantru
+354	37	30	148	51	-1 // Blade_Hunter => Kantru
+350	37	30	137	47	-1 // Berserk => Kantru
+354	37	30	134	39	-1 // Blade_Hunter => Kantru
+354	37	30	138	39	-1 // Blade_Hunter => Kantru
+354	37	30	142	41	-1 // Blade_Hunter => Kantru
+355	37	30	137	42	-1 // Kentauros => Kantru
+355	37	30	136	51	-1 // Kentauros => Kantru
+355	37	30	117	26	-1 // Kentauros => Kantru
+354	37	30	120	28	-1 // Blade_Hunter => Kantru
+354	37	30	126	18	-1 // Blade_Hunter => Kantru
+354	37	30	124	25	-1 // Blade_Hunter => Kantru
+354	37	30	116	43	-1 // Blade_Hunter => Kantru
+354	37	30	122	44	-1 // Blade_Hunter => Kantru
+355	37	30	119	55	-1 // Kentauros => Kantru
+355	37	30	115	65	-1 // Kentauros => Kantru
+355	37	30	76	53	-1 // Kentauros => Kantru
+355	37	30	72	62	-1 // Kentauros => Kantru
+355	37	30	87	71	-1 // Kentauros => Kantru
+350	37	30	85	61	-1 // Berserk => Kantru
+356	37	30	87	36	-1 // Gigantis => Kantru
+350	37	30	85	21	-1 // Berserk => Kantru
+356	37	30	77	28	-1 // Gigantis => Kantru
+350	37	30	61	31	-1 // Berserk => Kantru
+356	37	30	66	21	-1 // Gigantis => Kantru
+350	37	30	71	20	-1 // Berserk => Kantru
+356	37	30	59	40	-1 // Gigantis => Kantru
+350	37	30	46	34	-1 // Berserk => Kantru
+356	37	30	90	39	-1 // Gigantis => Kantru
+357	37	30	37	59	-1 // Genocider => Kantru
+356	37	30	41	37	-1 // Gigantis => Kantru
+356	37	30	51	32	-1 // Gigantis => Kantru
+357	37	30	45	70	-1 // Genocider => Kantru
+357	37	30	35	69	-1 // Genocider => Kantru
+357	37	30	63	101	-1 // Genocider => Kantru
+350	37	30	64	97	-1 // Berserk => Kantru
+350	37	30	66	99	-1 // Berserk => Kantru
+357	37	30	35	55	-1 // Genocider => Kantru
+357	37	30	32	76	-1 // Genocider => Kantru
+357	37	30	58	104	-1 // Genocider => Kantru
+357	37	30	58	92	-1 // Genocider => Kantru
+357	37	30	46	102	-1 // Genocider => Kantru
+350	37	30	48	103	-1 // Berserk => Kantru
+350	37	30	31	87	-1 // Berserk => Kantru
+357	37	30	47	54	-1 // Genocider => Kantru
+350	37	30	50	49	-1 // Berserk => Kantru
+357	37	30	44	44	-1 // Genocider => Kantru
+356	37	30	77	19	-1 // Gigantis => Kantru
+356	37	30	68	28	-1 // Gigantis => Kantru
+350	37	30	55	104	-1 // Berserk => Kantru
+350	37	30	38	51	-1 // Berserk => Kantru
+350	37	30	56	44	-1 // Berserk => Kantru
+350	37	30	65	35	-1 // Berserk => Kantru
+350	37	30	101	68	-1 // Berserk => Kantru
+350	37	30	122	22	-1 // Berserk => Kantru
+350	37	30	129	19	-1 // Berserk => Kantru
+350	37	30	137	26	-1 // Berserk => Kantru
+350	37	30	117	40	-1 // Berserk => Kantru
+350	37	30	145	47	-1 // Berserk => Kantru
+350	37	30	225	141	-1 // Berserk => Kantru
+350	37	30	157	204	-1 // Berserk => Kantru
+350	37	30	170	224	-1 // Berserk => Kantru
+350	37	30	189	211	-1 // Berserk => Kantru
+351	37	30	42	227	-1 // Sprinter_Wolf => Kantru
+end
+2
+359	38	30	159	98	-1 // Twin_Tail => Kantru_2
+359	38	30	100	97	-1 // Twin_Tail => Kantru_2
+359	38	30	99	85	-1 // Twin_Tail => Kantru_2
+359	38	30	125	74	-1 // Twin_Tail => Kantru_2
+359	38	30	113	96	-1 // Twin_Tail => Kantru_2
+359	38	30	111	79	-1 // Twin_Tail => Kantru_2
+359	38	30	123	88	-1 // Twin_Tail => Kantru_2
+358	38	30	140	76	-1 // Persona => Kantru_2
+359	38	30	139	99	-1 // Twin_Tail => Kantru_2
+359	38	30	178	92	-1 // Twin_Tail => Kantru_2
+359	38	30	198	121	-1 // Twin_Tail => Kantru_2
+359	38	30	197	136	-1 // Twin_Tail => Kantru_2
+359	38	30	126	98	-1 // Twin_Tail => Kantru_2
+359	38	30	135	88	-1 // Twin_Tail => Kantru_2
+359	38	30	117	135	-1 // Twin_Tail => Kantru_2
+358	38	30	106	159	-1 // Persona => Kantru_2
+360	38	30	110	140	-1 // Dreadfear => Kantru_2
+359	38	30	101	139	-1 // Twin_Tail => Kantru_2
+359	38	30	149	85	-1 // Twin_Tail => Kantru_2
+359	38	30	153	78	-1 // Twin_Tail => Kantru_2
+359	38	30	151	160	-1 // Twin_Tail => Kantru_2
+359	38	30	179	139	-1 // Twin_Tail => Kantru_2
+359	38	30	187	145	-1 // Twin_Tail => Kantru_2
+358	38	30	97	78	-1 // Persona => Kantru_2
+358	38	30	124	69	-1 // Persona => Kantru_2
+358	38	30	138	67	-1 // Persona => Kantru_2
+358	38	30	183	86	-1 // Persona => Kantru_2
+358	38	30	175	104	-1 // Persona => Kantru_2
+359	38	30	168	94	-1 // Twin_Tail => Kantru_2
+360	38	30	122	127	-1 // Dreadfear => Kantru_2
+358	38	30	111	159	-1 // Persona => Kantru_2
+358	38	30	105	133	-1 // Persona => Kantru_2
+358	38	30	119	126	-1 // Persona => Kantru_2
+358	38	30	135	150	-1 // Persona => Kantru_2
+358	38	30	177	129	-1 // Persona => Kantru_2
+358	38	30	193	146	-1 // Persona => Kantru_2
+358	38	30	195	105	-1 // Persona => Kantru_2
+358	38	30	163	82	-1 // Persona => Kantru_2
+358	38	30	132	97	-1 // Persona => Kantru_2
+358	38	30	158	137	-1 // Persona => Kantru_2
+358	38	30	171	141	-1 // Persona => Kantru_2
+358	38	30	147	148	-1 // Persona => Kantru_2
+358	38	30	152	120	-1 // Persona => Kantru_2
+359	38	30	199	131	-1 // Twin_Tail => Kantru_2
+359	38	30	195	115	-1 // Twin_Tail => Kantru_2
+358	38	30	102	78	-1 // Persona => Kantru_2
+358	38	30	128	69	-1 // Persona => Kantru_2
+358	38	30	156	120	-1 // Persona => Kantru_2
+358	38	30	127	135	-1 // Persona => Kantru_2
+360	38	30	140	162	-1 // Dreadfear => Kantru_2
+360	38	30	176	117	-1 // Dreadfear => Kantru_2
+360	38	30	162	129	-1 // Dreadfear => Kantru_2
+360	38	30	167	129	-1 // Dreadfear => Kantru_2
+360	38	30	137	142	-1 // Dreadfear => Kantru_2
+360	38	30	150	151	-1 // Dreadfear => Kantru_2
+358	38	30	106	154	-1 // Persona => Kantru_2
+358	38	30	111	154	-1 // Persona => Kantru_2
+360	38	30	163	148	-1 // Dreadfear => Kantru_2
+360	38	30	177	150	-1 // Dreadfear => Kantru_2
+358	38	30	108	148	-1 // Persona => Kantru_2
+360	38	30	152	110	-1 // Dreadfear => Kantru_2
+360	38	30	164	112	-1 // Dreadfear => Kantru_2
+359	38	30	185	97	-1 // Twin_Tail => Kantru_2
+105	38	30	97	96	8 //  => Kantru_2
+105	38	30	97	78	8 //  => Kantru_2
+105	38	30	122	74	8 //  => Kantru_2
+105	38	30	136	70	8 //  => Kantru_2
+105	38	30	152	78	8 //  => Kantru_2
+105	38	30	177	89	8 //  => Kantru_2
+105	38	30	186	105	8 //  => Kantru_2
+105	38	30	201	134	8 //  => Kantru_2
+105	38	30	150	152	8 //  => Kantru_2
+105	38	30	138	152	8 //  => Kantru_2
+105	38	30	107	153	8 //  => Kantru_2
+105	38	30	111	153	8 //  => Kantru_2
+105	38	30	123	79	8 //  => Kantru_2
+105	38	30	137	104	8 //  => Kantru_2
+end
+2
+42	40	30	223	21	-1 // Red_Dragon => 
+42	40	30	230	20	-1 // Red_Dragon => 
+42	40	30	231	33	-1 // Red_Dragon => 
+end
+1
+294	40	30	220	22	231	16	-1	5 // Axe_Warrior => 
+290	40	30	220	29	232	36	-1	5 // Lizard_Warrior => 
+293	40	30	233	35	234	25	-1	5 // Poison_Golem => 
+292	40	30	238	14	237	26	-1	5 // Queen_Bee => 
+291	40	30	220	22	231	16	-1	5 // Fire_Golem => 
+300	40	30	220	22	231	16	-1	5 // Mutant_Hero => 
+302	40	30	220	29	232	36	-1	5 // Axe_Warrior_Hero => 
+303	40	30	233	35	234	25	-1	5 // Gigas_Golem => 
+301	40	30	238	14	237	26	-1	5 // Omega_Wing => 
+end
+0
+406	41	0	31	88	2 //  => 
+407	41	0	27	85	2 //  => 
+408	41	0	119	168	2 //  => 
+end
+1
+409	41	30	39	107	48	113	-1	5 //  => 
+410	41	30	46	134	59	133	-1	5 //  => 
+411	41	30	62	113	66	109	-1	5 //  => 
+end
+1
+412	42	30	85	198	85	188	-1	5 //  => 
+412	42	30	94	182	104	183	-1	5 //  => 
+412	42	30	102	199	89	199	-1	5 //  => 
+end
+0
+380	43	0	165	106	2 //  => 
+381	43	0	165	99	2 //  => 
+382	43	0	172	106	2 //  => 
+383	43	0	167	107	2 //  => 
+384	43	0	163	105	2 //  => 
+385	43	0	170	103	2 //  => 
+end
+1
+401	43	30	167	98	171	99	-1	5 //  => 
+402	43	30	175	103	184	103	-1	5 //  => 
+403	43	30	167	113	169	105	-1	5 //  => 
+end
+1
+67	10	30	245	30	120	60	-1	1 // Metal_Balrog => Icarus
+124	10	30	245	70	120	100	-1	1 // Spirit_Sorcerer => Icarus
+66	10	30	245	110	120	140	-1	1 // Cursed_King => Icarus
+74	10	30	245	150	120	180	-1	1 // Alpha_Crust => Icarus
+63	10	30	245	190	120	220	-1	1 // DeathVim_Knight => Icarus
+77	10	30	245	230	120	245	-1	3 // Dark_Phoenix => Icarus
+270	10	0	250	10	250	11	-1	20 // Bloody_Soldier => Icarus
+335	35	5	225	18	235	31	-1	8 // Necron => Devil_Square
+337	35	5	225	18	235	31	-1	8 // Schriker => Devil_Square
+334	35	5	225	18	235	31	-1	8 // Death_Angel => Devil_Square
+
+
+end

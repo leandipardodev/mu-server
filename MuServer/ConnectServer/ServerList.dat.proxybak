@@ -1,0 +1,4 @@
+//ServerCode   ServerName         ServerAddress      ServerPort       ServerType
+0              "Principal"       "192.168.0.85"     55901            "SHOW"
+19             "CastleSiege"     "192.168.0.85"     55920            "HIDE"
+end

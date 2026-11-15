@@ -1,0 +1,8 @@
+571|Da: 50% Jewel of Creation o 50% Jewel of Chaos
+572|Sirve para subir el nivel del ítem hasta 6
+573|Sirve para subir el nivel del ítem a 7, 8 y 9
+574|Sirve para combinar ítems del Chaos
+575|Absorbe el 30% del daño
+576|Aumenta 30% el daño de ataque y mágico
+579|Aumenta la velocidad
+637|Sirve para combinar ítems y crear una invitación a Devil Square

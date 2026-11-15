@@ -1,0 +1,16 @@
+[MainInfo]
+LauncherType = 0
+LauncherName = "Launcher"
+IpAddress = "127.0.0.1"
+IpAddressPort = 44405
+CustomerName = "MESecurity"
+ClientVersion = "1.02.44"
+ClientSerial = "TbYehR2hFUPBKgZj"
+WindowName = "MuEmperor"
+ScreenShotPath = "ScreenShots\Screen(%02d_%02d-%02d-%02d)-%04d.jpg"
+ClientName = "Main.exe"
+PluginName = "" //"GameGuard.dll"
+PluginNameAH = "" //NoTest
+
+[Downgrade]
+RemoveSD = 0 //Incomplete

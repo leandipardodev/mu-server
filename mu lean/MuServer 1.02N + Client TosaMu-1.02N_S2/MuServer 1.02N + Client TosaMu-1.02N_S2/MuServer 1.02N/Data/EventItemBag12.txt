@@ -1,0 +1,111 @@
+//////////////////////////////////////////////////////////////////////////////////
+// 최종 작업자    : MuProject Team                                              //
+// 최종 작업일    : 2007 / 07 / 08                                              //
+// 최종 작업 내용 : 문서 정리                                                   //
+//////////////////////////////////////////////////////////////////////////////////
+//┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+//┃ 쿤둔의상자+5 : 칸투르의 지하 군단 / 황금탄탈로스                             ┃
+//┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+//일반 17행 / 액설런트 25행
+//일반 아이템과 액설런트 아이템에는 반드시 하나 이상의 아이템이 있어야 함
+
+//[타입] [번호] [레벨] [0] [액설런트여부:1이면액템이드랍됨] [0]
+//---------------------------------------------------------------------------------
+// 일반 아이템
+//---------------------------------------------------------------------------------
+	12	15	0	0	0	0	//혼돈의보석
+	14	16	0	0	0	0	//생명의보석
+//---------------------------------------------------------------------------------
+// 액설런트 아이템
+//---------------------------------------------------------------------------------
+//Kundum+5
+//Tipo, item, dificulade, option, luck, skill
+	2	14	0	0	1	0	//솔레이유셉터
+	2	15	0	0	1	0	//사이닝셉터
+	7	33	0	0	1	0	//썬라이트마스크
+	8	33	0	0	1	0	//썬라이트갑옷
+	9	33	0	0	1	0	//썬라이트바지
+	10	33	0	0	1	0	//썬라이트장갑
+	11	33	0	0	1	0	//썬라이트부츠
+	7	38	0	0	1	0	//글로리어스마스크
+	8	38	0	0	1	0	//글로리어스갑옷
+	9	38	0	0	1	0	//글로리어스바지
+	10	38	0	0	1	0	//글로리어스장갑
+	11	38	0	0	1	0	//글로리어스부츠
+
+//Storm Set
+7 26 0 0 1 0 //Storm Mask
+8 26 0 0 1 0 //Storm Armor
+9 26 0 0 1 0 //Storm Pants
+10 26 0 0 1 0 //Storm Gloves
+11 26 0 0 1 0 //Storm Boots
+//Magus Set
+7 27 0 0 1 0 //Magus Mask
+8 27 0 0 1 0 //Magus Armor
+9 27 0 0 1 0 //Magus Pants
+10 27 0 0 1 0 //Magus Gloves
+11 27 0 0 1 0 //Magus Boots
+//Adamantine Set
+7 28 0 0 1 0 //Adamantine Mask
+8 28 0 0 1 0 //Adamantine Armor
+9 28 0 0 1 0 //Adamantine Pants
+10 28 0 0 1 0 //Adamantine Gloves
+11 28 0 0 1 0 //Adamantine Boots
+//DaRK Side Set
+7 22 0 0 1 0 //DaRK Side Helm
+8 22 0 0 1 0 //DaRK Side Armor
+9 22 0 0 1 0 //DaRK Side Pants
+10 22 0 0 1 0 //DaRK Side Gloves
+11 22 0 0 1 0 //DaRK Side Boots
+//Hurricane Set
+8 23 0 0 1 0 //Hurricane Armor
+9 23 0 0 1 0 //Hurricane Pants
+10 23 0 0 1 0 //Hurricane Gloves
+11 23 0 0 1 0 //Hurricane Boots
+//Red Phoenix Set
+7 21 0 0 1 0 //Red Phoenix Helm
+8 21 0 0 1 0 //Red Phoenix Armor
+9 21 0 0 1 0 //Red Phoenix Pants
+10 21 0 0 1 0 //Red Phoenix Gloves
+11 21 0 0 1 0 //Red Phoenix Boots
+//Nature Set
+7 24 0 0 1 0 //Nature Helmet
+8 24 0 0 1 0 //Nature Armor
+9 24 0 0 1 0 //Nature Pants
+10 24 0 0 1 0 //Nature Gloves
+11 24 0 0 1 0 //Nature Boots
+//Armas
+0 18 0 1 1 1 //Thunder Blade (MG)
+3 10 0 1 1 1 //Dragon Spear
+2 7 0 1 1 1 //Elemental Mace
+2 8 0 1 1 1 //Skeleton Mace
+2 9 0 1 1 1 //Slayer's Mace
+2 10 0 1 1 1 //Stalker's Mace
+2 11 0 1 1 1 //Mace of gimli
+2 12 0 1 1 1 //Phantom mace
+2 13 0 1 1 1 //Mace of the king
+5 11 0 0 1 0 //Kundun Staff
+0 20 0 0 1 0 //Blade of Devourer
+0 31 0 0 1 0 //DeathBroad
+
+
+//Escudos
+6 13 0 1 1 1 //Dragonshield (BK,MG)
+6 14 0 1 1 1 //Legendary shield (SM)
+6 3 0 1 1 1  //Fairyshield (ELF)
+6 15 0 0 1 0 //Grand Soul Shield
+
+//CHAOS SET
+7  30 0 1 1 0 //Chaos Armor
+8  30 0 1 1 0 //Chaos Armor
+9  30 0 1 1 0 //Chaos Armor
+10 30 0 1 1 0 //Chaos Armor
+11 30 0 1 1 0 //Chaos Armor
+
+//SCORPION SET
+7  29 0 1 1 0 //Scorpion Armor
+8  29 0 1 1 0 //Scorpion Armor
+9  29 0 1 1 0 //Scorpion Armor
+10 29 0 1 1 0 //Scorpion Armor
+11 29 0 1 1 0 //Scorpion Armor

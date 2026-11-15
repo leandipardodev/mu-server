@@ -1,0 +1,15 @@
+02,050 255 255 255 "Mace50"
+
+07,100 255 0 0 "HelmMale2"
+08,100 255 0 0 "ArmorMale2"
+09,100 255 0 0 "PantMale2"
+10,100 255 0 0 "GloveMale2"
+11,100 255 0 0 "BootMale2"
+
+07,018 255 0 255 "HelmMale19"
+08,018 255 0 255 "ArmorMale19"
+09,018 255 0 255 "PantMale19"
+10,018 255 0 255 "GloveMale19"
+11,018 255 0 255 "BootMale19"
+
+end

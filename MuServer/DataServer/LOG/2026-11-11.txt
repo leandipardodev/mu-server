@@ -1,0 +1,93 @@
+11:30:50 [SocketManager] Server started at port [55960]
+11:31:15 [ServerManager][0] AddServer (127.0.0.1)
+11:31:15 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+11:31:20 [ServerManager][1] AddServer (127.0.0.1)
+11:31:20 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+11:32:14 [ServerManager][1] DelServer (127.0.0.1)
+11:39:29 [SocketManager] Server started at port [55960]
+11:39:31 [ServerManager][0] AddServer (127.0.0.1)
+11:39:31 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+11:39:33 [ServerManager][1] AddServer (127.0.0.1)
+11:39:33 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+11:41:51 [SocketManager] Server started at port [55960]
+11:41:54 [ServerManager][0] AddServer (127.0.0.1)
+11:41:54 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+11:41:56 [ServerManager][1] AddServer (127.0.0.1)
+11:41:56 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+11:42:03 [ServerManager][1] DelServer (127.0.0.1)
+11:42:27 [ServerManager][1] AddServer (127.0.0.1)
+11:42:27 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+11:42:33 [ServerManager][1] DelServer (127.0.0.1)
+11:43:26 [ServerManager][1] AddServer (127.0.0.1)
+11:43:26 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+12:05:45 [SocketManager] Server started at port [55960]
+12:05:50 [ServerManager][0] AddServer (127.0.0.1)
+12:05:50 [ServerManager][0] ServerInfo (CastleSiege) (55920) (19)
+12:05:50 [ServerManager][1] AddServer (127.0.0.1)
+12:05:50 [ServerManager][1] ServerInfo (Principal) (55901) (0)
+12:17:31 [SocketManager] Server started at port [55960]
+12:17:33 [ServerManager][0] AddServer (127.0.0.1)
+12:17:33 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+12:17:57 [ServerManager][1] AddServer (127.0.0.1)
+12:17:57 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+12:19:01 [SocketManager] Server started at port [55960]
+12:19:03 [ServerManager][0] AddServer (127.0.0.1)
+12:19:03 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+12:19:05 [ServerManager][1] AddServer (127.0.0.1)
+12:19:05 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+12:35:08 [SocketManager] Server started at port [55960]
+12:35:11 [ServerManager][0] AddServer (127.0.0.1)
+12:35:11 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+12:35:13 [ServerManager][1] AddServer (127.0.0.1)
+12:35:13 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+12:38:05 [SocketManager] Server started at port [55960]
+12:38:07 [ServerManager][0] AddServer (127.0.0.1)
+12:38:07 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+12:38:09 [ServerManager][1] AddServer (127.0.0.1)
+12:38:09 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+12:48:39 [SocketManager] Server started at port [55960]
+12:48:41 [ServerManager][0] AddServer (127.0.0.1)
+12:48:41 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+12:50:32 [SocketManager] Server started at port [55960]
+12:50:34 [ServerManager][0] AddServer (127.0.0.1)
+12:50:34 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+12:50:36 [ServerManager][1] AddServer (127.0.0.1)
+12:50:36 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+13:41:33 [SocketManager] Server started at port [55960]
+13:41:36 [ServerManager][0] AddServer (127.0.0.1)
+13:41:36 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+13:41:38 [ServerManager][1] AddServer (127.0.0.1)
+13:41:38 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+13:43:14 [SocketManager] Server started at port [55960]
+13:43:16 [ServerManager][0] AddServer (127.0.0.1)
+13:43:16 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+13:43:18 [ServerManager][1] AddServer (127.0.0.1)
+13:43:18 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+13:59:21 [SocketManager] Server started at port [55960]
+13:59:23 [ServerManager][0] AddServer (127.0.0.1)
+13:59:23 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+13:59:25 [ServerManager][1] AddServer (127.0.0.1)
+13:59:25 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+14:32:45 [SocketManager] Server started at port [55960]
+14:32:47 [ServerManager][0] AddServer (127.0.0.1)
+14:32:47 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+14:43:11 [SocketManager] Server started at port [55960]
+14:43:16 [ServerManager][0] AddServer (127.0.0.1)
+14:43:16 [ServerManager][0] ServerInfo (CastleSiege) (55920) (19)
+14:43:16 [ServerManager][1] AddServer (127.0.0.1)
+14:43:16 [ServerManager][1] ServerInfo (Principal) (55901) (0)
+15:25:19 [SocketManager] Server started at port [55960]
+15:25:21 [ServerManager][0] AddServer (127.0.0.1)
+15:25:21 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+23:08:44 [SocketManager] Server started at port [55960]
+23:08:46 [ServerManager][0] AddServer (127.0.0.1)
+23:08:46 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+23:08:48 [ServerManager][1] AddServer (127.0.0.1)
+23:08:48 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+23:30:57 [SocketManager] Server started at port [55960]
+23:30:59 [ServerManager][0] AddServer (127.0.0.1)
+23:30:59 [ServerManager][0] ServerInfo (Principal) (55901) (0)
+23:31:01 [ServerManager][1] AddServer (127.0.0.1)
+23:31:01 [ServerManager][1] ServerInfo (CastleSiege) (55920) (19)
+23:48:39 [ServerManager][1] DelServer (127.0.0.1)
+23:48:39 [ServerManager][0] DelServer (127.0.0.1)

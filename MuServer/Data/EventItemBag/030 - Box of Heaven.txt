@@ -1,0 +1,8 @@
+5
+//Index		Level	Grade	Level	Skill	Luck	JoL 	Exc 	Ancient		SKT		Duration	Comment
+6671		0		0		0		0		0		0		0		*			*		2000		// Fruit of Strength (20%)
+6671		1		0		0		0		0		0		0		*			*		2000		// Fruit of Agility (20%)
+6671		2		0		0		0		0		0		0		*			*		2000		// Fruit of Vitality (20%)
+6671		3		0		0		0		0		0		0		*			*		2000		// Fruit of Energy (20%)
+6671		4		0		0		0		0		0		0		*			*		2000		// Fruit of Command (20%)
+end

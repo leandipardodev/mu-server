@@ -1,0 +1,25 @@
+/////////////////////////////////////////////////////////////////////////////////////////
+// Lang        : Kor                                                                  //
+// Creditos    : Aspire                                             	             //
+// Config      : Aspire								    //
+// Translate   : Aspire                                                            //
+////////////////////////////////////////////////////////////////////////////////////°
+[SkillInfo]
+//---------------------------------------------------------------------------------
+// Infinity ArrowSkill Config (Muse Elf)
+//---------------------------------------------------------------------------------
+InfinityArrowSkillTime 			= 600	   ;Cuanto Tiempo Tardara
+InfinityArrowUseLevel 			= 220	   ;Level Para Usarlo
+InfinityArraowMPConsumptionPlus0 	= 5	   
+InfinityArraowMPConsumptionPlus1 	= 7	    
+InfinityArraowMPConsumptionPlus2 	= 10	    
+//---------------------------------------------------------------------------------
+// Fire Scream Skill Config (DarkLord)
+//---------------------------------------------------------------------------------
+FireScreamSkill				= 1		            ;Utilizar FireScream 1=Enable 0=Disable
+FireScreamExplosionAttackDistance 	= 2	    ;Attack Distance
+FireScreamExplosionDamage 		= 3000	    ;Damage FireScream Skill [1 / 10000]
+FireScreamExplosionRate			= 3000	    ;Rate FireScream Skill[1 / 10000]
+FireScreamMaxAttackCountSameSerial 	= 3	    
+FireScreamSerialInitCount 		= 100		
+CheckFireScreamSerial 			= 1	    ;Cheack Serial FireScream Skill

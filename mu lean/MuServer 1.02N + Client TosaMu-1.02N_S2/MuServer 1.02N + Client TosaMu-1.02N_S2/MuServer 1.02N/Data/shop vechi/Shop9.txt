@@ -1,0 +1,43 @@
+// [Noria] Weapon Shop
+14 18 1 0 0 0 0 //Devil Key+1
+14 18 2 0 0 0 0 //Devil Key+2
+14 18 3 0 0 0 0 //Devil Key+3
+14 18 4 0 0 0 0 //Devil Key+4
+14 18 5 0 0 0 0 //Devil Key+5
+14 18 6 0 0 0 0 //Devil Key+6
+12 8 0 10 0 0 0 //Orb of Heal
+12 9 0 10 0 0 0 //Orb of Advanced Def
+12 10 0 10 0 0 0 //Orb of Advanced Dmg
+12 11 0 10 0 0 0 //Goblin Summon Jewel
+//12 11 1 10 0 0 0 //Golem Summon Jewel
+12 11 2 10 0 0 0 //Assasin Summon Jewel
+12 11 3 10 0 0 0 //Yeti Summon Jewel
+//12 11 6 10 0 0 0 //Soldier Summon Jewel
+//12 11 4 10 0 0 0 //Dark Knight Summon Jewel
+4 0 0 20 1 1 3 //Short Bow+0+12+Skill+Luck
+4 1 0 24 1 1 3 //Bow+0+12+Skill+Luck
+4 2 0 28 1 1 3 //Fairy Bow+0+12+Skill+Luck
+//4 3 0 36 1 1 3 //Battle Bow+0+12+Skill+Luck
+//4 4 0 43 1 1 3 //Tiger Bow+0+12+Skill+Luck
+4 5 0 48 1 1 3 //Light Bow+0+12+Skill+Luck
+4 8 0 22 1 1 3 //Crossbow+0+12+Skill+Luck
+//4 9 0 26 1 1 3 //Gold Crossbow+0+12+Skill+Luck
+4 10 0 31 1 1 3 //Arquebus+0+12+Skill+Luck
+4 11 0 40 1 1 3 //Light Crossbow+0+12+Skill+Luck
+4 12 0 45 1 1 3 //Serpent Crossbow+0+12+Skill+Luck
+//4 13 0 56 1 1 3 //Legendary Crossbow+0+12+Skill+Luck
+//4 14 0 60 1 1 3 //Dragon Crossbow+0+12+Skill+Luck
+4 15 1 255 1 1 3 //Arrows+1+12+Skill+Luck
+4 15 2 255 1 1 3 //Arrows+2+12+Skill+Luck
+//4 15 3 255 1 1 3 //Arrows+3+12+Skill+Luck
+//4 15 4 255 1 1 3 //Arrows+4+12+Skill+Luck
+//4 15 5 255 1 1 3 //Arrows+5+12+Skill+Luck
+//4 15 6 255 1 1 3 //Arrows+6+12+Skill+Luck
+4 7 1 255 1 1 3 //Bolts+1+12+Skill+Luck
+4 7 2 255 1 1 3 //Bolts+2+12+Skill+Luck
+4 7 3 255 1 1 3 //Bolts+3+12+Skill+Luck
+//4 7 4 255 1 1 3 //Bolts+4+12+Skill+Luck
+//4 7 5 255 1 1 3 //Bolts+5+12+Skill+Luck
+//4 7 6 255 1 1 3 //Bolts+6+12+Skill+Luck
+
+end

@@ -1,0 +1,59 @@
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_CGuid]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendList]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMail]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_FriendMain]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[T_WaitFriend]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_FriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendAdd]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WaitFriendDel]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_WriteMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_DelMail]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p exec WZ_Get_DBID
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[Guild]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[GuildMember]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_GuildCreate]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+09:18:45p select count(*) from Guild
+09:18:45p select count(*) from Guild
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[MuCastle_SIEGE_GUILDLIST]') and OBJECTPROPERTY(id, N'IsUserTable')=1
+09:18:45p select * from dbo.sysobjects where id = object_id(N'[dbo].[WZ_CS_CheckSiegeGuildList]') and OBJECTPROPERTY(id, N'IsProcedure')=1
+ GuildOnOff system : 0 Count: 1
+09:18:45p SELECT * FROM Guild
+[GaTaS] Create Guild  Master = Monique
+09:18:45p SELECT * FROM GuildMember where G_Name = 'GaTaS'
+Total 1 / Guild data load complete. 0(ms)
+ GuildOnOff system : 1 Count: 0
+09:18:46p ExDB Server Start!!
+Server Connect : index: (0)
+09:19:52p GameServer Connected (MuOnline) : 0
+Server Connect : index: (1)
+09:19:59p GameServer Connected (MuOnline_CS                  ;ServerName) : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:21:22p GameServer Connected (MuOnline_CS                  ;ServerName) : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:21:40p GameServer Connected (MuOnline_CS                  ;ServerName) : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:22:33p GameServer Connected (MuOnline_CS                  ;ServerName) : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:25:42p GameServer Connected (MuOnline_CS                  ;ServerName) : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:26:47p GameServer Connected (MuOnline                            ;ServerName) : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:27:32p GameServer Connected () : 1
+Game Server Disconnect : index: (1)
+Server Connect : index: (1)
+09:27:46p GameServer Connected (MuOnline_CS) : 1
+09:40:54p SELECT G_Name, G_Level, G_Status FROM GuildMember where Name='Drako'
+09:40:55p Friend Login request : Drako 6400 server:0
+[6400] New Friend Master = Drako
+09:40:55p SELECT GUID, MemoTotal FROM T_FriendMain where Name = 'Drako'
+09:40:55p SELECT FriendGuid, FriendName, Del FROM T_FriendList where GUID = 1594
+09:40:55p SELECT FriendName FROM T_WaitFriend where GUID=1594
+09:40:55p SELECT MemoIndex, FriendName, wDate, Subject, bRead FROM T_Friend

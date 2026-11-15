@@ -1,0 +1,26 @@
+//==============
+// BLOOD CASTLE
+//==============
+//Blood Castle time settings
+// Time will be open(min) / Duration - Event(min) / Time to close after the weapon is delivered to the Archangel(min)
+0
+5	15	1
+end
+
+// Configuration and range to drop items disappear
+// item drop rate(gItemDropPer(10)/n) / exc item drop rate(1/n) / time for items to disappear
+1
+1000	1200	0
+end
+
+// castle door health
+// BC Lvl | Hp Crystal Statue | HP gate/door
+2
+0	65000	150000		// BC 1
+1	105000	205000		// BC 2
+2	145000	260000		// BC 3
+3	185000	325000		// BC 4
+4	225000	400000		// BC 5
+5	265000	480000		// BC 6
+6	305000	565000		// BC 7
+end

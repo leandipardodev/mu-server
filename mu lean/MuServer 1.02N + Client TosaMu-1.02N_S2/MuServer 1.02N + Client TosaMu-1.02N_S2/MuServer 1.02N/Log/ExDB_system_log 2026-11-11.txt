@@ -1,0 +1,120 @@
+15:52:8  ★ [asdasdas][112211] Union = 0 Rival = 0
+15:52:8  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+15:52:8  ★ [Randomic][Franky] Union = 0 Rival = 0
+15:52:8  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+15:52:8  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+15:52:8  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+15:52:8  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+15:52:8  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+15:52:8  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+15:52:8  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+15:52:8  Rival 정보 재구성 성공 : Randomic, 2
+15:52:8  Rival 정보 재구성 성공 : asdasdas, 3
+15:52:8  Rival 정보 재구성 성공 : wolowitz, 4
+15:52:8  Rival 정보 재구성 성공 : STAFF, 5
+15:52:8  Rival 정보 재구성 성공 : MALVADAO, 6
+16:26:48  ★ [asdasdas][112211] Union = 0 Rival = 0
+16:26:48  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+16:26:48  ★ [Randomic][Franky] Union = 0 Rival = 0
+16:26:48  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+16:26:48  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+16:26:48  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+16:26:48  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+16:26:48  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+16:26:48  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+16:26:48  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+16:26:48  Rival 정보 재구성 성공 : Randomic, 2
+16:26:48  Rival 정보 재구성 성공 : asdasdas, 3
+16:26:48  Rival 정보 재구성 성공 : wolowitz, 4
+16:26:48  Rival 정보 재구성 성공 : STAFF, 5
+16:26:48  Rival 정보 재구성 성공 : MALVADAO, 6
+16:29:11  ★ [asdasdas][112211] Union = 0 Rival = 0
+16:29:11  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+16:29:11  ★ [Randomic][Franky] Union = 0 Rival = 0
+16:29:11  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+16:29:11  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+16:29:11  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+16:29:11  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+16:29:11  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+16:29:11  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+16:29:11  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+16:29:11  Rival 정보 재구성 성공 : Randomic, 2
+16:29:11  Rival 정보 재구성 성공 : asdasdas, 3
+16:29:11  Rival 정보 재구성 성공 : wolowitz, 4
+16:29:11  Rival 정보 재구성 성공 : STAFF, 5
+16:29:11  Rival 정보 재구성 성공 : MALVADAO, 6
+16:43:45  ★ [asdasdas][112211] Union = 0 Rival = 0
+16:43:45  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+16:43:45  ★ [Randomic][Franky] Union = 0 Rival = 0
+16:43:45  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+16:43:45  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+16:43:45  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+16:43:45  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+16:43:45  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+16:43:45  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+16:43:45  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+16:43:45  Rival 정보 재구성 성공 : Randomic, 2
+16:43:45  Rival 정보 재구성 성공 : asdasdas, 3
+16:43:45  Rival 정보 재구성 성공 : wolowitz, 4
+16:43:45  Rival 정보 재구성 성공 : STAFF, 5
+16:43:45  Rival 정보 재구성 성공 : MALVADAO, 6
+22:33:45  ★ [asdasdas][112211] Union = 0 Rival = 0
+22:33:45  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+22:33:45  ★ [Randomic][Franky] Union = 0 Rival = 0
+22:33:45  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+22:33:45  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+22:33:45  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+22:33:45  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+22:33:45  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+22:33:45  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+22:33:45  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+22:33:45  Rival 정보 재구성 성공 : Randomic, 2
+22:33:45  Rival 정보 재구성 성공 : asdasdas, 3
+22:33:45  Rival 정보 재구성 성공 : wolowitz, 4
+22:33:45  Rival 정보 재구성 성공 : STAFF, 5
+22:33:45  Rival 정보 재구성 성공 : MALVADAO, 6
+22:44:45  ★ [asdasdas][112211] Union = 0 Rival = 0
+22:44:45  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+22:44:45  ★ [Randomic][Franky] Union = 0 Rival = 0
+22:44:45  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+22:44:45  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+22:44:45  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+22:44:45  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+22:44:45  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+22:44:45  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+22:44:45  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+22:44:45  Rival 정보 재구성 성공 : Randomic, 2
+22:44:45  Rival 정보 재구성 성공 : asdasdas, 3
+22:44:45  Rival 정보 재구성 성공 : wolowitz, 4
+22:44:45  Rival 정보 재구성 성공 : STAFF, 5
+22:44:45  Rival 정보 재구성 성공 : MALVADAO, 6
+22:51:24  ★ [asdasdas][112211] Union = 0 Rival = 0
+22:51:24  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+22:51:24  ★ [Randomic][Franky] Union = 0 Rival = 0
+22:51:24  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+22:51:24  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+22:51:24  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+22:51:24  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+22:51:24  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+22:51:24  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+22:51:24  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+22:51:24  Rival 정보 재구성 성공 : Randomic, 2
+22:51:24  Rival 정보 재구성 성공 : asdasdas, 3
+22:51:24  Rival 정보 재구성 성공 : wolowitz, 4
+22:51:24  Rival 정보 재구성 성공 : STAFF, 5
+22:51:24  Rival 정보 재구성 성공 : MALVADAO, 6
+23:6:22  ★ [asdasdas][112211] Union = 0 Rival = 0
+23:6:22  ★ [MALVADAO][Darkfeniix] Union = 0 Rival = 0
+23:6:22  ★ [Randomic][Franky] Union = 0 Rival = 0
+23:6:22  ★ [STAFF][FSMatheus] Union = 0 Rival = 0
+23:6:22  ★ [wolowitz][WoloWizard] Union = 0 Rival = 0
+23:6:22  Union [ 0 ] : [ Randomic ] [ 2 ] 추가 성공
+23:6:22  Union [ 0 ] : [ asdasdas ] [ 3 ] 추가 성공
+23:6:22  Union [ 0 ] : [ wolowitz ] [ 4 ] 추가 성공
+23:6:22  Union [ 0 ] : [ STAFF ] [ 5 ] 추가 성공
+23:6:22  Union [ 0 ] : [ MALVADAO ] [ 6 ] 추가 성공
+23:6:22  Rival 정보 재구성 성공 : Randomic, 2
+23:6:22  Rival 정보 재구성 성공 : asdasdas, 3
+23:6:22  Rival 정보 재구성 성공 : wolowitz, 4
+23:6:22  Rival 정보 재구성 성공 : STAFF, 5
+23:6:22  Rival 정보 재구성 성공 : MALVADAO, 6

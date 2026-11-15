@@ -1,0 +1,21 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.GamesBit.net
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 011 - Alex the Wandering Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+8	15	3	0	0	1	0	0	//Storm Crow Armor
+9	15	3	0	0	1	0	0	//Storm Crow Pants
+10	15	3	0	0	1	0	0	//Storm Crow Gloves
+11	15	3	0	0	1	0	0	//Storm Crow Boots
+8	20	3	0	0	1	0	0	//Thunder Hawk Armor
+9	20	3	0	0	1	0	0	//Thunder Hawk Pants
+10	20	3	0	0	1	0	0	//Thunder Hawk Gloves
+11	20	3	0	0	1	0	0	//Thunder Hawk Boots
+0	18	3	0	0	1	0	0	//Thunder Blade
+0	30	3	0	0	1	0	0	//Rune Blade
+end

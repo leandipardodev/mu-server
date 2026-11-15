@@ -1,0 +1,41 @@
+[MainInfo]
+LauncherType = 0
+LauncherName = "Launcher - kayito"
+IpAddress = "192.168.0.85"
+IpAddressPort = 44405
+CustomerName = "MESecurity"
+ClientVersion = "1.02.44"
+ClientSerial = "TbYehR2hFUPBKgZj"
+WindowName = "MuEmperor"
+ScreenShotPath = "ScreenShots\Screen(%02d_%02d-%02d-%02d)-%04d.jpg"
+ClientName = "Main.exe"
+PluginName = "" //"GameGuard.dll"
+PluginName5 = 
+
+[ReconnectInfo]
+ReconnectTime = 300000
+Stage1 = "Reconnecting..."
+Stage2 = "Logging in..."
+Stage3 = "Waiting character list..."
+Stage4 = "Waiting character info..."
+
+//=======================================================//
+// Remove SD NUMBER (no test)
+//=======================================================//
+[Downgrade]
+RemoveSD = 0
+
+//=======================================================//
+// 0 = Show WindowName
+// 1 = Show WindowName + CharacteName + CharacterLevel(Resets) + FPS
+// 2 = Show WindowName + CharacteName + CharacterLevel + FPS
+// 3 = Show WindowName + CharacteName + CharacterLevel(Resets)
+// 4 = Show WindowName + CharacteName + CharacterLevel
+//=======================================================//
+[Custom]
+InfoBar = 1
+
+//=======================================================//
+// Change the name of the room and login box
+//=======================================================//
+ServerName = "MuEmperor"

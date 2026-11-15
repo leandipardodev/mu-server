@@ -1,0 +1,15 @@
+0
+//EventName	DropZen	ItemDropRate	ItemDropCount	SetItemDropRate	ItemDropType	Fireworks
+"Silver Chest"	1000	100	1	0	0	0
+end
+
+1
+end
+	
+0
+//EventName	DropZen	ItemDropRate	ItemDropCount	SetItemDropRate	ItemDropType	Fireworks
+"Silver Chest"	10000000	100	1	0	0	0
+end
+
+1
+end

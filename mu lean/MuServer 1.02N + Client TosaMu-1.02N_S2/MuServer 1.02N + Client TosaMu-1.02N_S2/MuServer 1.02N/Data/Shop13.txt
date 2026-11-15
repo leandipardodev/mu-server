@@ -1,0 +1,17 @@
+//商店名称：未命名商店
+//生成日期：2006年4月22日
+//Edited-by-MgEdit(Ace)
+
+14 0 5 20 0 0 0 //Apple+5
+14 1 5 20 0 0 0 //Small Heal Pot+5
+14 2 5 20 0 0 0 //Medium Heal Pot+5
+14 3 5 20 0 0 0 //Large Heal Pot+5
+14 4 5 20 0 0 0 //Small Mana Pot+5
+14 5 5 20 0 0 0 //Medium Mana Pot+5
+14 6 5 20 0 0 0 //Large Mana Pot+5
+14 8 5 20 0 0 0 //Antidote+5
+14 9 0 0 0 0 0 //Alcohol
+14 10 0 0 0 0 0 //Town Scroll
+//14	12	0	0	0	0	0	//心之记忆
+14 20 0 0 0 0 0 //Love Charm
+end

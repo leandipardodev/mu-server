@@ -1,0 +1,3 @@
+Copie o arquivo Local.bmd para a pasta Data/Local
+Copie el archivo Local.bmd a la carpeta Data/Local
+Copy the Local.bmd file to the Data/Local folder

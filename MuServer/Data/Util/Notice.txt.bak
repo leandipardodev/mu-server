@@ -1,0 +1,8 @@
+//Message																																			Type	Count	Opacity	Delay	Red	  Green	 Blue	Speed	RepeatTime
+"Acesse: Mu Nega"																						10		1		255		0		255	  0		 0	 	10		20
+"Acesse: Mu Nega"																												11		1		255		0		0	  255	 0		10		45
+"Acesse: Mu Nega"							12		1		255		0		0	  0		 255	10		62
+"Acesse: Mu Nega"																								13		1		255		0		255	  255	 0		10		73
+"Acesse: Mu Nega"			14		1		255		0		255	  0		 255	10		120
+"Acesse: Mu Nega"																	15		1		255		0		0	  255	 255	10		360
+end

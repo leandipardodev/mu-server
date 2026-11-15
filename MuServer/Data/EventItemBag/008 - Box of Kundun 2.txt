@@ -1,0 +1,90 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Box of Kundun 2"	 0              100		  1		  0		    0		   0
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+7	    0	    0	       0	 0	  1      0	  2 //Excellent Bronze Helm
+8	    0	    0	       0	 0	  1      0	  2 //Excellent Bronze Armor
+9	    0	    0	       0	 0	  1      0	  2 //Excellent Bronze Pants
+10	    0	    0	       0	 0	  1      0	  2 //Excellent Bronze Gloves
+11	    0	    0	       0	 0	  1      0	  2 //Excellent Bronze Boots
+7	    0	    0	       0	 0	  1      0	  1 //Excellent Bronze Helm
+8	    0	    0	       0	 0	  1      0	  1 //Excellent Bronze Armor
+9	    0	    0	       0	 0	  1      0	  1 //Excellent Bronze Pants
+10	    0	    0	       0	 0	  1      0	  1 //Excellent Bronze Gloves
+11	    0	    0	       0	 0	  1      0	  1 //Excellent Bronze Boots 
+7	    6	    0	       0	 0	  1      0	  2 //Excellent Scale Helm
+8	    6	    0	       0	 0	  1      0	  2 //Excellent Scale Armor
+9	    6	    0	       0	 0	  1      0	  2 //Excellent Scale Pants
+10	    6	    0	       0	 0	  1      0	  2 //Excellent Scale Gloves
+11	    6	    0	       0	 0	  1      0	  2 //Excellent Scale Boots
+7	    6	    0	       0	 0	  1      0	  1 //Excellent Scale Helm
+8	    6	    0	       0	 0	  1      0	  1 //Excellent Scale Armor
+9	    6	    0	       0	 0	  1      0	  1 //Excellent Scale Pants
+10	    6	    0	       0	 0	  1      0	  1 //Excellent Scale Gloves
+11	    6	    0	       0	 0	  1      0	  1 //Excellent Scale Boots
+7	    8	    0	       0	 0	  1      0	  2 //Excellent Brass Helm
+8	    8	    0	       0	 0	  1      0	  2 //Excellent Brass Armor
+9	    8	    0	       0	 0	  1      0	  2 //Excellent Brass Pants
+10	    8	    0	       0	 0	  1      0	  2 //Excellent Brass Gloves
+11	    8	    0	       0	 0	  1      0	  2 //Excellent Brass Boots 
+7	    8	    0	       0	 0	  1      0	  1 //Excellent Brass Helm
+8	    8	    0	       0	 0	  1      0	  1 //Excellent Brass Armor
+9	    8	    0	       0	 0	  1      0	  1 //Excellent Brass Pants
+10	    8	    0	       0	 0	  1      0	  1 //Excellent Brass Gloves
+11	    8	    0	       0	 0	  1      0	  1 //Excellent Brass Boots
+7	    4	    0	       0	 0	  1      0	  2 //Excellent Bone Helm
+8	    4	    0	       0	 0	  1      0	  2 //Excellent Bone Armor
+9	    4	    0	       0	 0	  1      0	  2 //Excellent Bone Pants
+10	    4	    0	       0	 0	  1      0	  2 //Excellent Bone Gloves
+11	    4	    0	       0	 0	  1      0	  2 //Excellent Bone Boots
+7	    4	    0	       0	 0	  1      0	  1 //Excellent Bone Helm
+8	    4	    0	       0	 0	  1      0	  1 //Excellent Bone Armor
+9	    4	    0	       0	 0	  1      0	  1 //Excellent Bone Pants
+10	    4	    0	       0	 0	  1      0	  1 //Excellent Bone Gloves
+11	    4	    0	       0	 0	  1      0	  1 //Excellent Bone Boots
+7	    7	    0	       0	 0	  1      0	  2 //Excellent Sphinx Helm
+8	    7	    0	       0	 0	  1      0	  2 //Excellent Sphinx Armor
+9	    7	    0	       0	 0	  1      0	  2 //Excellent Sphinx Pants
+10	    7	    0	       0	 0	  1      0	  2 //Excellent Sphinx Gloves
+11	    7	    0	       0	 0	  1      0	  2 //Excellent Sphinx Boots
+7	    7	    0	       0	 0	  1      0	  1 //Excellent Sphinx Helm
+8	    7	    0	       0	 0	  1      0	  1 //Excellent Sphinx Armor
+9	    7	    0	       0	 0	  1      0	  1 //Excellent Sphinx Pants
+10	    7	    0	       0	 0	  1      0	  1 //Excellent Sphinx Gloves
+11	    7	    0	       0	 0	  1      0	  1 //Excellent Sphinx Boots
+7	    11	    0	       0	 0	  1      0	  2 //Excellent Silk Helm
+8	    11	    0	       0	 0	  1      0	  2 //Excellent Silk Armor
+9	    11	    0	       0	 0	  1      0	  2 //Excellent Silk Pants
+10	    11	    0	       0	 0	  1      0	  2 //Excellent Silk Gloves
+11	    11	    0	       0	 0	  1      0	  2 //Excellent Silk Boots
+7	    11	    0	       0	 0	  1      0	  1 //Excellent Silk Helm
+8	    11	    0	       0	 0	  1      0	  1 //Excellent Silk Armor
+9	    11	    0	       0	 0	  1      0	  1 //Excellent Silk Pants
+10	    11	    0	       0	 0	  1      0	  1 //Excellent Silk Gloves
+11	    11	    0	       0	 0	  1      0	  1 //Excellent Silk Boots
+7	    12	    0	       0	 0	  1      0	  2 //Excellent Wind Helm
+8	    12	    0	       0	 0	  1      0	  2 //Excellent Wind Armor
+9	    12	    0	       0	 0	  1      0	  2 //Excellent Wind Pants
+10	    12	    0	       0	 0	  1      0	  2 //Excellent Wind Gloves
+11	    12	    0	       0	 0	  1      0	  2 //Excellent Wind Boots
+7	    12	    0	       0	 0	  1      0	  1 //Excellent Wind Helm
+8	    12	    0	       0	 0	  1      0	  1 //Excellent Wind Armor
+9	    12	    0	       0	 0	  1      0	  1 //Excellent Wind Pants
+10	    12	    0	       0	 0	  1      0	  1 //Excellent Wind Gloves
+11	    12	    0	       0	 0	  1      0	  1 //Excellent Wind Boots
+0	    7	    0	       0	 1	  1      0	  2 //Excellent Flachion
+0	    13	    0	       0	 1	  1      0	  2 //Excellent Double Blade
+0	    2	    0	       0	 1	  1      0	  2 //Excellent Rapier
+0	    3	    0	       0	 1	  1      0	  2 //Excellent Katana
+1	    3	    0	       0	 1	  1      0	  2 //Excellent Tomahawk
+1	    1	    0	       0	 1	  1      0	  2 //Excellent Hand Axe
+0	    7	    0	       0	 1	  1      0	  1 //Excellent Flachion
+0	    13	    0	       0	 1	  1      0	  1 //Excellent Double Blade
+0	    2	    0	       0	 1	  1      0	  1 //Excellent Rapier
+0	    3	    0	       0	 1	  1      0	  1 //Excellent Katana
+1	    3	    0	       0	 1	  1      0	  1 //Excellent Tomahawk
+1	    1	    0	       0	 1	  1      0	  1 //Excellent Hand Axe
+end

@@ -1,0 +1,6 @@
+338|Bienvenido a Mu Nega - Temporada 2
+800|Evento bonus activo: experiencia extra
+801|El evento bonus ha terminado
+802|Invasión: aparecieron los monstruos
+803|Invasión: los monstruos se retiraron
+804|El jefe de la invasión apareció

@@ -1,0 +1,60 @@
+Start
+SkinLoad OK
+SplashTimer Enabled OK
+writing default ini file
+writing default ini file DONE
+inifile updatefile
+Set tag
+Create lists..
+BTN2 click..
+Tray ico add..
+Hide button from Taskbar..
+do timer4..
+Set Pririoty class..
+SplashTimer: OnTimer
+SplashTimer ControlControl OK
+SplashTimer Image FreeStart
+SplashTimer Image FreeEND
+SplashTimer Form - > center
+START COUNTER
+START COUNTER OK
+START COUNTER
+START COUNTER OK
+START COUNTER
+START COUNTER OK
+START COUNTER
+START COUNTER OK
+START COUNTER
+START COUNTER OK
+START COUNTER
+Start Button PUSH!
+Virtual controls cleared
+Main List Fill OK
+Already Runned Process fill start!
+Already Runned Process fill END!
+Running ....
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\joinserver\joinserver.exe" /p55970 /ca127.0.0.1 /cp55557
+START COUNTER OK
+Main Window finded!, hiding (joinserver.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\connectserver\cs.exe" 
+Main Window finded!, hiding (cs.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\dataserver1\dataserver.exe" 55960 1
+Main Window finded!, hiding (dataserver.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\dataserver2\dataserver.exe" 55962 2
+Main Window finded!, hiding (dataserver.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\exdb\exdb.exe" 127.0.0.1
+Main Window finded!, hiding (exdb.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\chatserver\chatserver.exe" 127.0.0.1
+Main Window finded!, hiding (chatserver.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\rankingserver\mu_ranking_db_server.exe" 
+Main Window finded!, hiding (mu_ranking_db_server.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\eventserver\wz_mu2003_event_server.exe" 
+Main Window finded!, hiding (wz_mu2003_event_server.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\gameserver\gameserver.exe" 127.0.0.1 55970 127.0.0.1 55960 55901
+Main Window finded!, hiding (gameserver.exe)
+Main Window finded!, hiding (gameserver.exe)
+Start"c:\proyectos\servidor mu\mu lean\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n + client tosamu-1.02n_s2\muserver 1.02n\gameserver_cs\gameserver_cs.exe" 127.0.0.1 55970 127.0.0.1 55960 55919
+Main Window finded!, hiding (gameserver_cs.exe)
+Main Window finded!, hiding (gameserver_cs.exe)
+Free memory ... all ok!
+Closing Programm
